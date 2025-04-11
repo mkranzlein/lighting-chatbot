@@ -1,0 +1,15 @@
+accelerate
+chromadb
+jupyter
+langchain
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-ollama
+langgraph
+pypdf
+sentence-transformers
+pysqlite3-binary
+torch
+transformers==4.50.3  # https://github.com/huggingface/transformers/issues/37326
+unstructured
