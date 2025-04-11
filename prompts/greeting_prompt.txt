@@ -1,0 +1,4 @@
+This is the beginning of the conversation.
+Start with a friendly greeting and ask the user what type of lighting product they're interested in.
+Mention examples like Highbay, Panel, or Accent Lights to help guide them.
+Keep it conversational and welcoming.
