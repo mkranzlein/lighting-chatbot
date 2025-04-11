@@ -13,8 +13,8 @@ from langchain_core.prompts import ChatPromptTemplate, MessagesPlaceholder
 from lighting_chatbot.prompt_loader import load_prompt
 from lighting_chatbot.unstructured_rag_chatbot import get_chain
 
-__import__('pysqlite3')
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+# __import__('pysqlite3')
+# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from langchain_chroma import Chroma  # noqa E402
 
 

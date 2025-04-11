@@ -7,8 +7,8 @@ import sys
 from langchain_community.document_loaders import DirectoryLoader
 from langchain_huggingface import HuggingFaceEmbeddings
 
-__import__('pysqlite3')
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+# __import__('pysqlite3')
+# sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 from langchain_chroma import Chroma  # noqa E402
 
 
