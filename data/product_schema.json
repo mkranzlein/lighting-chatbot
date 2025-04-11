@@ -1,0 +1,143 @@
+{
+    "type": "object",
+    "properties": {
+      "product_name": {
+        "type": "string",
+        "description": "The name or model of the lighting product"
+      },
+      "specs": {
+        "type": "object",
+        "properties": {
+          "Lumen Output": {
+            "type": "string",
+            "description": "The total luminous flux emitted by the light source, measured in lumens (lm)"
+          },
+          "Power Factor": {
+            "type": "string",
+            "description": "A measure of how effectively the electrical power is being used"
+          },
+          "Color Temperature": {
+            "type": "string",
+            "description": "The correlated color temperature (CCT) of the light emitted, measured in Kelvin (K)"
+          },
+          "Safety Classification": {
+            "type": "string",
+            "description": "The safety standards or classifications the product adheres to (e.g., Class I, Class II)"
+          },
+          "IK Rating": {
+            "type": "string",
+            "description": "A measure of the protection against mechanical impacts"
+          },
+          "Surge Protection": {
+            "type": "string",
+            "description": "The level of protection against voltage surges (e.g., in kV)"
+          },
+          "Voltage": {
+            "type": "string",
+            "description": "The operating voltage of the product (e.g., 120V, 277V)"
+          },
+          "LED Driver": {
+            "type": "string",
+            "description": "Information about the LED driver used in the product"
+          },
+          "Materials and Finishing": {
+            "type": "string",
+            "description": "The materials used in the construction of the product and its surface finish"
+          },
+          "Dimensions / Cut-out": {
+            "type": "string",
+            "description": "The physical dimensions of the product or the required cut-out size for installation"
+          },
+          "Certifications": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "description": "A list of certifications the product has obtained (e.g., UL, CE, DLC)"
+          },
+          "THD": {
+            "type": "string",
+            "description": "Total Harmonic Distortion, a measure of the distortion of the electrical waveform"
+          },
+          "Wattage": {
+            "type": "string",
+            "description": "The electrical power consumed by the product, measured in watts (W)"
+          },
+          "SDCM": {
+            "type": "string",
+            "description": "Standard Deviation of Color Matching, a measure of color consistency between LEDs"
+          },
+          "Lifetime": {
+            "type": "string",
+            "description": "The expected operational lifetime of the LED light source (e.g., in hours)"
+          },
+          "Mounting Type": {
+            "type": "string",
+            "description": "How the product is intended to be mounted (e.g., Ceiling, Wall, Pendant)"
+          },
+          "UGR": {
+            "type": "string",
+            "description": "Unified Glare Rating, a measure of the discomfort glare produced by a lighting installation"
+          },
+          "Flickering": {
+            "type": "string",
+            "description": "Indicates whether the light source exhibits noticeable flickering"
+          },
+          "Efficacy": {
+            "type": "string",
+            "description": "The ratio of luminous flux to power consumption, typically measured in lumens per watt (lm/W)"
+          },
+          "CRI": {
+            "type": "string",
+            "description": "Color Rendering Index, a measure of how accurately the light source renders colors"
+          },
+          "Operation Temperature": {
+            "type": "string",
+            "description": "The range of ambient temperatures within which the product is designed to operate"
+          },
+          "IP Rating": {
+            "type": "string",
+            "description": "Ingress Protection rating, indicating the level of protection against dust and water"
+          },
+          "Optics": {
+            "type": "string",
+            "description": "Description of the optical components used in the product (e.g., lens, reflector)"
+          },
+          "Warranty": {
+            "type": "string",
+            "description": "The warranty period offered for the product"
+          }
+        },
+        "required": [
+          "Lumen Output",
+          "Power Factor",
+          "Color Temperature",
+          "Safety Classification",
+          "IK Rating",
+          "Surge Protection",
+          "Voltage",
+          "LED Driver",
+          "Materials and Finishing",
+          "Dimensions / Cut-out",
+          "Certifications",
+          "THD",
+          "Wattage",
+          "SDCM",
+          "Lifetime",
+          "Mounting Type",
+          "UGR",
+          "Flickering",
+          "Efficacy",
+          "CRI",
+          "Operation Temperature",
+          "IP Rating",
+          "Optics",
+          "Warranty"
+        ]
+      }
+    },
+    "required": [
+      "product_name",
+      "specs"
+    ]
+  }
