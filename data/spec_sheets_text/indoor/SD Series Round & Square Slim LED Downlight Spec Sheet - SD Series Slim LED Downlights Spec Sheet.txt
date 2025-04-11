@@ -1,0 +1,397 @@
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Ordering Information
+Example:  SDS4-7L-9ACK-TRI10V-WH-UNV
+SD Series    
+Round & Square Slim LED Downlights - 4", 6", 8"
+Product Description
+The SD Series slim LED downlights offer high-quality customizable light with a CCT selectable switch. The 
+slim downlights are available in 4" and 8" square and 6" round housings to meet the requirements of all 
+can-less applications.
+Applications: New construction or retrofit
+Initial Delivered Lumens: 830 to 2,280
+Input Power: 12W to 22W
+CRI: 90+
+CCT : 2700K/3000K/3500K/4000K/5000K Selectable Switch
+Limited Warranty†: 5 years for luminaire; up to 5 years for SmartCast® accessories;  
+1 year for accessories
+Lifetime: Designed to last 50,000 hours
+Dimming: Triac/0-10V Dimming to 5%; Compatible with SmartCast® Technology, and Lutron Vive 
+through 0-10V interface 
+Ceiling mount for easy installation into new construction or retrofit applications
+Operating Temperature Range: -25°C to + 40°C (-13° F - +104° F)
+Performance Summary
+† See https://www.creelighting.com/resources/warranties/ for warranty terms. For SmartCast accessories, consult SmartCast spec sheets for details 
+on warranty terms.
+* Lumen values at 27K and 30K. Actual lumen output varies depending on CCT. Refer to Initial Delivered Lumens table for specific lumen values.
+Note: Refer to page 2 for recommended ceiling cutout dimensions.
+9ACK TRI10V WH UNV
+Family Size Lumen Package* CRI/CCT Optic Control Finish Voltage
+SDR 
+Round
+6 
+6"
+11L 
+16W, 1,350 Lumens
+9ACK 
+90 CRI, 2700K/3000K/3500K/4000K/5000K 
+- Ships from factory set at 3000K
+Blank 
+113º Beam Angle
+TRI10V 
+Triac/0-10V Dimming 
+to 5%
+WH 
+White
+UNV 
+Universal 120-277V"
+SDS 
+Square
+4 
+4"
+7L 
+12W, 830 Lumens
+9ACK 
+90 CRI, 2700K/3000K/3500K/4000K/5000K 
+- Ships from factory set at 3000K
+Blank 
+113º Beam Angle
+TRI10V 
+Triac/0-10V Dimming 
+to 5%
+WH 
+White
+UNV 
+Universal 120-277V"
+SDS 
+Square
+8 
+8"
+18L 
+22W, 2,070 
+Lumens
+9ACK 
+90 CRI, 2700K/3000K/3500K/4000K/5000K 
+- Ships from factory set at 3000K
+Blank 
+113º Beam Angle
+TRI10V 
+Triac/0-10V Dimming 
+to 5%
+WH 
+White
+UNV 
+Universal 120-277V"
+SDR Series
+SDS Series
+Dimensions
+Downlight "A" Dimension "B" Dimension Weight
+6" Round 5.1" (129mm) 6.7" (170mm) 1.1 lbs. (520g)
+4" Square 3.0" (77mm) Sq. 4.7" (120mm) Sq. 0.9 lbs. (430g)
+8" Square 6.9" (176mm) Sq. 8.9" (225mm) Sq. 1.6 lbs. (723g)
+Accessories
+Field-Installed
+SmartCast ® 10V Zone Controller
+CSC-ZC-10V-CWC
+- Intelligent sensing and control of 0-10V luminaires
+Extension Cables
+SD-RCE12 (12')
+SD-RCE20 (20')
+SDS Accessories
+Square Trim Kits (Iron w/White, Black & Silver Finishes)
+SDS4-WHBLSV (4")
+SDS6-WHBLSV (6")
+SDR Accessories
+Round Trim Kits (Iron w/White, Black & Silver Finishes)
+SDR4-WHBLSV (4")
+SDR6-WHBLSV (6")
+SDR8-WHBLSV (8")
+Plate for T-Grid Ceiling
+CDR-SDR-TGRID
+- 23.7" (602mm) x 11.9" (303mm) plate for use with 6 and 8" SDR downlights
+- Optional accessory that provides more substantial structural integrity to 
+ceiling for mounting downlights
+ 
+ A
+B
+1.34" (34mm)
+0.86" (22mm)
+0.79" (20mm)
+3" (76mm)
+6.3" (160mm)
+0.86" (22mm)
+A
+B
+1.34" (34mm)
+0.79" (20mm)
+3" (76mm)
+6.3" (160mm)
+2019 TITLE
+JA 8 HIGH EFFICACY LED LIGHT
+SOURCE REQUIREMENTS
+Rev. Date: V7 12/12/2024Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Cutout Dimensions
+Size SDR Round Cutout Dimensions SDS Square Cutout Dimensions
+4" N/A 4-11/32” (110mm) x 4-11/32” (110mm)
+6" 6-1/4” (158mm) N/A
+8" N/A 8-5/16” (211mm) x 8-5/16” (211mm)
+Product Specifications
+CONSTRUCTION & MATERIALS
+• Aluminum and iron downlight housing
+• Remote mounted iron J-Box connects to downlight with  
+a low voltage cable
+• Includes housing clips for easy installation
+• Suitable for ceilings 0.59” (15mm) to 0.79” (20mm) thick
+• Includes 16” (mm) of cable between downlight and j-box.  
+Extension accessories available 
+OPTICAL SYSTEM
+• Unique combination of optical components achieves a uniform, 
+comfortable appearance while eliminating pixelation and color fringing. 
+This ensures smooth light patterns are projected with no hot spots and 
+minimal striations 
+• Components work together to optimize distribution, balancing the 
+delivery of high illuminance levels on horizontal surfaces with an ideal 
+amount of light on walls and vertical surfaces.
+• Edge-lit LEDs, plastic light guide plate and diffuser lens shields direct 
+view of LEDs
+• CCT is adjustable via a switch on the j-box in the field to meet the 
+requirements of numerous applications
+• Beam Angle: 113º (included angle between points of 50% of maximum 
+intensity) 
+ELECTRICAL SYSTEM
+• Power Factor: > 0.9 at full load and 120V
+• Total Harmonic Distortion: < 30% at full load
+• Input Voltage: 120-277V, 50/60hz
+• Dimming: Triac/0-10V Dimming to 5% compatible with SmartCast ® 
+Technology, and Lutron Vive through 0-10V interface 
+• Compatible Triac Dimmers: Lutron TGCL-153P, CTCL-153P, DVCL-153P, 
+MACL-153M; Leviton 6674-P0, 6672-1L, IPL06-10
+• Use only lighting controls with neutral connection or controls intended 
+for use with LED fixtures
+• Operating Temperature Range:  -25°C to + 40°C (-13° F - +104° F)
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cETLus Listed
+• 4" and 8" luminaires are suitable for damp locations for  
+covered ceilings only
+• 6" luminaires are suitable for wet locations for covered ceilings only
+• Meets NEMA C82.77 standards
+• Suitable for insulated (IC) and non-insulated (non-IC) ceilings
+• Non-plenum rated
+• Requires minimum 90˚C supply conductors
+• Meets FCC Part 15, Subpart B, Class A and Class B limits for  
+conducted and radiated emissions
+• Meets CA Title 24 JA8 Requirements
+• RoHS Compliant. Consult factory for additional details
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+Installation
+• Quick install system using the housing clip system for easy install into ceiling
+• Refer to www.creelighting.com for complete install instructions
+SD Series Round & Square Slim LED Downlights - 4", 6", 8"
+SD Series Ambient Adjusted Lumen Maintenance1
+Ambient Initial  
+LMF
+25K hr  
+Reported2 
+LMF
+50K hr  
+Reported2 
+LMF
+75K hr  
+Estimated3 
+LMF
+100K hr  
+Estimated3 
+LMF
+0˚C (32˚F) 1.05 0.98 0.91 0.84 0.78
+5˚C (41˚F) 1.04 0.97 0.90 0.84 0.78
+10˚C (50˚F) 1.03 0.96 0.89 0.83 0.77
+15˚C (59˚F) 1.02 0.95 0.88 0.82 0.76
+20˚C (68˚F) 1.01 0.94 0.87 0.81 0.75
+25˚C (77˚F) 1.00 0.93 0.87 0.80 0.75
+30˚C (86˚F) 0.99 0.92 0.85 0.78 0.72
+35˚C (95˚F) 0.98 0.91 0.83 0.77 0.70
+40˚C (104˚F) 0.97 0.89 0.82 0.75 0.68
+1  Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data for the LED 
+package and in-situ luminaire testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen 
+maintenance factors.
+2  In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are up to 6x 
+the tested duration in the IES LM-80 report for the LED.
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+Electrical Data*
+Lumen Package
+System 
+Watts 
+120-277V
+Total Current (A)
+120V 208V 240V 277V
+7L 12 0.10 0.08 0.07 0.06
+11L 16 0.13 0.09 0.08 0.07
+18L 22 0.18 0.12 0.10 0.09
+Initial Delivered Lumens*
+Lumen Package
+2700K/3000K 3500K/4000K/5000K
+Initial 
+Delivered 
+Lumens*
+Efficacy (LPW)
+Initial 
+Delivered 
+Lumens*
+Efficacy (LPW)
+7L  830  69  920  77 
+11L  1,350  84  1,490  93 
+18L  2,070  94  2,280  104 
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V +/- 10%.
+* Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Reference creelighting.com/products/indoor/downlights/sd-series for detailed photometric data
+Reference creelighting.com/products/indoor/downlights/sd-series for detailed photometric data
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 372.53 N/A 27%
+0-40 609.77 N/A 44.2%
+0-60 1,078.10 N/A 78.1%
+0-90 1,381.11 N/A 100%
+0-180 1,381.11 N/A 100%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 361.91 N/A 27%
+0-40 591.25 N/A 44.2%
+0-60 1,042.72 N/A 77.9%
+0-90 1,338.54 N/A 100%
+0-180 1,338.54 N/A 100%
+Average Luminance Table  
+(cd/m2)
+Vertical Angle
+Horizontal Angle
+0° 45° 90°
+45° 27,850 27,915 27,887
+55° 26,791 26,805 26,774
+65° 25,417 25,382 25,361
+75° 23,153 23,131 22,988
+85° 19,266 18,940 16,694
+Average Luminance Table  
+(cd/m2)
+Vertical Angle
+Horizontal Angle
+0° 45° 90°
+45° 26,825 26,851 26,975
+55° 25,747 25,801 25,962
+65° 24,483 24,529 24,741
+75° 22,611 22,675 22,865
+85° 19,344 18,378 18,166
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 109 104 99 95
+2 98 90 83 77
+3 90 79 71 64
+4 82 70 61 54
+5 75 62 53 47
+6 70 56 47 41
+7 65 51 42 36
+8 60 46 38 32
+9 56 43 34 29
+10 53 39 31 26
+Effective Floor Cavity Reflectance: 20%
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 108 104 99 95
+2 98 90 83 77
+3 90 79 71 64
+4 82 70 61 54
+5 75 62 53 47
+6 70 56 47 41
+7 65 51 42 36
+8 60 46 38 32
+9 56 43 34 29
+10 53 39 31 26
+Effective Floor Cavity Reflectance: 20%
+Photometry
+SDR6-11L-9ACK-TRI10V-WH-UNV (3000K) BASED ON TEST #: PL16908-002A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%
+Photometry
+SDS6-11L-9ACK-TRI10V-WH-UNV(3000K) BASED ON TEST #: PL16907-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%
+0 20 30
+120
+241
+361
+481
+90
+70
+50
+40
+0° 90 °
+0 20 30
+117
+234
+352
+469
+90
+70
+50
+40
+0° 90 °
+SD Series Round & Square Slim LED Downlights - 4", 6", 8"© 2024 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. Patent 
+www.creelighting.com/patents . Cree Lighting ® and the Cree Lighting logo are registered trademarks of CLNA Holdings 
+LLC. SmartCast ® and the SmartCast logo are registered trademarks of Cree Lighting USA LLC. The ETL Listed Intertek 
+logo is a trademark of Intertek Testing Services NA, Inc. Lutron, the Lutron logo, and Vive are trademarks or registered 
+trademarks of Lutron Electronics Co., Inc. 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial
+Open Space: 50' x 40' x 10'
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial
+Open Space: 50' x 40' x 10'
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial
+Corridor Space: 6' x 100' x 10'
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial
+Corridor Space: 6' x 100' x 10'
+Open Space
+Spacing Lumen 
+Package Lumens Wattage LPW w/ft2 Average fc
+4 x 4 11L 1,350 16 84 0.96 76
+6 x 6 11L 1,350 16 84 0.45 35
+8 x 8 11L 1,350 16 84 0.24 19
+10 x 10 11L 1,350 16 84 0.16 13
+Open Space
+Spacing Lumen 
+Package Lumens Wattage LPW w/ft2 Average fc
+4 x 4 7L 830 12 69 0.72 47
+6 x 6 7L 830 12 69 0.34 22
+8 x 8 7L 830 12 69 0.18 12
+10 x 10 7L 830 12 69 0.12 8
+4 x 4 18L 2,070 22 94 1.32 117
+6 x 6 18L 2,070 22 94 0.62 54
+8 x 8 18L 2,070 22 94 0.33 29
+10 x 10 18L 2,070 22 94 0.22 20
+Corridor Space
+Spacing Lumen 
+Package Lumens Wattage LPW w/ft2 Average fc
+4' OC 11L 1,350 16 84 0.67 29
+6' OC 11L 1,350 16 84 0.45 20
+8' OC 11L 1,350 16 84 0.32 14
+10' OC 11L 1,350 16 84 0.27 12
+Corridor Space
+Spacing Lumen 
+Package Lumens Wattage LPW w/ft2 Average fc
+4' OC 7L 830 12 69 0.50 18
+6' OC 7L 830 12 69 0.34 12
+8' OC 7L 830 12 69 0.24 9
+10' OC 7L 830 12 69 0.20 7
+4' OC 18L 2,070 22 94 0.92 45
+6' OC 18L 2,070 22 94 0.62 31
+8' OC 18L 2,070 22 94 0.44 22
+10' OC 18L 2,070 22 94 0.37 18
+Application Reference
+SDR
+SDS
+SD Series Round & Square Slim LED Downlights - 4", 6", 8"

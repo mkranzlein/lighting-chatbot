@@ -1,0 +1,1206 @@
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Rev. Date: V7 01/15/2025
+KBL Series
+LED Low-Bay/High-Bay Luminaire - Version C
+Product Description
+KBL LED Low-Bay/High-Bay delivers 9,000 - 35,000 lumens, allowing for one-for-one replacement or
+fixture count reduction of 150W to 575W HID or up to six lamp 54W T5HO fixtures. With energy savings
+of up to 65% over traditional light sources, lightweight construction and multiple mounting options, the
+KBL is optimized for new construction or retrofit installations. The KBL delivers even illumination with
+reflector choices of aluminum, clear acrylic, clear polycarbonate, or white acrylic. Optional lenses offer
+enhanced uplight and maximum uniformity, making it ideal for a variety of applications including retail,
+gymnasiums, light manufacturing, and warehouses.
+Applications: Retail, gymnasiums, industrial, manufacturing and warehouse spaces.
+Initial Delivered Lumens: 9,000 - 35,000 lumens
+Operating Temperature Range: 9L - 18L Lumen Packages: -40˚C to 50˚C (-40˚F to +122˚F);
+24L - 35L Lumen Packages: -40˚C to 40˚C (-40˚F to +104˚F); minimum operating temperature 0˚C 
+(32˚F) for EB, SWC, SWR and SWS/SWSS
+Efficacy: Up to 178 LPW
+CRI: 80+
+CCT: 3000K, 3500K, 4000K, 5000K
+Input Voltage: 120-277 VAC or 347-480 VAC (without step-down transformer) 
+L70 Lifetime (Light Engine): > 100,000 hours at maximum operating temperature
+Limited Warranty†: 5 years for luminaire, BML, BMLS, SWC, SWR, SWS, SWSS options; up to 5 years for 
+Synapse® accessories; 1 year for luminaire accessories; 10-year luminaire warranty option also available
+Limited Warranty Emergency Back Up (EB) Battery: 1 Year Battery Back Up. Test regularly in 
+accordance with local codes
+Mounting: Universal Hook & Cord or Pendant Mount or Dedicated Pendant Mount
+Weight: Maximum 14 lbs. (6.4kg)
+Controls: 0-10V dimming to 10%, Bluetooth® Technology Enabled Multi-Level, Synapse® Wireless
+Assembled in the USA by Cree Lighting from US and imported parts
+Performance Summary
+Ordering Information
+Example: KBL-C-24L-840-MC-UL-UV-10V-C6
+KBL C
+Family Series Lumen 
+Package
+CRI/
+CCTOptic Voltage Mounting Controls Cord/Plug Options
+KBL C 9L
+9,000 
+Lumens
+12L
+12,000 
+Lumens
+18L
+18,000 
+Lumens
+24L
+24,000 
+Lumens
+30L
+30,000 
+Lumens
+35L
+35,000 
+Lumens
+830
+80CRI, 
+3000K
+835
+80CRI, 
+3500K
+840
+80CRI, 
+4000K
+850
+80CRI, 
+5000K
+MC
+Medium 
+w/Clear 
+Glass 
+Lens
+Cord Only
+UL
+Universal
+120-277V
+UH
+Universal 
+347-480V
+Cord w/
+Plug Only
+12
+120V
+25
+208-240V
+27
+277V
+34
+347V
+48
+480V
+UV
+Universal
+Hook & Cord 
+Mount w/
+Adaptor Plate 
+for
+Pendant Mount
+PD
+Dedicated 
+Pendant
+Mount
+10V 
+0-10V Dimming
+BML
+Bluet
+ooth® Technology Enabled Multi-Level Sensor 
+(Standard Reflector)
+BMLS Bluetooth® Technology Enabled Multi-Level 
+Sensor (Low-Profile Reflector)
+- Refer to BML spec sheet for details
+- 20-40' sensor lens installed on luminaire;
+8-20' sensor lens and aisle shrouds 
+included
+Synapse Wireless® Control Offerings
+- SimplySNAP On-Site Controller is required
+(see Accessory table on page 3)
+- 9L/12L available only with UL, 12, 25 & 27
+voltages
+- 18L-35L available with all voltages
+- SWR, SWS and SWSS utilize a multi-function 
+sensor
+SWC
+Synapse Wireless® Controls 
+SWR
+Synapse Wireless® Controls w/Remote Sensor 
+w/10' Cord
+SWS
+Synapse Wireless® Controls w/Network Sensor
+(Standard Reflector)
+SWSS
+Synapse Wireless® Controls w/Network Sensor
+(Low-Profile Reflector)
+UL/UH Voltages
+NC
+No cord
+- Required with PD.
+Not available with UV
+3-Conductor Cords
+- Not available with PD or EB
+C6
+6' 16/3 Cord, No Plug
+C12
+12' 16/3 Cord, No Plug
+C15
+15' 16/3 Cord, No Plug
+5-Conductor Cords
+- Required when EB option
+is selected. EB option
+includes 4-conductor cord
+(non-dimming)
+- Not available with BML/
+BMLS or SWC/SWS/SWSS
+unless EB option is also
+selected
+5C6
+6' 16/5 Cord, No Plug
+5C12
+12' 16/5 Cord, No Plug
+5C15
+15' 16/5 Cord, No Plug
+12/25/27/34/48 Voltage 
+Required
+3-Conductor Cords w/Plug
+- 15A for 120-277V; 20A for 
+347-480V
+- Not available with PD or EB
+C6P
+6' 16/3 Cord w/Twist Lock-
+Plug
+C12P
+12' 16/3 Cord w/Twist 
+Lock-Plug
+C15P
+15' 16/3 Cord w/Twist 
+Lock-Plug
+C6S
+6' 16/3 Cord w/Straight 
+Blade Plug
+- Available only in 120V
+EB 
+- Provides 20W and 90 minutes of 
+power in emergency mode 
+- Available only with UL voltage
+- Not available with plug options per
+NEC requirements 
+- Not available with 3-conductor cords
+- Requires 5-conductor cord option, 
+but provided with 4-conductor cord 
+(non-dimming) 
+PG 
+Previous Generation Compatibility 
+- Reflector mount compatible with 
+KBL-A & CXB reflectors 
+- Not available with 35L lumen 
+package 
+- Not available with BMLS or SWSS 
+controls 
+- Not available with reflectors on
+page 3 
+PP 
+Pallet Pack (Qty. 45/pallet)
+- For orders of more than 12 units
+- Not available with EB option 
+W10 
+10-Year Limited Luminaire Warranty
+Reflector "A" Height Reflector "A" Height
+KBL-ALR-16 (Aluminum) 9.0" (229mm) KBL-PCR-16 (Clear Polycarbonate) 8.5" (216mm)
+KBL-ACR-16 (Clear Prismatic Acrylic) 8.5" (216mm) KBL-ACR-16S (Low-Profile Clear Prismatic Acrylic) 4.5" (114mm)
+KBL-AWR-16 (White Acrylic) 8.5" (216mm) KBL-PCR-16S (Low-Profile Clear Polycarbonate) 4.5" (114mm)
+† See https://www.creelighting.com/resources/warranties/ for warranty terms. For Synapse accessories, consult Synapse spec sheets for details 
+on warranty terms.
+24L Lumen Package 
+Shown Fully  
+Assembled with  
+Prismatic Reflector 
+and Universal  
+Mount
+16.9"
+(430mm)
+7.7"
+(196mm)
+8.6"
+(217mm)
+16.1"
+(410mm)
+5.2"
+(132mm)
+* Lumen Package codes identify approximate light output only. Actual lumen output levels vary depending on CCT and reflector/lens selection. Refer to Delivered Lumens & Electrical Data and Reflector Illumination Performance tables for specific lumen values.
+Refer to pages 9-12 for EB, BML/BMLS low-profile reflectors, and wireless drawings.Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Product Specifications
+CONSTRUCTION & MATERIALS
+• Low-profile, lightweight design provides ease of installation
+• Die cast aluminum heatsink
+• IP65 optics with tempered glass lens protect LEDs while keeping the dust out
+• UV mount is provided with factory installed spring lock hook for mounting, and 
+an adapter plate to accept a 3/4 IP pendant (by others) 
+• UV mount offers factory-installed 3-conductor or 5-conductor white cords. 
+Cords are 14ga. or 16ga. SEOW, STOW, or SOOW. Factory-installed plug 
+options available for 3-conductor cords
+• EB luminaires require 5-conductor cord
+• PD mount is provided with factory installed pendant adaptor plate to accept a 
+3/4 IP pendant (by others)
+• 9L-35L luminaires come with a perforated driver cover, and 35L luminaires 
+with W10 option include a heat sink driver cover
+• Factory calibrated to hang straight
+• Designed for downlight applications only
+• Weight: 9L-12L: 10.4 lbs. (4.7kg); 18L-35L: 11.8 lbs. (5.4kg); add 1.6 lbs. 
+(0.7kg) for EB option
+• Includes QR code on top of the driver housing cover which provides access to: 
+Online installation instructions, Luminaire information (Part number, Serial 
+number, Build date, and Warranty end date), and Warranty claim submission form
+• Duplicate 1” and 2" QR code labels are included. 1" labels can be affixed next 
+to fixtures, on site plans, or in maintenance records. 2” labels can be scanned 
+from the ground when placed at an appropriate height
+ELECTRICAL SYSTEM
+• Input Voltage: 120-277V or 347-480V 50/60Hz
+• Power Factor: > 0.9 at full load
+• Total Harmonic Distortion: < 20% at full load
+• Operating Temperature Range: 9L - 18L Lumen Packages: -40˚C to 50˚C 
+(-40˚F to +122˚F); 24L - 35L Lumen Packages: -40˚C to 40˚C (-40˚F to 
++104˚F); minimum operating temperature for Synapse Wireless controls or 
+EB options is 0˚C (32˚F)
+• Transient Protection: 6kV/3kA tested in accordance to IEEE/ANSI
+• When code dictates fusing, a slow blow fuse or type C/D breaker should be 
+used to address inrush current
+• EB options are wired for switched emergency mode (lights can be turned off 
+without going into emergency mode)
+0-10V DIMMING
+• Continuous dimming to 10% with 0-10V DC control protocol 
+• 10V Source Current: 0.15mA
+• Use only lighting controls with neutral connection or controls intended for use 
+with LED fixtures
+• Reference dimming document for additional information 
+SYNAPSE WIRELESS
+• Connected lighting via a wireless mesh network
+• Utility grade power monitoring (+/-2%)
+• Daylight harvesting accessory (see table on page 3)
+• Scheduling, zonal control, alerts and notifications
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus Listed (UL1598; UL8750) 
+• Designed for indoor use only
+• Suitable for damp locations
+• Requires minimum 90˚C supply conductors
+• LED optics meet IP65 requirements
+• UL924 (EB options). Refer to table at right for maximum mounting heights
+• Meets FCC Part 15, Subpart B, Class A limits for conducted and radiated 
+emissions
+• Luminaire with SWC, SWR, SWS, or SWSS options meet FCC Part 15, Subpart 
+C limits for conducted and radiated emissions
+• Assembled in the USA by Cree Lighting from US and imported parts
+• Some configurations meet requirements of BAA and/or BABA. Consult factory 
+when needed for a project: www.creelighting.com/BAA-BABA
+• RoHS compliant. Consult factory for additional details
+• DLC (light engine w/o reflector) and DLC Premium qualified SKUs 
+available. Please refer to https://qpl.designlights.org/solid-state-lighting 
+for most current information
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+Product Specifications
+SYNAPSE® SIMPLYSNAP INTELLIGENT CONTROL
+The Synapse SimplySNAP platform is a highly intuitive connected lighting solution featuring 
+zone dimming, motion sensing, and daylight harvesting with utility-grade power monitoring 
+and support of up to 1000 nodes per gateway. The system features a reliable and robust self-
+healing mesh network with a browser-based interface that runs on smartphones, tablets, and 
+PCs. The integrated Synapse® Wireless Controller (SWC), Wireless Controller with Remote 
+Sensor (SWR), and Wireless Controller with Network Sensor (SWS/SWSS) take the KBL Series 
+to a new performance plateau, providing extreme energy productivity, code compliance and a 
+better light experience.
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+1 Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data for the LED  
+  package and in-situ luminaire testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen  
+  maintenance factors. 
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are
+  up to 6x the tested duration in the IES LM-80 report for the LED.
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+KBL-C Series (Light Engine) Ambient Adjusted Lumen Maintenance1
+Ambient Lumen  
+Package
+Initial 
+LMF
+25K hr 
+Reported2 
+LMF
+50K hr 
+Reported2 
+LMF
+75K hr 
+Estimated3 
+LMF
+100K hr 
+Estimated3 
+LMF
+25˚C (77˚F)
+9L-18L
+1.00 0.97 0.91 0.86 0.81
+24L-35L
+30˚C (86˚F)
+9L-18L
+0.99 0.96 0.90 0.85 0.80
+24L-35L
+35˚C (95˚F)
+9L-18L 0.99 0.95 0.90 0.85 0.80
+24L-35L 0.99 0.94 0.88 0.83 0.78
+40˚C (104˚F)
+9L-18L 0.98 0.95 0.89 0.84 0.79
+24L-35L 0.98 0.93 0.87 0.81 0.75
+45˚C (113˚F) 9L-18L 0.98 0.94 0.89 0.84 0.79
+50˚C (122˚F) 9L-18L 0.97 0.93 0.87 0.82 0.78
+Electrical Data*
+Lumen  
+Package
+System 
+Watts
+120-480V
+Total Current (A) EB System 
+Watts 
+120-277V
+Total Current (A)
+120V 208V 240V 277V 347V 480V 120V 208V 240V 277V
+9L 55 0.45 0.26 0.23 0.20 0.16 0.11 58 0.48 0.28 0.24 0.21
+12L 71 0.60 0.34 0.30 0.26 0.21 0.15 74 0.62 0.36 0.31 0.27
+18L 102 0.86 0.49 0.42 0.37 0.30 0.21 105 0.89 0.50 0.44 0.38
+24L 138 1.17 0.67 0.58 0.50 0.41 0.29 141 1.20 0.68 0.59 0.51
+30L 171 1.45 0.82 0.71 0.62 0.50 0.36 184 1.56 0.89 0.77 0.66
+35L 200 1.71 0.96 0.84 0.72 0.59 0.41 203 1.73 0.98 0.85 0.73
+Delivered Emergency Lumens 
+Lumen Package 3000K 3500K/4000K/5000K
+12L  1,600  1,700 
+12L w/KBL-ACR-16  1,590  1,680 
+24L  3,360  3,550 
+24L w/KBL-ACR-16  3,320  3,520 
+Maximum Mounting Height w/EB Options
+Acrylic Reflector 42' (12.8m)
+Acrylic Reflector w/Conical Lens 32' (9.8m)
+Short Acrylic Reflector 39' (11.9m)
+Short Acrylic Reflector w/Conical Lens 32' (9.8m)
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V
+   or 347-480V +/- 10%.
+*To calculate approximate delivered lumens in EB mode, multiply efficacy of the luminaire from page 4 or 5 by EB wattage (20W).Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+Accessories 
+16" (406mm) O.D. Reflectors
+Standard Profile Reflectors (recommended for 18L - 35L lumen 
+packages)
+KBL-ALR-16 (Single Pack)
+KBL-ALR-16-MP (10-Pack)
+- Aluminum
+KBL-ACR-16 (Single Pack)
+KBL-ACR-16-MP (10-Pack)
+- Clear Prismatic Acrylic
+KBL-AWR-16 (Single Pack)
+KBL-AWR-16-MP (10-Pack)
+- White Acrylic
+KBL-PCR-16 (Single Pack)
+KBL-PCR-16-MP (10-Pack)
+- Clear Polycarbonate
+Low-Profile Reflectors (recommended for 9L & 12L lumen packages)
+KBL-ACR-16S (Single Pack)
+KBL-ACR-16S-MP (10-Pack)
+- Clear Prismatic Acrylic
+- If ordering light engine with sensor, must order BMLS or SWSS controls
+ 
+KBL-PCR-16S (Single Pack)
+KBL-PCR-16S-MP (10-Pack)
+- Clear Polycarbonate
+- If ordering light engine with sensor, must order BMLS or SWSS controls
+Notes:
+- Single pack SKUs ship as one reflector per box
+- 10-pack SKUs require order quantities in multiples of 10, and ship together in as few boxes as possible
+- Acrylic or polycarbonate reflectors and lenses are not intended for use in environments containing airborne corrosive agents such as chemical solvents, cleaners, or cutting fluids
+- When installing acrylic reflectors in a gymnasium, it is recommended to use the FBGWH accessory
+Wire Guards
+16" (406mm) Wire Guards 
+WG-A 
+- For Aluminum Reflector 
+WG-AP
+- For Acrylic and Polycarbonate Reflectors 
+Full Body Wire Guard
+FBGWH
+- Suitable for use with reflector and lens accessories
+- 8 AWG steel construction w/painted white finish
+Note: Not for use with lens accessories
+Safety Cables
+Galvanized Safety Cables
+SC-5 (Single Cable)
+SC-5-BP (Bulk Pack of 100)
+- 5.0' (1.5m) Cable 
+SC-10 (Single Cable)
+- 10.0' (3.0m) Cable 
+Lenses
+16" (406mm) Clear Prismatic Drop Acrylic Lenses
+DLA16
+- For Aluminum Reflector
+DL16
+- For Acrylic and Polycarbonate Reflectors
+16" (406mm) Clear Conical Acrylic Lenses
+CLA16
+- For Aluminum Reflector
+CL16
+- For Acrylic and Polycarbonate Reflectors
+Note: Lenses and WG-A/WG-AP wire guard accessories can't be used together
+Field-Installed NEMA® Plugs
+AP-515P
+- 15 amp 120V Straight Blade Plug
+AP-L515P
+- 15 amp 120V Twist Lock Plug
+Note: Not for use with EB options 
+AP-L615P
+- 15 amp 240V Twist Lock Plug
+AP-L715P
+- 15 amp 277V Twist Lock Plug 
+AP-L2420P
+- 20 amp 347V Twist Lock Plug 
+AP-L820P
+- 20 amp 480V Twist Lock Plug
+Field-Installed
+Anti-Spin Adaptor
+HXB-AS
+- Anti-spin accessory for hook and cord mounting configuration
+Synapse Wireless Control Accessories
+SimplySNAP On-Site Controller
+SS450-002
+- Verizon® LTE-enabled
+- Designed for indoor applications
+- Refer to SS450-002 spec sheet for
+   details
+Synapse 10V Interface
+DIM10-220F
+- 120V-277V
+- Requires other Synapse components to complete system
+- Use to retro fit controls to existing KBL 10V projects
+- Refer to DIM10-220F spec sheet for details
+Synapse Wireless Sensor
+WSN-DPM
+- Motion and light sensor
+- Control multiple zones
+- Refer to WSN-DPM spec sheet for details
+Building Management System (BMS) Gateway
+BMS-GW-002
+- Required for BACnet integration
+- Refer to BMS-GW-002 spec sheet for details
+Synapse Wireless Switch
+WSW-02-PS
+WSW-08-PS
+- Two or eight button low-voltage wall control
+- Refer to WSW spec sheet for detailsUS:  creelighting.com   (800) 236-6800
+Canada:  creelighting-canada.com   (800) 473-1234
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+Delivered Lumens
+Luminaire Lumen 
+Package
+3000K, 80 CRI 3500K/4000K/5000K, 80 CRI
+Initial Delivered Lumens* Efficacy (LPW) Initial Delivered Lumens* Efficacy (LPW)
+Light Engine 
+Only
+9L  8,550  155  9,050 165
+12L  11,375  160  12,050 170
+18L  17,100  168  18,100 177
+24L  23,200  168  24,500 178
+30L  28,300  165  30,000 175
+35L  32,900  165  34,800 174
+KBL w/KBL-ALR-16 
+Aluminum Reflector
+9L 7,875 143 8,325 151
+12L 10,475 148 11,075 156
+18L 15,700 154 16,600 163
+24L 21,300 154 22,600 164
+30L 26,100 153 27,600 161
+35L 30,300 152 32,000 160
+KBL w/KBL-ACR-16 
+Clear Prismatic Acrylic Reflector
+9L  8,475  154  8,975 163
+12L  11,275  159  11,925 168
+18L  16,900  166  17,900 175
+24L  22,900  166  24,300 176
+30L  28,100  164  29,700 174
+35L  32,600  163  34,500 173
+KBL w/KBL-ACR-16S Low-Profile 
+Acrylic Reflector
+9L  8,475  154  8,975 163
+12L  11,275  159  11,950 168
+18L  16,900  166  17,900 175
+24L  23,000  167  24,300 176
+30L  28,100  164  29,700 174
+35L  32,600  163  34,500 173
+KBL w/KBL-AWR-16 
+White Acrylic Reflector
+9L  8,300  151  8,775 160
+12L  11,025  155  11,675 164
+18L  16,600  163  17,600 173
+24L  22,500  163  23,800 172
+30L  27,500  161  29,100 170
+35L  31,900  160  33,800 169
+KBL w/KBL-PCR-16 
+Polycarbonate Reflector
+9L  8,050  146  8,525 155
+12L  10,700  151  11,325 160
+18L  16,100  158  17,000 167
+24L  21,800  158  23,100 167
+30L  26,600  156  28,200 165
+35L  30,900  155  32,700 164
+KBL w/KBL-PCR-16S Low-Profile 
+Polycarbonate Reflector 
+9L  8,250  150  8,750 159
+12L  10,975  155  11,625 164
+18L  16,500  162  17,500 172
+24L  22,400  162  23,700 172
+30L  27,300  160  29,000 170
+35L  31,700  159  33,600 168US:  creelighting.com   (800) 236-6800
+Canada:  creelighting-canada.com   (800) 473-1234
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+Delivered Lumens
+Luminaire Lumen 
+Package
+3000K, 80 CRI 3500K/4000K/5000K, 80 CRI
+Initial Delivered Lumens* Efficacy (LPW) Initial Delivered Lumens* Efficacy (LPW)
+KBL w/KBL-ALR-16 Aluminum 
+Reflector and CLA16 Conical or DLA16 
+Drop Lens
+9L 7,025 128 7,425 135
+12L 9,325 131  9,875 139
+18L 14,025 138 14,850 146
+24L 19,000 138 20,100 146
+30L 23,200 136 24,600 144
+35L 27,000 135 28,600 143
+KBL w/KBL-ACR-16 Clear Prismatic 
+Acrylic Reflector and CL16 Conical or 
+DL16 Drop Lens
+9L  8,200  149  8,700 158
+12L  10,925  154  11,575 163
+18L  16,400  161  17,400 171
+24L  22,200  161  23,500 170
+30L  27,200  159  28,800 168
+35L  31,600  158  33,400 167
+KBL w/KBL-ACR-16S Low-Profile 
+Acrylic Reflector  and CL16 Conical or 
+DL16 Drop Lens
+9L  7,975  145  8,450 154
+12L  10,625  150  11,250 158
+18L  15,900  156  16,900 166
+24L  21,600  157  22,900 166
+30L  26,400  154  28,000 164
+35L  30,700  154  32,500 163
+KBL w/KBL-AWR-16 White Acrylic 
+Reflector and CL16 Conical or DL16 
+Drop Lens
+9L  7,900  144  8,375 152
+12L  10,525  148  11,150 157
+18L  15,800  155  16,700 164
+24L  21,400  155  22,700 164
+30L  26,200  153  27,800 163
+35L  30,400  152  32,200 161
+KBL w/KBL-PCR-16 Polycarbonate 
+Reflector and CL16 Conical or DL16 
+Drop Lens
+9L  7,600  138  8,050 146
+12L  10,125  143  10,725 151
+18L  15,200  149  16,100 158
+24L  20,600  149  21,800 158
+30L  25,200  147  26,700 156
+35L  29,300  147  31,000 155
+KBL w/KBL-PCR-16S Low-Profile Poly-
+carbonate Reflector and CL16 Conical 
+or DL16 Drop Lens
+9L  7,725  140  8,200 149
+12L  10,300  145  10,900 154
+18L  15,500  152  16,400 161
+24L  21,000  152  22,200 161
+30L  25,600  150  27,100 158
+35L  29,800  149  31,500 158
+* Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+Photometry
+KBL-C-24L-840-MC-UL-xx-10V-xxxx BASED ON RESTL TEST REPORT #: PL17920-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Photometry
+KBL-C-24L-840-MC-UL-xx-10V-xxxx w/KBL-ALR-16 BASED ON RESTL TEST REPORT #: PL17958-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 105 101 98
+2 100 92 86 80
+3 91 81 73 67
+4 84 72 63 57
+5 77 64 55 49
+6 71 58 49 43
+7 66 52 44 38
+8 61 48 39 33
+9 57 44 36 30
+10 53 40 32 27
+Effective Floor Cavity Reflectance: 20%
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 113 109 106 104
+2 106 100 95 91
+3 99 91 85 81
+4 93 84 77 72
+5 87 77 70 64
+6 81 70 63 58
+7 76 65 57 52
+8 71 60 52 48
+9 66 55 48 43
+10 52 51 44 39
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 397,040 398,827 399,988
+55˚ 377,403 376,935 376,977
+65˚ 314,910 315,104 311,959
+75˚ 193,363 193,669 193,514
+85˚ 49,508 50,644 52,513
+Average Luminance Table (cd/m2)
+Vertical Angle
+Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 53,448 54,780 56,770
+55˚ 5,227 5,413 5,401
+65˚ 1,676 1,725 1,722
+75˚ 816 841 834
+85˚ 431 447 444
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 6,776 N/A 28.1%
+0-40 11,207 N/A 46.4%
+0-60 20,000 N/A 82.9%
+0-90 24,130 N/A 100%
+0-180 24,130 N/A 100%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 9,997 N/A 44.9%
+0-40 17,696 N/A 79.5%
+0-60 22,123 N/A 99.4%
+0-90 22,259 N/A 100%
+0-180 22,259 N/A 100%
+0˚ 20˚
+50˚
+70˚
+90˚
+3536
+0
+14145
+7072
+10608
+90˚ 0˚
+0˚ 20˚
+50˚
+70˚
+90˚
+2152
+0
+8607
+4304
+6455
+90˚ 0˚Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+Photometry
+KBL-C-24L-840-MC-UL-xx-10V-xxxx w/KBL-ACR-16S BASED ON RESTL TEST REPORT #: PL17952-001B
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Photometry
+KBL-C-24L-840-MC-UL-xx-10V-xxxx w/KBL-ACR-16 BASED ON RESTL TEST REPORT #: PL17924-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 106 102 99
+2 101 94 87 82
+3 92 83 75 69
+4 85 74 65 59
+5 78 66 57 51
+6 72 59 51 45
+7 67 54 45 39
+8 62 49 41 35
+9 58 45 37 32
+10 54 41 34 29
+Effective Floor Cavity Reflectance: 20%
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 106 103 99
+2 102 94 89 84
+3 94 84 77 71
+4 86 76 68 62
+5 80 68 60 54
+6 74 62 54 48
+7 69 57 49 43
+8 65 52 44 39
+9 60 48 40 35
+10 57 44 37 32
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 49,872 49,840 49,817
+55˚ 40,082 40,023 40,306
+65˚ 24,179 24,296 23,885
+75˚ 4,325 3,976 3,780
+85˚ 1,471 1,475 1,449
+Average Luminance Table (cd/m2)
+Vertical Angle
+Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 30,156 31,328 32,254
+55˚ 24,211 24,354 24,427
+65˚ 16,952 16,818 16,359
+75˚ 4,034 3,952 3,855
+85˚ 899 909 947
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 7,107 N/A 29.4%
+0-40 11,855 N/A 49.1%
+0-60 20,838 N/A 86.3%
+0-90 23,791 N/A 98.5%
+90-180 361 N/A 1.5%
+0-180 24,152 N/A 100%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 8,643 N/A 36.3%
+0-40 13,616 N/A 57.2%
+0-60 20,513 N/A 86.2%
+0-90 23,355 N/A 98.2%
+90-180 440 N/A 1.8%
+0-180 23,795 N/A 100%
+0˚ 20˚
+50˚
+70˚
+90˚
+2206
+0
+8824
+4412
+6618
+90˚ 0˚
+0˚ 20˚
+50˚
+70˚
+90˚
+2819
+0
+11275
+5637
+8456
+90˚ 0˚Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+Photometry
+KBL-C-24L-840-MC-UL-xx-10V-xxxx w/KBL-AWR-16 BASED ON RESTL TEST REPORT #: PL17946-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Photometry
+KBL-C-24L-840-MC-UL-xx-10V-xxxx w/KBL-PCR-16 BASED ON RESTL TEST REPORT #: PL17949-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 117 117 117 117
+1 109 104 101 97
+2 100 93 87 83
+3 93 84 77 71
+4 86 76 68 62
+5 80 69 61 55
+6 75 63 55 50
+7 70 58 50 45
+8 65 53 46 40
+9 61 49 42 37
+10 58 46 39 34
+Effective Floor Cavity Reflectance: 20%
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 107 103 100
+2 102 95 89 85
+3 94 85 78 73
+4 87 77 69 63
+5 81 69 61 56
+6 75 63 55 49
+7 70 58 50 44
+8 65 53 45 40
+9 61 49 41 36
+10 58 45 38 33
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 26,399 26,785 27,773
+55˚ 11,917 11,935 11,931
+65˚ 10,265 10,302 10,310
+75˚ 7,337 7,370 7,378
+85˚ 4,399 4,430 4,433
+Average Luminance Table (cd/m2)
+Vertical Angle
+Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 28,840 29,267 30,005
+55˚ 21,446 21,569 21,351
+65˚ 14,252 14,572 14,461
+75˚ 3,105 2,999 2,960
+85˚ 914 869 880
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 8,745 N/A 37.9%
+0-40 13,918 N/A 60.3%
+0-60 18,718 N/A 81.1%
+0-90 21,491 N/A 93.1%
+90-180 1,597 N/A 6.9%
+0-180 23,088 N/A 100%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 8,714 N/A 38.3%
+0-40 13,700 N/A 60.1%
+0-60 19,974 N/A 87.8%
+0-90 22,390 N/A 98.4%
+90-180 371 N/A 1.6%
+0-180 22,761 N/A 100%
+0˚ 20˚
+50˚
+70˚
+90˚
+2695
+0
+10780
+5390
+8085
+90˚ 0˚
+0˚ 20˚
+50˚
+70˚
+90˚
+2828
+0
+11313
+5657
+8485
+90˚ 0˚Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+Photometry
+KBL-C-24L-840-MC-UL-xx-10V-xxxx w/KBL-PCR-16S BASED ON RESTL TEST REPORT #: PL17955-001B
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 106 103 99
+2 101 94 88 83
+3 93 83 76 70
+4 85 74 66 60
+5 79 66 58 52
+6 73 60 51 45
+7 67 54 46 40
+8 63 50 41 36
+9 58 45 37 32
+10 55 42 34 29
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 49,669 49,659 49,678
+55˚ 39,652 39,793 39,846
+65˚ 21,959 22,006 21,486
+75˚ 3,167 2,908 2,868
+85˚ 1,363 1,335 1,332
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 7,093 N/A 29.9%
+0-40 11,867 N/A 50.1%
+0-60 20,801 N/A 87.8%
+0-90 23,414 N/A 98.8%
+90-180 279 N/A 1.2%
+0-180 23,693 N/A 100%
+Optional Reflectors/Lens: shown fully assembled with universal mount
+Aluminum Reflector w/Drop Lens Clear Prismatic Acrylic Reflector White Acrylic Reflector w/Conical Lens
+Drop Lens
+9.6"
+(244mm)
+3.5"
+(90mm)
+15.9"
+(404mm) Clear Conical Lens
+16.0"
+(406mm)
+1.5"
+(38mm)
+1.5"
+(38mm)
+0˚ 20˚
+50˚
+70˚
+90˚
+2199
+0
+8796
+4398
+6597
+90˚ 0˚Shown w/KBL-ACR-16 Reflector Shown w/KBL-ACR-16 Reflector
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+KBL 35L w/W10
+KBL 9L-35L
+16.9"
+(430mm)
+7.7"
+(196mm)
+7.7"
+(196mm)
+7.7"
+(196mm)
+8.6"
+(217mm)
+4.6"
+(116mm)
+4.6"
+(116mm)
+16.1"
+(410mm)
+16.1"
+(410mm)
+16.1"
+(410mm)
+5.2"
+(132mm)
+5.2"
+(132mm)
+5.2"
+(132mm)
+Reflector Uplight Illumination Performance 
+Reflector % Uplight Reflector % Uplight
+KBL-ALR-16 (Aluminum) 0% KBL-PCR-16 (Clear Polycarbonate) 1.6%
+KBL-ALR-16 w/CLA16 (Aluminum w/Clear Conical Lens) 0% KBL-PCR-16 w/CL16 (Clear Polycarbonate w/Clear Conical Lens) 3.9%
+KBL-ALR-16 w/DLA16 (Aluminum w/Clear Drop Lens) 1.3% KBL-PCR-16 w/DL16 (Clear Polycarbonate w/Clear Drop Lens) 5.9%
+KBL-ACR-16 (Clear Prismatic Acrylic) 1.9% KBL-ACR-16S (Low-Profile Clear Prismatic Acrylic) 1.5%
+KBL-ACR-16 w/CL16 (Clear Prismatic Acrylic w/Clear Conical Lens) 4.4% KBL-ACR-16S w/CL16 (Low-Profile Clear Prismatic Acrylic w/Clear Conical Lens) 5.0%
+KBL-ACR-16 w/DL16 (Clear Prismatic Acrylic w/Clear Drop Lens) 6.3% KBL-ACR-16S w/DL16 (Low-Profile Clear Prismatic Acrylic w/Clear Drop Lens) 5.5%
+KBL-AWR-16 (White Acrylic) 6.9% KBL-PCR-16S (Low-Profile Clear Polycarbonate) 1.2%
+KBL-AWR-16 w/CL16 (White Acrylic w/Clear Conical Lens) 9.6% KBL-PCR-16S w/CL16 (Low-Profile Clear Polycarbonate w/Clear Conical Lens) 4.4%
+KBL-AWR-16 w/DL16 (White Acrylic w/Clear Drop Lens) 10.1% KBL-PCR-16S w/DL16 (Low-Profile Clear Polycarbonate w/Clear Drop Lens) 4.9%
+Reference https://www.creelighting.com/products/indoor/high-bay-low-bay/kbl-series/ for detailed photometric data.
+Shown w/KBL-ACR-16 Reflector
+Shown w/KBL-ACR-16 Reflector
+Shown w/KBL-ACR-16S Reflector
+Shown w/KBL-ACR-16S Reflector
+16.9"
+(430mm)
+7.7"
+(196mm)
+8.6"
+(217mm)
+16.1"
+(410mm)
+5.2"
+(132mm)
+KBL 9L-12L w/EB KBL 18L-35L w/EB
+16.9"
+(430mm)
+16.9"
+(430mm)
+16.1"
+(410mm)
+16.1"
+(410mm)
+7.7"
+(196mm)
+7.7"
+(196mm)
+4.8"
+(121mm)
+5.2"
+(132mm)
+5.2"
+(132mm)
+6.5"
+(166mm)
+8.6"
+(217mm)
+8.6"
+(217mm)Shown w/KBL-ACR-16 Reflector
+Shown w/KBL-ACR-16S Reflector
+Shown w/KBL-ACR-16 Reflector
+Shown w/KBL-ACR-16 Reflector
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+KBL 9L-35L w/UL Voltage & BML KBL 9L-35L w/UH Voltage & BML
+KBL 35L w/EB & W10
+KBL 9L-35L w/UL Voltage & BMLS
+21"
+(534mm)
+24"
+(610mm)
+16.9"
+(430mm)
+16.9"
+(430mm)
+16.1"
+(410mm)
+16.1"
+(410mm)
+16.1"
+(410mm)
+16.1"
+(410mm)
+7.7"
+(196mm)
+7.7"
+(196mm)
+7.7"
+(196mm)
+7.7"
+(196mm)
+5.2"
+(132mm)
+5.2"
+(132mm)
+5.2"
+(132mm)
+5.2"
+(132mm)
+6.5"
+(166mm)
+8.6"
+(217mm)
+8.6"
+(217mm)
+9.1"
+(232mm)
+6"
+(152mm)
+8.6"
+(217mm)
+4.6"
+(116mm)
+5.1"
+(130mm)
+KBL 35L w/UL Voltage, BML & W10
+21"
+(534mm)
+16.1"
+(410mm)
+7.7"
+(196mm)
+5.2"
+(132mm)
+8.6"
+(217mm)
+9.1"
+(232mm)
+Shown w/KBL-ACR-16 ReflectorKBL 9L-35L w/SWS
+KBL 9L-35L w/SWSS
+16.9"
+(430mm)
+16.1"
+(410mm)
+7.7"
+(196mm)
+5.2"
+(132mm)
+5.8"
+(147mm)
+4.6"
+(116mm)
+5.1"
+(130mm)
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KBL 9L-35L w/SWC
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+21"
+(534mm)
+16.1"
+(410mm)
+7.7"
+(196mm)
+5.2"
+(132mm)
+5.8"
+(147mm)
+8.6"
+(217mm)
+9.1"
+(232mm)
+16.9"
+(430mm)
+16.1"
+(410mm)
+7.7"
+(196mm)
+5.2"
+(132mm)
+5.8"
+(147mm)
+8.6"
+(217mm)
+Shown w/KBL-ACR-16 Reflector
+Shown w/KBL-ACR-16 Reflector
+Shown w/KBL-ACR-16S Reflector© 2025 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. 
+Patent www.creelighting.com/patents. Cree Lighting® and the Cree Lighting logo are registered trademarks of 
+CLNA Holdings LLC. NEMA® is a registered trademark of the National Electrical Manufacturers Association. 
+The UL logo is a registered trademark of UL LLC. Synapse® is a registered trademark of Synapse Wireless, Inc. 
+Verizon® is a registered trademark of Verizon Trademark Services LLC. The Bluetooth® word mark and logos are 
+registered trademarks owned by Bluetooth SIG, Inc. and any use of such marks is under license. Other trademarks, 
+service marks, and trade names are those of their respective owners. IOS is a registered trademark or trademark 
+of Cisco Systems, Inc. and/or its affiliates in the United States and certain other countries. Apple and App Store are 
+trademarks of Apple Inc. Android is a trademark of Google, Inc. The DLC QPL, DLC QPL Premium and the DLC LUNA 
+Logos are the registered and unregistered trademarks of Efficiency Forward, Inc.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KBL Series LED Low-Bay/High-Bay Luminaire - Version C
+Replacement Kits
+EB Replacement Kits (120-277V only)
+- Replaces EB driver in existing luminaire
+KBL-C-EBKIT-1 (20W, all lumen packages)
+BML Replacement Kits
+- Replaces BML option in existing luminaire
+KBL-C-BMLKIT-UL (120-277V, Standard Reflector)
+KBL-C-BMLKIT-UH (347-480V, Standard Reflector)
+KBL-C-BMLKIT-UL-S (120-277V, Short Reflector)
+KBL-C-BMLKIT-UH-S (347-480V, Short Reflector)
+KBL-C-DVRKIT
+Product Lumen Package Voltage Control
+KBL-C-DVRKIT 9L 
+9,000 Lumens 
+12L 
+12,000 Lumens 
+18L 
+18,000 Lumens 
+24L 
+24,000 Lumens 
+30L 
+30,000 Lumens 
+35L 
+35,000 Lumens
+UL 
+120-277V 
+UH 
+347-480V
+10V 
+0-10V Dimming 
+- For use with luminaires with 10V or BML/BMLS options 
+SWX 
+Synapse 
+- For use with SWC, SWR, SWS and SWSS options 

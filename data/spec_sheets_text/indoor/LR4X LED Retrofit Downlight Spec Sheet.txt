@@ -1,0 +1,294 @@
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Rev. Date: V6  02/11/2025
+† See https://www.creelighting.com/resources/warranties/ for warranty terms
+LR4X
+Series Initial Delivered Lumens CCT Voltage Base Type
+LR4X 7L
+8W, 650 lumens – 81 LPW
+10L
+12.5W, 1,050 lumens – 84 LPW 
+18L
+20.5W, 1,800 lumens – 88 LPW
+27K 
+2700K
+30K 
+3000K
+35K 
+3500K
+40K 
+4000K
+Blank
+120-277 Volts
+Blank
+Includes provisions for mounting to E26 and GU24 sockets (120V) and 120-277V rated LED orange 
+connectors (120-277V)
+Trim
+LXT4BB
+Flat Black Reflector w/Black Flange
+Ordering Information
+Example: LR4X-7L-27K
+Housing & Trim
+Reference Housing & Trim documents for more details
+Housings 
+GU24 Base Housings
+Recessed Housings, 120V
+RR4-GU24
+- Retrofit
+Universal 120-277V Housings
+Recessed Housings, 120-277V
+RC4-UNI
+-New Construction
+RR4-UNI
+-Retrofit
+277VEdison GU24
+Product Description
+The LR4X™ downlight is an unparalleled combination of light quality and efficacy – bringing 
+outstanding performance and value to the retrofit downlight space. Delivering up to 
+1800 lumens of exceptional 90+ CRI light while achieving up to 88 lumens per watt, this 
+breakthrough performance is achieved by combining the high efficacy with an integrated 
+driver and thermal management design. The LR4X™ downlight is available in warm or 
+neutral color temperatures, three lumen packages, and a black reflector/flange trim option.
+Applications: Commercial new construction and retrofit
+Performance Summary
+Utilizes Cree TrueWhite® Technology
+Initial Delivered Lumens: 650 - 1,800
+Input Power : 8 - 20.5 watts
+CRI: 90+
+R9: >54
+CCT: 2700K, 3000K, 3500K, 4000K
+Limited Warranty†: 10 years for luminaire, 1 year for trim and housings
+L70 Lifetime: > 100,000 hours at 35˚C
+Dimming: Dimmable to 5%
+LRX Series
+LR4X™ LED Downlight – 4"
+3.4"
+(87mm)
+3.3"
+(84mm)
+5.1"
+(130mm)
+3.2"
+(82mm)
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+NOTE: Reference https://www.creelighting.com/products/indoor/
+retrofit-downlights/lrx-series for detailed installation instructions
+   
+  
+ 
+INSTALLATION
+• Designed to easily install in 4" (102mm) 
+downlight housings with minimum housing 
+height of 5" (127mm) and diameter of 4" to 
+4.1" (102mm - 104mm)
+• Quick install system utilizes a unique  
+retention feature. Simply attach socket to 
+LR4X. Move light to ready position and slide 
+into housing
+Electrical Data*
+Lumen
+Package
+System 
+Watts
+120-277V
+Total Current (A)
+120V 208V 240V 277V
+7L 8 0.09 0.05 0.04 0.04
+10L 12.5 0.13 0.08 0.07 0.06
+18L 20.5 0.19 0.11 0.09 0.08
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V +/- 10%
+LRX (LR4X) Series Ambient Adjusted Lumen Maintenance1
+Ambient Lumen
+Package
+Initial
+LMF
+25K hr
+Reported2
+LMF
+50K hr
+Reported2
+LMF
+75K hr
+Estimated3
+LMF
+100K hr
+Estimated3
+LMF
+0˚C (32˚F) All 1.03 1.00 0.97 0.95 0.93
+5˚C (41˚F) All 1.03 1.00 0.97 0.95 0.93
+10˚C (50˚F) All 1.02 0.99 0.96 0.94 0.92
+15˚C (59˚F) All 1.01 0.98 0.95 0.93 0.91
+20˚C (68˚F)
+7L-10L 1.01 0.98 0.95 0.93 0.91
+18L 1.01 0.96 0.92 0.89 0.85
+25˚C (77˚F)
+7L-10L 1.00 0.97 0.95 0.92 0.90
+18L 1.00 0.95 0.91 0.88 0.84
+30˚C (86˚F)
+7L-10L 0.99 0.96 0.94 0.91 0.89
+18L 0.99 0.93 0.88 0.83 0.79
+35˚C (95˚F) 7L-10L 0.99 0.96 0.94 0.91 0.89
+1 Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data for the LED
+  package and in-situ luminaire testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen
+  maintenance factors.
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are
+  up to 6x the tested duration in the IES LM-80 report for the LED.
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+Product Specifications
+CREE TRUEWHITE® TECHNOLOGY
+A revolutionary way to generate high-quality white light, Cree TrueWhite® 
+Technology is a patented approach that delivers an exclusive combination 
+of 90+ CRI, beautiful light characteristics and lifelong color consistency, all 
+while maintaining high luminous efficacy – a true no compromise solution.
+CONSTRUCTION & MATERIALS
+• Durable aluminum housing protects the light source. Adjustable flip 
+clips provide robust retention for flush ceiling fit
+• Thermal management system uses integral heat sink to conduct heat 
+away from LEDs for optimal performance. LED junction temperatures 
+stay below specified maximum even when installed in with worst case 
+installations
+• Suitable for insulated and non-insulated ceilings
+• One-piece aluminum lower reflector redirects light while also 
+conducting heat away from LEDs. It creates a comfortable visual 
+transition from the lens to the ceiling plane and easily accommodates 
+LXT4 snap-in trim
+OPTICAL SYSTEM
+• Unique combination of reflective and refractive optical components 
+achieves a uniform, comfortable appearance while eliminating 
+pixelation, hot spots and minimizing glare
+• Components work together to optimize distribution, balancing the 
+delivery of high illuminance levels on horizontal surfaces with an ideal 
+amount of light on walls and vertical surfaces. This increases the 
+perception of spaciousness
+• Deep set polycarbonate diffusing lens shields direct view of LEDs and 
+provides greater visual cut-off
+• Beam Angle (included angle between points of 50% of max. intensity): 
+~ 85o
+• Field Angle (included angle between points of 10% of max. intensity): ~ 
+140o
+ELECTRICAL SYSTEM
+• Integral, high-efficiency driver and power supply
+• Power Factor: > 0.9 (120V)
+• Total Harmonic Distortion: < 20% (120V)
+• Input Voltage: 120V - 277V Universal, 50/60Hz
+• 120V is dimmable to 5% with most incandescent dimmers
+• 277V is dimmable to 5% with most trailing edge dimmers
+• Reference https://www.creelighting.com/products/indoor/retrofit-down-
+lights/lrx-series for recommended dimmers
+• Operating Temperature Range: -25˚C - +35˚C (-13˚F - +95˚F); 
+For 18L: -25°C - +30°C (-13°F - + 86°F)
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus Classified
+• Suitable for wet locations for covered ceilings only
+• Meets CA Title 24 JA8 Requirements
+• Meets CA Title 20 Appliance Regulations
+• Meets FCC Part 15, Subpart B, Class B limits for conducted and radiated 
+emissions
+• RoHS Compliant. Consult factory for additional details
+•            CA RESIDENTS WARNING: Cancer and Reproductive Harm –
+              www.p65warnings.ca.gov
+LR4X™ LED Downlight – 4" 
+   
+  
+Photometry
+LR4X-10L-27K BASED ON CESTL REPORT TEST #: PL14942-001A
+Fixture photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a fixture efficiency of 100%.
+Coefficients of Utilization-
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 111 107 103 100
+2 102 96 90 85
+3 95 86 79 73
+4 88 77 70 64
+5 82 70 62 57
+6 76 64 56 50
+7 71 59 51 45
+8 66 54 46 41
+9 62 50 43 38
+10 59 47 39 34
+Open Space
+Spacing Lumen 
+Package
+Initial 
+Delivered
+Lumens
+Wattage LPW w/ft2 Average fc
+4x4
+7L 650 8 81 0.48 38
+10L 1,050 12.5 84 0.75 62
+18L 1,800 20.5 88 1.23 106
+6x6
+7L 650 8 81 0.22 18
+10L 1,050 12.5 84 0.35 29
+18L 1,800 20.5 88 0.57 50
+8x8
+7L 650 8 81 0.12 10
+10L 1,050 12.5 84 0.19 16
+18L 1,800 20.5 88 0.31 26
+10x10
+7L 650 8 81 0.08 6
+10L 1,050 12.5 84 0.13 10
+18L 1,800 20.5 88 0.21 17
+Corridor Space
+Spacing Lumen
+Package
+Initial 
+Delivered
+Lumens
+Wattage LPW w/ft2 Average fc
+4' OC
+7L 650 8 81 0.33 14
+10L 1,050 12.5 84 0.52 22
+18L 1,800 20.5 88 0.85 38
+6' OC
+7L 650 8 81 0.23 9
+10L 1,050 12.5 84 0.35 15
+18L 1,800 20.5 88 0.58 26
+8' OC
+7L 650 8 81 0.16 6
+10L 1,050 12.5 84 0.25 10
+18L 1,800 20.5 88 0.41 17
+10' OC
+7L 650 8 81 0.13 6
+10L 1,050 12.5 84 0.21 9
+18L 1,800 20.5 88 0.34 15
+Average Luminance Table (cd/m2)
+Vertical Angle
+Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 62,263 62,263 62,263
+55˚ 44,079 44,079 44,079
+65˚ 29,448 29,448 29,448
+75˚ 22,734 22,734 22,734
+85˚ 17,156 17,156 17,156
+Reference https://www.creelighting.com/products/indoor/retrofit-downlights/lrx-series for detailed photometric data
+Effective Floor Cavity Reflectance: 20%
+Open Space: 50’ Wide x 40’ Long x 10' Ceiling, 80/50/20 Reflectances, 2.5 workplane. LLF: 1.0 Initial. Corridor: 6’ Wide x 100’ Long x 10' Ceiling, 80/50/20 Reflectances, Light levels on the ground. LLF: 1.0 Initial.
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 412 N/A 39.3%
+0-40 632 N/A 60.4%
+0-60 936 N/A 89.5%
+0-90 1046 N/A 100%
+0-180 1046 N/A 100%
+0˚ 20˚
+50˚
+70˚
+90˚
+141
+0
+283
+424
+565
+0˚ 90˚
+Application Reference
+© 2025 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. Patent 
+www.creelighting.com/patents.LR4X™ is a trademark of Cree Lighting USA LLC. Cree Lighting® and the Cree Lighting 
+logo are registered trademarks of CLNA Holdings LLC.TrueWhite®, Cree TrueWhite® and the Cree TrueWhite Technology 
+logo are registered trademarks of CREELED, Inc. The UL logo is a registered trademark of UL LLC.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+LR4X™ LED Downlight – 4" 

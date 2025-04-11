@@ -1,0 +1,304 @@
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Ordering Information
+Example: CR6T-G-1600L-27K-1227
+CRT-G Series    
+CR6T-G LED Gimbal Downlight - 6” (152mm)
+Product Description
+The new CR6T-G LED downlight delivers up to 1,600 lumens while achieving over 91 lumens per watt. Ideal 
+for accent and wall wash lighting, this breakthrough performance is achieved by combining the high efficacy 
+and high-quality 90 CRI light. The CR6T is available in warm and cool color temperatures, and easily installs 
+into most standard five-inch or six-inch recessed IC or non-IC housings.
+Applications: New construction or upgrade for residential and commercial lighting
+Initial Delivered Lumens: 825 Lumens - 1600 Lumens
+Input Power: 9 watts, 12.8 watts, 18.8 watts
+CRI: 90+
+CCT : 2700K, 3000K, 3500K, 4000K
+Limited Warranty†: 5 years for luminaire, 1 year for accessories and housings
+Lifetime: Designed to last 50,000 hours
+Dimming: Dimmable to 5% (At 120V Only)
+Tilt: 35° Tilt, with 360°rotation
+Rated for Dry, Damp, and Wet Locations
+Performance Summary
+† See https://www.creelighting.com/resources/warranties/ for warranty terms
+Housings
+Refer to page three for details.
+ 4.7"
+(120mm)
+Ø7.4"
+(Ø188mm)
+Ø5.3"
+(Ø135mm)
+Rev. Date: V7 12/19/2024
+CR6T-G 1227
+Ordering Information Additional Information
+Series Initial Delivered Lumens CCT Voltage Base Type Single Carton UPC Single Cartons/ 
+Master Carton Master Carton ITF-14
+CR6T-G
+6” 
+(152mm)
+825L
+9W, 825 Lumens - 91 LPW
+30K 
+3000K
+1227
+120-277 
+Volts 
+(Univer-
+sal)
+Blank 
+Includes E26 (Title 20 Compliant), GU24 
+Base (Title 24  
+Compliant), and 277V Connector Pigtails
+849665037590 6 10849665037597
+35K 
+3500K
+849665037606 6 10849665037603
+40K 
+4000K
+849665037613 6 10849665037610
+1100L
+12.8W, 1100 Lumens - 85 LPW
+30K 
+3000K
+849665037637 6 10849665037634
+35K 
+3500K
+849665037644 6 10849665037641
+1600L
+18.8W, 1600 Lumens - 85 LPW
+27K 
+2700K
+849665037668 6 10849665037665
+30K 
+3000K
+849665037675 6 10849665037672
+35K 
+3500K
+849665037682 6 10849665037689
+40K 
+4000K
+849665037699 6 10849665037696Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Reference https://www.creelighting.com/products/indoor/retrofit-downlights/crt-series for detailed photometric data
+Photometry
+CR6T-G-1600L-27K-1227 BASED ON CESTL REPORT TEST #: PL15479-001B  
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies 
+the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+NOTE: Reference https://www.creelighting.com/products/indoor/retrofit-downlights/crt-
+series for detailed installation instructions
+0˚ 20˚
+50˚
+70˚
+90˚
+239
+0
+955
+478
+716
+0˚ 90˚
+Product Specifications
+CREE TRUEWHITE® TECHNOLOGY
+A revolutionary way to generate high-quality white light, Cree TrueWhite® 
+Technology is a patented approach that delivers an exclusive combination 
+of 90+ CRI, beautiful light characteristics and lifelong color consistency, all 
+while maintaining high luminous efficacy – a true no compromise solution.
+CONSTRUCTION & MATERIALS
+• Durable upper housing protects LEDs, driver and power supply.  
+Adjustable flip clips resist heat while providing retention for flush  
+ceiling fit
+• Thermal management system uses both upper housing and lower 
+reflector to conduct heat away from LEDs and transfer it to the plenum 
+space for optimal performance. LED junction temperatures stay below 
+specified maximum even when installed in insulated ceilings
+• Suitable for insulated and non-insulated ceilings
+• One-piece aluminum lower reflector redirects light while also  
+conducting heat away from LEDs. It creates a comfortable visual  
+transition from the lens to the ceiling plane
+• 35° Tilt, with 360°rotation
+OPTICAL SYSTEM
+• Unique combination of reflective and refractive optical components 
+achieves a uniform, comfortable appearance while eliminating pixelation 
+and color fringing. This ensures smooth light patterns are projected with 
+no hot spots and minimal striations 
+• Components work together to optimize distribution, balancing the 
+delivery of high illuminance levels on horizontal surfaces with an ideal 
+amount of light on walls and vertical surfaces. This increases the  
+perception of spaciousness
+• Diffusing polycarbonate lens shields direct view of LEDs while lower 
+reflector balances brightness of lens with the ceiling to create a  
+low-glare high angle appearance 
+• Beam Angle (included angle between points of 50% of max. intensity): 
+~ 85o
+• Field Angle (included angle between points of 10% of max. intensity): ~ 
+135o
+ELECTRICAL SYSTEM
+• Integral, high-efficiency power supply
+• Power Factor: > 0.9
+• Total Harmonic Distortion: < 20%
+• Input Voltage: 120-277V, 50/60Hz
+• Dimming: Dimmable to 5% with select incandescent dimmers at 120V 
+only. Forward phase (triac) and reverse phase dimming only. 
+• Reference 
+https://www.creelighting.com/products/indoor/retrofit-downlights/crt-
+series for recommended dimmers
+• Use only lighting controls with neutral connection or controls intended 
+for use with LED fixtures
+• Operating Temperature Range:  -25˚C to +35˚C (-13˚F - +95˚F)
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus Classified (UL1598C)
+• Meets NEMA C82.77 standards
+• Suitable for wet locations for covered ceilings only
+• Meets FCC Part 15, Subpart B, Class B limits for conducted and radiated 
+emissions
+• Meets CA Title 24 JA8 Requirements
+• Meets CA Title 20 Appliance Regulations
+• RoHS Compliant. Consult factory for additional details
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 683 N/A 39.8%
+0-40 1046 N/A 60.9%
+0-60 1544 N/A 89.9%
+0-90 1711 N/A 99.7%
+0-180 1716 N/A 100.0%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 118,685 118,229 118,199
+55˚ 79,129 78,985 78,626
+65˚ 46,860 47,088 47,043
+75˚ 27,731 27,796 27,861
+85˚ 18,501 18,501 18,259
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 111 107 103 100
+2 103 96 90 85
+3 95 86 79 74
+4 88 78 70 64
+5 82 71 63 57
+6 76 64 57 51
+7 71 59 51 46
+8 67 54 47 42
+9 63 50 43 38
+10 59 47 40 35
+Effective Floor Cavity Reflectance: 20%
+Installation
+• Designed easily to install in standard 5-6” 
+(127mm - 152mm) downlight housings with 
+minimum housing height of 5.5” (140mm) and 
+diameter 5.5” to 6.5” (140mm - 165mm)
+• Quick install system utilizes a unique retention 
+feature. Simply attach socket to CR6T. Move light to 
+ready position and slide into housing
+CR6T-G LED Gimbal Downlight - 6” (152mm)
+© 2024 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject 
+to change. Patent www.creelighting.com/patents . CR6T™ is a trademark of Cree Lighting USA LLC. Cree 
+Lighting ® and the Cree Lighting logo are registered trademarks of CLNA Holdings LLC. TrueWhite ®, Cree 
+TrueWhite ®, and the Cree TrueWhite Technology logo are egistered trademarks of CREELED, Inc. The UL logo is 
+a registered trademark of UL LLC.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Housings - Reference Housing spec sheets for additional details
+Edison (E26) Base Housings
+Recessed Housings, 120V
+Surface Mount Housings, 120V
+SC6
+- Textured white finish
+GU24 Base Housings
+Recessed Housings, 120V
+RC6-GU24
+- New Construction
+H6-GU24
+- Architectural new construction
+Recessed “Pan” Conversion Kit, 120V
+C6-120V-LSA
+- Less socket adapter
+Cord Mount Housings, 120V
+SC6-CM-GU24
+- Textured white finish
+- Includes 5" (127mm) canopy and 7'  
+   (2.1m) white cord
+SC6-CM-BL-GU24
+- Textured black finish
+- Includes 5" (127mm) canopy and 7'  
+   (2.1m) black cord
+Wall Mount Housings, 120V
+SC6-WM-GU24
+- Textured white finish
+SC6-WM-BL-GU24
+- Textured black finish
+277V Housings
+Recessed Housings, 277V
+H6-277V
+- Architectural new construction
+Recessed “Pan” Conversion Kit, 277V
+C6-277V-LSA
+- Less socket adapter
+Cord Mount Housings, 277V
+SC6-CM-277V
+- Textured white finish
+- Includes 5” (127mm) canopy and 7’ (2.1m)  
+   white cord 
+SC6-CM-BL-277V
+- Textured black finish
+- Includes 5” (127mm) canopy and 7’ (2.1m)  
+   black cord
+Universal 120-277V Housings
+Recessed Housings, 120-277V
+RC6-UNI
+-New Construction
+RR6-UNI
+-Retrofit
+CR6T-G LED Gimbal Downlight
+Open Space
+Spacing Lumen 
+Package Lumens Wattage LPW w/ft2 Average FC
+4 x 4
+825L 825 9 91.7
+0.54 95
+6 x 6 0.25 44
+8 x 8 0.14 24
+10 x 10 0.09 16
+4 x 4
+1100L 1,100 12.8 85.9
+0.77 95
+6 x 6 0.36 44
+8 x 8 0.19 24
+10 x 10 0.13 16
+4 x 4
+1600L 1,600 18.8 85.1
+1.13 95
+6 x 6 0.53 44
+8 x 8 0.28 24
+10 x 10 0.19 16
+Open Space: 50’ Wide x 40’ Long x 10’ Ceiling, 80/50/20 Reflectances, 2.5 workplane. LLF: 1.0 Initial. 
+Corridor
+Spacing Lumen
+Package Lumens Wattage LPW w/ft2 Average 
+FC
+4' on Center
+825L 825 9 91.7
+0.38 18
+6' on Center 0.26 12
+8' on Center 0.18 8
+10' on Center 0.15 7
+4' on Center
+1100L 1,100 12.8 85.9
+0.53 23
+6' on Center 0.36 16
+8' on Center 0.26 11
+10' on Center 0.21 9
+4' on Center
+1600L 1,600 18.8 85.1
+0.78 34
+6' on Center 0.53 23
+8' on Center 0.38 16
+10' on Center 0.31 14
+Corridor: 6’ Wide x 100’ Long x 10’ Ceiling, 80/50/20 Reflectances, Light levels on the ground. LLF: 1.0 Initial.
+Application Reference

@@ -1,0 +1,456 @@
+US:  creelighting.com   (800) 236-6800
+Canada:  creelighting-canada.com   (800) 473-1234
+4': 48.3"
+(1227mm)
+8': 96.3"
+(2445mm)
+4': 48.3"
+(1227mm)
+8': 96.3"
+(2445mm)
+3.1"
+(80mm)
+3.1"
+(80mm)
+2.6"
+(66mm)
+2.6"
+(66mm)
+Rev. Date: V8 04/16/2024
+Ordering Information
+Example: LS4-40L-835-R-UL-10V 
+LS Series
+LS4™ and LS8™ LED Surface Ambient Luminaire – 4' and 8'
+LS 10V
+Family Size Lumen Package* CRI/CCT Lens Distribution Voltage Control Options Packaging
+LS 4
+4'
+40L
+4,000 lumens
+60L
+6,000 lumens
+830**
+80 CRI, 3000K
+835 
+80 CRI, 3500K
+840 
+80 CRI, 4000K
+850
+80 CRI, 5000K
+930**
+90 CRI, 3000K
+935
+90 CRI, 3500K
+940
+90 CRI, 4000K
+950
+90 CRI, 5000K
+R 
+Round
+Q
+Square
+BLANK
+Medium
+AS**
+Asymmetric
+AL**
+Aisle
+UL
+Universal 
+120-277V
+34
+120-347V
+10V
+0-10V 
+dimming 
+to 5%
+EB1   Emergency Backup
+-Available only with UL voltage
+-Minimum 90 minutes
+-10W emergency power
+-Minimum operating temperature:
+  0˚C (32˚F)
+TW   Through Wire Option
+-Factory installed
+-Includes quick connects for use in
+continuous row applications 
+W10   10-Year Limited Luminaire Warranty
+BLANK
+- Driver housing and light engine ship in 
+   two separate cartons
+SP   Single Pack 
+- Includes both housing and light engine 
+   in single carton8
+8'
+80L
+8,000 lumens 
+120L
+12,000 lumens
+Product Description
+The LS4™ and LS8™ surface ambient luminaire delivers up to 135 lumens per watt of 80+ or 90+ CRI 
+illumination. The 4' luminaire is available with up to 6,000 lumens and the 8' is available with up to 
+12,000 lumens, both in 3000K, 3500K, 4000K and 5000K color temperatures. The LS Series features 
+sleek and compact architectural design with flexible lumen packages, color temperatures and standard 
+0-10V dimming. Flexible mounting of the LS Series allows for individual mount or continuous row 
+applications for surface mount, suspended mount, pendant mount and cove installations.
+Applications: Surface and suspended ambient applications for new construction and upgrade
+Initial Delivered Lumens: 3,400 - 12,000
+Input Power : 31 - 92 watts
+Efficacy: Up to 135 LPW
+CRI: 80+ or 90+
+CCT : 3000K, 3500K, 4000K, 5000K
+Input Voltage: 120-277, 120-347 VAC
+L70 Lifetime: > 100,000 hours at 40˚C
+Limited Warranty†: Standard 5 years on luminaire; 10-year luminaire warranty option also available;1 year on accessories
+Limited Warranty Emergency Back Up (EB) Battery: 1 Year on Battery Back Up. Test regularly in accordance with local codes
+Dimensions: 4', 8'
+Weight: 4' - 6 lbs. (2.7kg); 8' - 11 lbs. (5.0kg)
+Dimming: 0-10V dimming to 5%
+Performance Summary
+† See https://www.creelighting.com/resources/warranties/ for warranty terms
+Reflectors & Accessories 
+Field-Installed
+Joint Aligner
+LS-RJ
+- Top housing aligner for continuous rows
+LS-RFLJ
+- Reflector aligner for continuous rows
+Solid
+LS4-SR
+LS8-SR
+- Pair of reflectors
+- < 0.5% Uplight
+Apertured
+LS4-AR
+LS8-AR
+- Pair of reflectors
+- ~ 6.5% Uplight 
+Non-Power Feed Adjustable Cable 
+Support for T-Bar Ceilings‡
+AC5-48-Q14B-TB
+AC5-48-Q14B-TB-50BULK (Pack of 50)
+- Includes 5.0" (127mm) Canopy, 48.0" 
+(1219mm) Adjustable
+   Cable, Q14B Gripper and T-Bar Clip 
+AC2-48-Q14B-TB
+AC2-48-Q14B-TB-50BULK (Pack of 50)
+- Same as above except with 2" (51mm) 
+Canopy
+Non-Power Feed Adjustable Loop Cable for Unfinished 
+Ceilings‡
+AC-144-Q14B-LP
+AC-144-Q14B-LP-50BULK (Pack of 50)
+- Includes 144.0" (366cm) L x 1/16" (2mm) Diameter 
+Adjustable Galvanized Loop Cable w/Q14B Gripper
+Non-Power Feed Adjustable Cable Support for Hard 
+Ceilings‡
+AC5-48-Q14B-JB
+- Includes 5.0" (127mm) Canopy, 48.0" (1219mm) Adjustable 
+Cable, Q14B Gripper and J-Box Strap
+Continuous Row Through Wiring Kit‡
+LS4TWK
+LS8TWK
+- Includes (3) #12AWG 54.0" (1372mm) Wires for Line 
+(black), Neutral (white), Ground (green), (2) #18AWG 54.0" 
+(1372mm) Wires for 0-10V dimming (purple, gray) and (10) 
+Wire Nuts; 8' wires are 102" (2591mm)
+- Optional accessory for use when luminaire is not ordered 
+with factory installed TW option
+- Does not power luminaires w/EB1 option. Additional 
+unswitched (i.e. continuous power) dedicated feeds (by 
+others) must be supplied to EB1 
+Power Feed Adjustable Cable 
+Support for T-Bar & Hard Ceilings‡
+AC5-12/3-48-Q14B-JB  
+- Non-dimming applications 
+- Includes 5.0" (127mm) Cable 
+Canopy, 48" (1219mm) #12/3 SJT 
+Cord, Q14B Gripper and J-Box Strap
+AC5-18/5-48-Q14B-JB  
+- Dimming applications 
+- Includes 5.0" (127mm) Cable 
+Canopy, 48.0" (1219mm) #18/5 SJT 
+Cord, Q14B Gripper and J-Box Strap
+AC5-18/2-48-Q14B-JB  
+- For use with AC5-12/3-48-Q14B-JB 
+for selective luminaire dimming 
+control in row mounted luminaires 
+- Includes 5.0" (127mm) Cable 
+Canopy, 48.0" (1219mm) #18/2 SVT 
+Cord, Q14B Gripper and J-Box Strap
+‡ Refer to the LS Series Suspension Accessories spec sheet for more details
+Round Lens Square Lens
+* Lumen Package codes identify approximate light output only. Actual lumen output levels vary depending on CRI. Refer to Delivered Lumens & Electrical Data for specific lumen values
+** Made to order - consult factory for lead times.
+Note: Ships in two cartons - Driver Housing + Light Engine unless ordered with SP Option. 
+US:  creelighting.com   (800) 236-6800
+Canada:  creelighting-canada.com   (800) 473-1234
+Product Specifications
+CONSTRUCTION & MATERIALS
+• Constructed of durable 22 gauge steel
+• Cosmetic polycarbonate end caps included
+• Acrylic lens delivers a low-glare, diffused light distribution
+• Post-painted white for enhanced smooth finish
+• Weight: 4' - 6.0 lbs. (2.7kg); 8' - 11.0 lbs. (5.0kg); add 1.0 lb. (0.5kg) for EB
+OPTICAL SYSTEM
+• Unique combination of reflective and refractive optical components 
+achieves a uniform, comfortable appearance while eliminating pixelation 
+and color fringing
+• Components work together to optimize distribution, balancing the 
+delivery of high illuminance levels on horizontal surfaces with an ideal 
+amount of light on walls and vertical surfaces. This increases the  
+perception of spaciousness
+• Medium, asymmetric and aisle distributions with both round and square 
+diffusers meet the needs of a variety of applications
+ELECTRICAL SYSTEM
+• Power Factor: > 0.9 at full load
+• Input Power: Stays constant over life
+• Input Voltage: 120-277 or 120-347 VAC, 50/60Hz
+• Operating Temperature Range: -20˚C - +40˚C (-4˚F - +104˚F);  
+minimum operating temperature with EB1 option is 0˚C (32˚F)
+• Total Harmonic Distortion: < 20% at full load
+CONTROLS
+• Continuous dimming to 5% with 0-10V DC control protocol
+• 10V Source Current: 0.45mA maximum
+• Use only lighting controls with neutral connection or controls intended 
+for use with LED fixtures
+• Reference https://cree.widen.net/s/2b8dlcwsvq/cr_-flex_-zr_-cs_-ln_-
+ls_-ur_-stylus-series-control-options-dimming-specsheet 
+for recommended dimming controls and wiring diagrams
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus Listed (UL1598)
+• Suitable for damp locations
+• Suitable for continuous row mounting
+• Designed for indoor use only
+• Requires minimum 90o C supply conductors
+• Not intended for use in environments containing airborne corrosive 
+agents such as chemical solvents, cleaners, or cutting fluids
+• UL924 (EB1 option). Maximum mounting height: 15.0' (4.6m)
+• Ingress Protection: IP20
+• RoHS compliant. Consult factory for additional details
+• Meets FCC Part 15, Subpart B, Class A limits for conducted and  
+radiated emissions
+• DLC qualified versions available. Please refer to https://qpl.designlights.
+org/solid-state-lighting for most current information
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+LS4™ and LS8™ Surface Ambient Luminaire – 4' and 8'
+* Electrical data at 25˚C (77˚F). Actual wattage and lumens may differ by +/- 10% when operating between 120-277V or 347V 
++/- 10%.
+Delivered Lumens & Electrical Data*
+Lumen 
+Package
+Initial Delivered 
+Lumens System 
+Watts 
+120-277V
+System 
+Watts 
+120-347V
+Total Current (A)
+80 CRI 90 CRI 120V 208V 240V 277V 347V
+40L
+4,000 3,400
+31 34 0.26 0.15 0.13 0.12 0.11
+40L w/EB 35 N/A 0.29 0.17 0.15 0.13 N/A
+60L
+6,000 5,100
+45 48 0.38 0.22 0.19 0.16 0.15
+60L w/EB 49 N/A 0.41 0.24 0.20 0.18 N/A
+80L
+8,000 6,800
+61 64 0.51 0.29 0.25 0.22 0.19
+80L w/EB 65 N/A 0.54 0.31 0.27 0.24 N/A
+120L
+12,000 10,200
+92 94 0.77 0.44 0.38 0.34 0.28
+120L w/EB 96 N/A 0.80 0.46 0.40 0.35 N/A
+Uplight Table
+Lens
+Distribution
+Medium Asymmetric Aisle
+Round 10% 9% 6%
+Square 13% 12% 9%
+LS Series Ambient Adjusted Lumen Maintenance1
+Ambient Initial
+LMF
+25K hr
+Reported2
+LMF
+50K hr
+Reported2
+LMF
+75K hr
+Estimated3
+LMF
+100K hr
+Estimated3
+LMF
+0˚C (32˚F) 1.03 0.98 0.93 0.88 0.84
+5˚C (41˚F) 1.03 0.98 0.93 0.88 0.83
+10˚C (50˚F) 1.02 0.97 0.92 0.87 0.83
+15˚C (59˚F) 1.01 0.96 0.91 0.87 0.82
+20˚C (68˚F) 1.01 0.96 0.91 0.86 0.82
+25˚C (77˚F) 1.00 0.95 0.90 0.86 0.81
+30˚C (86˚F) 0.99 0.94 0.89 0.84 0.80
+35˚C (95˚F) 0.99 0.94 0.88 0.83 0.79
+40˚C (104˚F) 0.98 0.93 0.87 0.82 0.77
+1 Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data for the LED package and in-situ luminaire
+  testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen maintenance factors.  
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are up to 6x the tested duration in the IES
+  LM-80 report for the LED. 
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.   
+  
+Delivered Emergency Lumens
+Lumen Package 80 CRI 90 CRI
+40L  1,290  1,100 
+60L  1,330  1,130 
+80L  1,310  1,110 
+120L  1,300  1,110 US:  creelighting.com   (800) 236-6800
+Canada:  creelighting-canada.com   (800) 473-1234
+LS4™ and LS8™ Surface Ambient Luminaire – 4' and 8'
+Reference http://creelighting.com/products/indoor/surface-ambient/ls-series for detailed photometric data
+Reference http://creelighting.com/products/indoor/surface-ambient/ls-series for detailed photometric data
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 117 117 117 117
+1 104 99 94 89
+2 94 85 78 71
+3 86 74 65 58
+4 78 65 56 49
+5 72 58 49 42
+6 66 52 43 37
+7 61 47 38 32
+8 57 43 34 29
+9 53 40 31 26
+10 50 36 28 23
+Effective Floor Cavity Reflectance: 20%
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 117 117 117 117
+1 106 100 96 92
+2 96 87 80 74
+3 88 77 69 62
+4 80 68 59 53
+5 74 61 52 45
+6 68 55 46 40
+7 63 50 41 35
+8 59 46 37 32
+9 55 42 34 28
+10 52 39 31 26
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0° 45° 90°
+45° 20,071 13,087 10,069
+55° 21,016 11,784 7,916
+65° 22,995 10,538 5,692
+75° 28,204 9,497 3,278
+85° 52,651 9,079 779
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0° 45° 90°
+45° 22,525 16,656 12,700
+55° 20,075 13,401 9,832
+65° 18,124 10,279 7,035
+75° 18,776 7,748 4,262
+85° 33,153 6,581 1,394
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1,129 N/A 21.8%
+0-40 1,848 N/A 35.7%
+0-60 3,304 N/A 63.8%
+0-90 4,658 N/A 89.9%
+0-180 5,183 N/A 100%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1,337 N/A 25.9%
+0-40 2,125 N/A 41.1%
+0-60 3,568 N/A 69.1%
+0-90 4,715 N/A 91.3%
+0-180 5,165 N/A 100.0%
+Photometry
+LS4-60L-930-R-UL-10V BASED ON BEST TEST SERVICE SHENZHEN TEST REPORT #: BTR66.181.19.0032.47
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Photometry
+LS4-60L-930-R-AS-UL-10V BASED ON BEST TEST SERVICE SHENZHEN TEST REPORT #: BTR66.181.19.0032.49
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+0˚ 20˚
+50˚
+70˚364
+0
+1458
+729
+1093
+0˚ 90˚
+90˚
+150°
+120˚ 120˚
+60˚
+90˚ 90˚
+60˚
+30˚
+2015
+504
+1511
+1007
+150˚
+0˚ 90˚US:  creelighting.com   (800) 236-6800
+Canada:  creelighting-canada.com   (800) 473-1234
+© 2024 Cree Lighting USA LLC. All rights reserved. For informational purposes only.
+Content is subject to change. Patent www.creelighting.com/patents. Cree® and the Cree logo are registered 
+trademarks of SMART Global Holdings, Inc. LS4™ and LS8™ are trademarks of Cree Lighting USA LLC. The UL logo 
+is a registered trademark of UL LLC. The DLC QPL, DLC QPL Premium and the DLC LUNA Logos are the registered 
+and unregistered trademarks of Efficiency Forward, Inc.
+LS4™ and LS8™ Surface Ambient Luminaire – 4' and 8'
+Reference http://creelighting.com/products/indoor/surface-ambient/ls-series for detailed photometric data
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 118 118 118 118
+1 107 102 97 93
+2 97 89 82 76
+3 89 78 70 64
+4 81 70 61 54
+5 75 62 53 47
+6 69 56 47 41
+7 64 51 42 36
+8 60 47 38 33
+9 56 43 35 29
+10 53 40 32 27
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0° 45° 90°
+45° 18,347 13,915 12,694
+55° 16,332 10,700 9,718
+65° 15,160 8,110 6,516
+75° 16,364 6,375 3,398
+85° 28,875 5,523 660
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1,433 N/A 27.2%
+0-40 2,322 N/A 44.0%
+0-60 3,872 N/A 73.4%
+0-90 4,941 N/A 93.7%
+0-180 5,276 N/A 100%
+Photometry
+ LS4-60L-930-R-AL-UL-10V BASED ON BEST TEST SERVICE SHENZHEN TEST REPORT #: BTR66.181.19.0032.48
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+0˚ 20˚
+50˚
+70˚475
+0
+1900
+950
+1425
+0˚ 90˚
+90˚

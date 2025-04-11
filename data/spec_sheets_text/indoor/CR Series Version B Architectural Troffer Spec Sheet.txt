@@ -1,0 +1,680 @@
+NOTE: Use of Expanded Junction Box will expand the depth to 6.7" (170mm) and 
+Emergency Backup will expand the depth to 5.2" (131mm). 
+Refer to page 5 for additional sizes, controls, EB option and weights.
+4.75"
+(121mm)
+23.7"
+(602mm)
+47.7"
+(1212mm)
+†  See https://www.creelighting.com/resources/warranties/ for warranty terms
+* Acceptable for use with standard 9/16 T-Bar or larger when installed per installation instructions. Consult factory for non-standard grid  
+   applications
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+CR Series
+CR14™, CR22™, and CR24™ Architectural LED Troffer - Version B
+Product Description
+The CR Series architectural LED troffers deliver up to 137 lumens per watt of exceptional indirect low glare, 90 CRI light 
+from 2,030 to 5,070 lumens. This breakthrough performance is achieved by combining the high efficacy and high-quality 
+light of Cree TrueWhite® Technology with a unique thermal management design. Its design makes the CR Series perfect 
+for use in commercial new construction or renovated spaces. The CR Series product family is available with 0-10V 
+dimming to 1%, step dimming to 50%, SmartCast® Technology or Lutron Athena Enabled dimming options. The CR Series 
+product family is available in warm, neutral, cool, or daylight color temperatures with tunable white offered in luminaires 
+with SmartCast wireless or Lutron Athena.
+Performance Summary
+Utilizes Cree TrueWhite® Technology 
+Room-Side Heat Sink
+Efficacy: Up to 137 LPW
+Initial Delivered Lumens: 2,030 - 5,070 lumens
+Input Power: 16 - 38 watts
+CRI: 90+
+R9: > 60
+CCT : 3000K, 3500K, 4000K, 5000K, Tunable White (SmartCast® Technology and Lutron Athena)
+Input Voltage: 120-277 VAC or 347 VAC
+Limited Warranty†: 10 years for luminaire and SmartCast controls; 5 years for Lutron Athena controls; up to 5 years for 
+SmartCast® accessories; 1 year for luminaire accessories
+Limited Warranty Emergency Back Up (EB) Battery: 1 Year on Battery Back Up. Test regularly in accordance with local codes
+Controls: 0-10V Dimming, Step Dimming, SmartCast Wireless/ SmartCast Wireless with Adjustable CCT option and Lutron 
+Athena/Lutron Athena Tunable White
+Mounting: Recessed*; surface or suspended w/surface mount kit accessory
+Assembled in the USA by Cree Lighting from US and imported parts
+Ordering Information
+Example: CR24-B-40L-940-UNV-10V1
+CR B
+Family Size Series Lumen Package CRI/CCT Voltage Controls Options
+CR 14 
+1x4
+24 
+2x4
+B 22L 
+2,200 Lumens
+31L 
+3,100 Lumens
+40L 
+4,000 Lumens
+50L 
+5,000 Lumens
+930 
+90 CRI, 3000K 
+935 
+90 CRI, 3500K 
+940 
+90 CRI, 4000K 
+950 
+90 CRI, 5000K 
+9ACK
+90 CRI, Adjustable Color 
+3000K-6500K in 100K 
+increments
+- Available only with 32L 
+(2x2) and 40L (1x4 & 2x4) 
+lumen packages 
+- Available only with SC1, 
+  AWNR, and AWNS    
+  controls
+UNV 
+Universal 
+120-277V
+34
+347V 
+10V1 
+0-10V Dimming to 1%
+S
+Step Dimming to 50%
+- Available only with 32L (2x2) or 40L  
+  (1x4 & 2x4)
+- Available only with 935 or 940 CRI/ 
+  CCTs
+- Available only with UNV voltage
+SC1
+SmartCast Wireless Technology with 
+1% Dimming, Integral Motion and 
+Ambient Sensors
+- Utilizes a multifunction sensor
+- For adjustable CCT functionality,  
+   luminaire must be ordered with  
+   9ACK CRI/CCT option with 32L or  
+   40L lumen packages
+- Available only with UNV voltage
+AWNR+
+Lutron Athena Integral Fixture 
+Control (RF only) with 1%  
+Dimming
+- Tunable white requires 9ACK  
+   CRI/CCT (32L-40L lumen  
+   packages only)
+- Utilizes a DALI2 driver
+AWNS+ 
+Lutron Athena Wireless Integral 
+Fixture Control with 1%  
+Dimming, Occupancy and  
+Daylight Sensing 
+- Tunable white requires 9ACK  
+   CRI/CCT (32L-40L lumen  
+   packages only)
+- Utilizes a DALI2 driver
+- Utilizes a multifunction sensor
+6W5 Power Whip
+- 6', 5-Wire
+- Available only with UNV voltage
+- Not available with step dimming  
+   or EB option
+6W6 Power Whip
+- 6', 6-Wire for use with 
+   luminaires w/EB option
+- Available only with UNV voltage 
+- Not available with step dimming 
+CP Chicago Plenum 
+EB Emergency Backup
+- Available only with UNV voltage
+- Provides 10W and 90 minutes of 
+   emergency operation
+- GT and EB cannot be used 
+   together
+GT Generator Transfer Device
+- Available only with UNV voltage 
+- Not available with step dimming
+- GT and EB cannot be used 
+   together
+- Not available with power whip 
+   options
+22 
+2x2
+20L 
+2,000 Lumens
+32L 
+3,200 Lumens
+Rev. Date: V8  10/22/2024
+Luminaire Weight
+2x4 18.2 lbs. (8.3kg)
+CR24 w/10V1, AWNR, and S Controls
++ More information on Lutron controls can be found at lutron.com.Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+CR14™, CR22™, and CR24™ Architectural LED Troffer - Version B
+Product Specifications
+SMARTCAST® TECHNOLOGY
+SmartCast® Technology is the most intuitive and easiest to install intelligent light 
+solution on the market. SmartCast® Technology delivers up to 70% energy savings 
+at up to half the cost of other solutions. Luminaires combine best-in-class light with 
+onboard sensors and intelligence to deliver a better light experience. Extreme energy 
+productivity, code compliance and a better light experience without any extra design, 
+installation or setup work.
+CREE TRUEWHITE® TECHNOLOGY
+A revolutionary way to generate high-quality white light, Cree TrueWhite® Technology is 
+a patented approach that delivers an exclusive combination of 90+ CRI, beautiful light 
+characteristics, and lifelong color consistency, all while maintaining high luminous 
+efficacy – a true no compromise solution
+CREE LIGHTING LED TECHNOLOGY
+Cree Lighting's total systems approach to product development is a 
+comprehensive engineering philosophy that combines the most advanced LED sources, 
+driver technologies, optics and forms. The result is highly-reliable luminaire solutions 
+for both indoor and outdoor applications that reduce energy use, extend lifetimes, and 
+maximize illumination performance and quality.
+ROOM-SIDE HEAT SINK
+An innovative thermal management system designed to maximize cooling effectiveness 
+by integrating a unique room-side heat sink into the diffusing lens. This breakthrough 
+design creates a pleasing architectural aesthetic while conducting heat away from LEDs 
+in a temperature-controlled environment. This enables the LEDs to consistently run 
+cooler, providing significant boosts to lifetime, efficacy, and color consistency.
+CONSTRUCTION & MATERIALS
+• Durable 22-gauge steel housing with standard troffer access plate for electrical 
+installation
+• One-piece lower reflector finished with a textured high reflectance white polyester 
+powder coating creates a comfortable visual transition from the lens to the ceiling 
+plane
+• Not for installation within 3" (76mm) of insulation
+• Includes t-bar clips and holes for mounting support wires (by others)
+• May be surface mounted or suspended w/surface mount kit accessory
+• Individual luminaires may be mounted end to end for a continuous row of 
+illumination
+• Includes QR code on the back of the troffer housing which provides access to: Online 
+installation instructions, Luminaire information (Part number, Serial number, Build 
+date, and Warranty end date), and Warranty claim submission form
+• Duplicate 1” and 2" QR code labels are included. 1" labels can be affixed next to 
+fixtures, on site plans, or in maintenance records. 2” labels can be scanned from the 
+ground when placed at an appropriate height
+OPTICAL SYSTEM
+• Unique combination of reflective and refractive optical components achieves a uni-
+form, comfortable appearance while eliminating pixelation and color fringing
+• Components work together to optimize distribution, balancing the delivery of high 
+illuminance levels on horizontal surfaces with an ideal amount of light on walls and 
+vertical surfaces. This increases the  
+perception of spaciousness
+• Diffusing lens integrated with upward-facing LED strip eliminates direct view of 
+LEDs while lower reflector balances brightness of lens with the ceiling to create a 
+low-glare high angle appearance
+ELECTRICAL SYSTEM
+• Power Factor: > 90% at full load (and 120-240V for 20L, 22L, 31L and 32L)
+• Input Power: Stays constant over life
+• Input Voltage: 120-277V or 347V, 60Hz 
+• Operating Temperature Range: 0˚C - + 35˚C (32˚F - + 95˚F)
+• Total Harmonic Distortion: < 20% at full load
+• 10V Source Current: 0.2mA
+CONTROLS
+• Step dimming to 50%
+• Continuous dimming to 1% with 0-10V DC control protocol. For use with Class 1 or 
+Class 2 dimming systems
+• Reference https://cree.widen.net/s/nfqqmfchnk/0-10v-step-and-les-controls-
+options-spec-sheet-cr-flex-zr-troffers-ls-ur-styllus-ws-cdr-kbl for recommended 
+dimming controls and wiring diagrams
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus Listed (UL1598)
+• Suitable for damp locations and plenum use
+• Designed for indoor use only
+• Type NON-IC in accordance with Article 410 of the NEC and UL 1598
+• Requires minimum 90°C supply conductors
+• Drivers and LEDs are UL Recognized in accordance with UL8750
+• Meets NEMA C82.77 standards
+• UL924 (EB Option); Maximum mounting height: 10.0’(3.0m)
+• EB option meets CA Title 20 Appliance Regulations
+• CCEA approved when ordered with CP option
+• RoHS compliant. Consult factory for additional details
+• Meets FCC Part 15, Subpart B, Class A limits for conducted and radiated emissions
+• Assembled in the USA by Cree Lighting from US and imported parts
+• Some configurations meet requirements of BAA and/or BABA. Consult factory when 
+needed for a project: www.creelighting.com/BAA-BABA
+• DLC Premium qualified versions available. Exceptions apply for step dimming and 
+CR24 w/22L lumen package. CR22 w/20L and CR14 w/22L lumen packages are 
+qualified from 120-240V only. Please refer to https://qpl.designlights.org/solid-state-
+lighting for most current information
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+CR Version B Troffer Series Ambient Adjusted Lumen Maintenance1
+Ambient Initial
+LMF
+25K hr
+Reported2
+LMF
+50K hr
+Reported2
+LMF
+75K hr
+Estimated3
+LMF
+100K hr
+Estimated3
+LMF
+0˚C (41˚F) 1.04 1.00 0.99 0.97 0.95
+5˚C (41˚F) 1.03 1.00 0.98 0.96 0.94
+10˚C (50˚F) 1.02 0.99 0.97 0.95 0.93
+15˚C (59˚F) 1.02 0.98 0.96 0.95 0.93
+20˚C (68˚F) 1.01 0.98 0.96 0.94 0.92
+25˚C (77˚F) 1.00 0.97 0.95 0.93 0.91
+30˚C (86˚F) 0.99 0.96 0.94 0.93 0.91
+35˚C (95˚F) 0.99 0.95 0.93 0.91 0.90
+1 Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data for the LED 
+package and in-situ luminaire testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen 
+maintenance factors. 
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are
+up to 6x the tested duration in the IES LM-80 report for the LED.
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+SmartCast® Technology
+INTEGRAL MOTION SENSOR
+• Passive infrared (PIR)
+• Coverage area: Please refer to the PIR motion sensor coverage table
+• Not intended to be mounted higher than 20 ft.
+• Operation:
+• Grouped with a wall control: Luminaire will operate in vacancy mode 
+(manual-on/auto-off)
+• Not grouped with a wall control: Luminaire will operate in occupancy mode (auto-on/auto-
+off)
+• Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+AMBIENT LIGHT SENSOR
+• Sensor response matches response of human eye
+• Not intended to be mounted higher than 20 ft. (6.1m)
+• Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+• Daylight harvesting calibration performed automatically during OneButton™ Setup
+INTEGRAL WIRELESS COMMUNICATION
+• 2.4GHz wireless mesh technology with AES 128-bit encryption
+• Self assigns to quietest channel during OneButton™ Setup
+• Range:
+• 30 ft. (9.1m) in typical commercial applications
+• 300 ft. (91.4m) open air without obstructions
+• Network: 250 devices max.
+• Space: 100 devices max. per group
+• FCC and IC certifications
+LUMINAIRE
+• Energy metering with 4% accuracy
+• Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+• 10 year power fail memory of settings
+• NOTE: SmartCast luminaires must be installed on unswitched AC power. Constant power is 
+required to maintain all luminaires on the SmartCast network. If wall control or manual dimming 
+is required, a SmartCast wall control dimmer must be used for manual on, off, and dimming.
+DEPLOYMENT
+• Please refer to the SmartCast® Deployment Guide at  
+https://cree.widen.net/s/mvxtfd2pcz/smartcastr-wireless-deployment-guide0˚ 20˚
+50˚
+70˚
+90˚
+212
+0
+848
+424
+636
+0˚ 90˚
+0˚ 20˚
+50˚
+70˚
+90˚
+291
+0
+1163
+582
+872
+0˚ 90˚
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+CR14™, CR22™, and CR24™ Architectural LED Troffer - Version B
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 106 102 98
+2 101 93 87 82
+3 92 82 75 69
+4 85 73 65 59
+5 78 66 57 51
+6 72 59 51 45
+7 67 54 45 40
+8 62 49 41 35
+9 58 45 37 32
+10 55 42 34 29
+Effective Floor Cavity Reflectance: 20%
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 105 101 98
+2 100 92 86 81
+3 92 81 74 67
+4 84 72 64 57
+5 77 65 56 49
+6 71 58 50 43
+7 66 53 44 38
+8 62 48 40 34
+9 58 44 36 31
+10 54 41 33 28
+Effective Floor Cavity Reflectance: 20%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 661 N/A 30.4%
+0-40 1,086 N/A 49.9%
+0-60 1,858 N/A 85.5%
+0-90 2,174 N/A 100%
+0-180 2,174 N/A 100%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 910 N/A 29.0%
+0-40 1,497 N/A 47.7%
+0-60 2,616 N/A 83.4%
+0-90 3,138 N/A 100%
+0-180 3,138 N/A 100%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 2,170 2,176 2,099
+55˚ 1,978 1,887 1,620
+65˚ 1,663 1,343 1,005
+75˚ 1,240 715 552
+85˚ 651 369 428
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 2,810 3,053 3,195
+55˚ 2,441 2,829 2,986
+65˚ 1,929 2,360 2,604
+75˚ 1,253 1,663 1,420
+85˚ 286 164 136
+Photometry
+CR14-B-22L-930-UNV-10V1 BASED ON RESTL TEST REPORT #: PL17011-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Photometry
+CR22-B-32L-930-UNV-10V1 BASED ON RESTL TEST  REPORT #: PL16975-001B 
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Reference http://creelighting.com/products/indoor/troffers/cr-series for detailed photometric data
+Reference http://creelighting.com/products/indoor/troffers/cr-series for detailed photometric data
+Delivered Lumens & Electrical Data*
+Family/
+Size
+Lumen 
+Package
+Initial Delivered 
+Lumens Efficacy System Watts 
+120-347V
+Total Current (A) EB/GT 
+Wattage EB/GT Current (A)
+120V 208V 240V 277V 347V 120-277V 120V 208V 240V 277V
+CR14/CR24
+22L 2,250 132 17 0.16 0.09 0.08 0.07 0.06 20 0.18 0.10 0.09 0.08
+31L 3,140 137 23 0.22 0.12 0.11 0.09 0.08 26 0.24 0.14 0.12 0.10
+40L 4,040 135 30 0.28 0.16 0.14 0.12 0.10 33 0.31 0.18 0.15 0.13
+50L 5,070 133 38 0.33 0.20 0.17 0.15 0.12 41 0.35 0.21 0.18 0.16
+CR22
+20L 2,030 127 16 0.16 0.09 0.08 0.07 0.06 19 0.18 0.11 0.09 0.08
+32L 3,190 128 25 0.23 0.13 0.11 0.10 0.08 28 0.25 0.15 0.13 0.11
+* Lumen and electrical data at 25 ˚C (77 ˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.0˚ 20˚
+50˚
+70˚
+90˚
+369
+0
+1475
+738
+1106
+0˚ 90˚
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+CR14™, CR22™, and CR24™ Architectural LED Troffer - Version B
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 105 101 97
+2 100 92 85 80
+3 91 81 73 67
+4 83 72 63 56
+5 77 64 55 49
+6 71 58 49 42
+7 66 52 43 37
+8 61 47 39 33
+9 57 44 35 30
+10 53 40 32 27
+Effective Floor Cavity Reflectance: 20%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1,158 N/A 27.8%
+0-40 1,920 N/A 46.1%
+0-60 3,422 N/A 82.2%
+0-90 4,162 N/A 100%
+0-180 4,162 N/A 100%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 1,869 1,999 2,090
+55˚ 1,696 1,879 1,957
+65˚ 1,405 1,639 1,687
+75˚ 973 1,165 824
+85˚ 300 73 79
+Photometry
+CR24-B-40L-930-UNV-10V1 BASED ON RESTL TEST REPORT #: PL16995-001B
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Open Space
+Spacing Lumen 
+Package
+Initial 
+Delivered 
+Lumens
+Wattage LPW w/ft2 Average 
+fc
+8 x 8
+22L 2,250 17 132 0.26 32
+31L 3,140 23 137 0.35 45
+40L 4,040 30 135 0.45 58
+50L 5,070 38 133 0.57 73
+8 x 10
+22L 2,250 17 132 0.21 27
+31L 3,140 23 137 0.29 37
+40L 4,040 30 135 0.38 48
+50L 5,070 38 133 0.48 60
+10 x 10
+22L 2,250 17 132 0.17 21
+31L 3,140 23 137 0.23 30
+40L 4,040 30 135 0.30 39
+50L 5,070 38 133 0.38 48
+10 x 12
+22L 2,250 17 132 0.14 17
+31L 3,140 23 137 0.18 24
+40L 4,040 30 135 0.24 31
+50L 5,070 38 133 0.30 39
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial
+Open Space: 50' x 40' x 10
+Open Space
+Spacing Lumen 
+Package
+Initial 
+Delivered 
+Lumens
+Wattage LPW w/ft2 Average 
+fc
+8 x 8
+20L 2,030 16 127 0.24 29
+32L 3,190 25 128 0.38 46
+8 x 10
+20L 2,030 16 127 0.20 24
+32L 3,190 25 128 0.31 38
+10 x 10
+20L 2,030 16 127 0.16 19
+32L 3,190 25 128 0.25 31
+10 x 12
+20L 2,030 16 127 0.13 16
+32L 3,190 25 128 0.20 25
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial
+Open Space: 50' x 40' x 10
+Application Reference 
+1x4 & 2x4 Application Reference 2x2 Application Reference
+Reference http://creelighting.com/products/indoor/troffers/cr-series for detailed photometric dataWebsite: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+CR14™, CR22™, and CR24™ Architectural LED Troffer - Version B
+NOTE: Use of Expanded Junction Box will expand the depth to 6.5"  
+(164mm) and Emergency Backup will expand the depth to 4.9" (126mm).
+NOTE: Use of Expanded Junction Box will expand 
+the depth to 6.5" (164mm) and Emergency Backup 
+will expand the depth to 4.9" (126mm) and the 
+above ceiling width to 12.3" (311mm).
+47.7"
+(1212mm)
+11.7"
+(297mm)
+4.5"
+(114mm)
+47.8"
+(1213mm)
+11.8"
+(299mm)
+4.9"
+(123mm)
+CR14 w/10V1, AWNR, 
+and S Controls
+CR14 w/SC1 and AWNS Controls CR22 w/SC1 and  
+AWNS Controls
+CR24 w/SC1 and  
+AWNS Control 
+CR22 w/10V1, AWNR, 
+and S Controls
+NOTE: Use of Expanded Junction Box will expand the depth to 6.7" (170mm) 
+and Emergency Backup will expand the depth to 5.2" (131mm).
+NOTE: Use of Expanded Junction Box will expand the depth to 6.7" (170mm) 
+and Emergency Backup will expand the depth to 5.2" (131mm).
+NOTE: Use of Expanded Junction Box will expand the depth to 6.7" 
+ (170mm) and Emergency Backup will expand the depth to 5.2" (131mm).
+23.7"
+(602mm)
+23.7"
+(602mm)
+4.75"
+(121mm)
+23.7"
+(603mm)
+23.7"
+(603mm)
+5.1"
+(129mm)
+47.7"
+(1211mm)
+23.7"
+(601mm)
+5.1"
+(129mm)
+Luminaire Weight
+1x4 12.4 lbs. (5.6kg)
+Luminaire Weight
+1x4 15.4 lbs. (7.0kg)
+Luminaire Weight
+2x2 11.2 lbs. (5.1kg)
+Luminaire Weight
+2x4 21.2 lbs. (9.6kg)
+Luminaire Weight
+2x2 8.2 lbs. (3.7kg)© 2024 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. 
+Patent www.creelighting.com/patents. SmartCast® and the SmartCast Technology logo are registered trademarks, and 
+CR14™, CR22™, and CR24™ are trademarks of Cree Lighting USA LLC. The UL logo is a registered trademark of UL LLC. 
+TrueWhite®, Cree TrueWhite® and the Cree TrueWhite Technology logo are registered trademarks of CREELED, Inc. Cree 
+Lighting® and the Cree Lighting logo are registered trademarks of CLNA Holdings LLC. Lutron Athena is a trademark 
+or registered trademark of Lutron Electronics Co., Inc. Hunter Douglas® is a registered trademark of Hunter Douglas 
+International, N.V. Corporation. The DLC QPL, DLC QPL Premium and the DLC LUNA Logos are the registered and 
+unregistered trademarks of Efficiency Forward, Inc.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+CR14™, CR22™, and CR24™ Architectural LED Troffer - Version B
+ANSI/IES TM-30-18
+4000K, 90 CRI
+Based on RESTL TEST #: PL16997-001
+Accessories 
+Field-Installed
+Adjustable Power Feeds with Cable 
+Support Canopy Kits
+AC5-18/4-72-PD8-JB
+- Requires use of surface mount kit
+Adjustable Cable Support Kits
+AC5-72-PD8-JB
+- Requires use of surface mount kit
+T-Bar Clips for Hunter Douglas ® 
+Ceilings
+CR-HDC
+- Makes the CR troffers compatible 
+with
+   Armstrong XL, USG DX 1-1/2" or 
+USG
+   1-5/8" T-grids
+- Allows fixture to hang 1-1/2" below 
+   T-grid to be flush with ceiling tiles
+-One required per luminaire
+-Includes 4 clips and 8 screws
+Drywall Grid Adaptor
+DGA14-WHT (1x4)
+DGA22-WHT (2x2)
+DGA24-WHT (2x4)
+Junction Box (5-Pack)
+EJBCR-5PK
+- Expanded size junction 
+box for 
+   through wiring
+- Not compatible with 
+   surface mount kits
+6' Flexible Power Whip
+PW-18/4-06-9T/SS
+- For use in step dimming or  
+   non-dimming  
+   applications only
+Surface Mount Kit
+SMK-CR14 (1x4)
+SMK-CR22 (2x2)
+SMK-CR24 (2x4)
+- Not compatible with EJBCR-
+5PK
+- Not for use with AWNR  
+   control
+- SMK-CR14 is not compatible  
+   with EB option
+SmartCast® Technology Configuration Tool
+CCT-CWC-1
+- One required per project when SC1 control is selected
+SmartCast® Technology Face Plates
+CFP-1-WH
+- Matching face plate, 1-gang, white
+CFP-2-WH
+- Matching face plate, 2-gang, white
+SmartCast® Technology Wireless Dimmer
+CSC-CWD-UNVN-WH (neutral wire required)
+CSC-CWD-UNV-WH (no neutral required)
+SmartCast® Technology Adjustable CCT Wireless 
+Dimmer
+CSC-CCD-UNVN-WH (neutral wire required)
+CSC-CCD-UNV-WH (no neutral required)
+- For use only with luminaires with SmartCast controls 
+   and 9ACK
+- 3000K-6500K adjustable CCT
+SmartCast® Technology Wireless Switch
+CSC-CWS-UNVN-WH (neutral wire required)
+CSC-CWS-UNV-WH (no neutral required)
+SmartCast® 5-Button Wireless Scene Controller
+CSC-SC-A-5B-UNVN-WH (w/o text)
+CSC-SC-A-5S-UNVN-WH (w/scene text)
+CSC-SC-A-5C-UNVN-WH (w/CCT text)
+- Available only with 9ACK
+CSC-SC-A-5X-UNVN-WH (w/custom text)
+SmartCast® Technology Wireless Plug Load Controller
+CPLC-JB-CWC
+SmartCast® 10V Zone Controller
+CSC-ZC-10V-CWC
+- Intelligent sensing and control of
+   0-10V luminaires

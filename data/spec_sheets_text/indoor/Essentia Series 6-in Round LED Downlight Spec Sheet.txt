@@ -1,0 +1,361 @@
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+13.9"
+(353mm)
+12.0"
+(304mm)
+“A”
+8.0"
+(203mm)
+7.2"
+(184mm)
+Essentia® Series Downlights
+LED Round Downlight – 6"
+Product Description
+The Essentia® Series Downlights deliver beautiful 90+CRI light, with efficacy up to 80 lumens per 
+watt. Available in a variety of lumen packages, color temperatures and beam angles, each downlight 
+is rated at 50,000 hours and features a premium quality self-flanged reflector finish supported by a 
+range of color trim options. Essentia® Series Downlights are engineered to provide outstanding value 
+and performance. It’s your essential, comprehensive downlight portfolio for new construction and 
+renovation applications. 
+Applications: New construction and renovation applications with non-insulated ceilings or where 
+insulation can be kept 3" (76mm) from housing
+Initial Delivered Lumens: 891-3,311 lumens
+Input Power: 12-42 watts
+CRI: 90
+CCT: 3500K, 4000K
+Beam Angles: Medium and Wide
+Limited Warranty†: 1 year for luminaire and luminaire accessories
+Dimming: 0/1-10V dimming down to 1% and Triac dimming down to 10%
+Performance Summary
+† As of 1/20/2025, this is a clearance product and has a 1-year limited warranty. See https://www.creelighting.com/resources/warranties/ for 
+warranty terms
+Ordering Information
+Fully assembled luminaire is composed of two components that must be ordered separately:
+Example: Trim: S-DL6T-M-SSC + Housing: S-DL6-11L-35K 
+Housing (Trim must be ordered separately)
+S-DL6T
+Product Beam Finish Reflector Flange Color
+S-DL6T M 
+Medium
+P 
+Painted
+W 
+White
+WF  
+White Flange
+S-DL6T M 
+Medium
+SS 
+Semi-Specular
+C 
+Clear
+Blank 
+Matching Flange
+S-DL6T M 
+Medium
+SS 
+Semi-Specular
+C 
+Clear
+WF  
+White Flange
+S-DL6T W 
+Wide
+P 
+Painted
+W 
+White
+WF  
+White Flange
+S-DL6T W 
+Wide
+SS 
+Semi-Specular
+C 
+Clear
+Blank 
+Matching Flange
+S-DL6T W 
+Wide
+SS 
+Semi-Specular
+C 
+Clear
+WF  
+White Flange
+Housing (Trim must be ordered separately)
+S-DL6
+Product/Size Initial Delivered Lumens CCT Voltage Controls
+S-DL6 11L 
+12W, 891 lumens
+35K 
+3500K
+Blank 
+Universal 120-277 Volt
+Blank 
+0/1-10V and Triac Dimming
+S-DL6 11L 
+12W, 958 lumens
+40K 
+4000K
+Blank 
+Universal 120-277 Volt
+Blank 
+0/1-10V and Triac Dimming
+S-DL6 15L 
+15W, 1,046 lumens
+35K 
+3500K
+Blank 
+Universal 120-277 Volt
+Blank 
+0/1-10V and Triac Dimming
+S-DL6 15L 
+15W, 1,125 lumens
+40K 
+4000K
+Blank 
+Universal 120-277 Volt
+Blank 
+0/1-10V and Triac Dimming
+S-DL6 24L 
+23W, 1,786 lumens
+40K 
+4000K
+Blank 
+Universal 120-277 Volt
+Blank 
+0/1-10V and Triac Dimming
+S-DL6 34L 
+34W, 2,491 lumens
+35K 
+3500K
+Blank 
+Universal 120-277 Volt
+Blank 
+0/1-10V and Triac Dimming
+S-DL6 34L 
+34W, 2,678 lumens
+40K 
+4000K
+Blank 
+Universal 120-277 Volt
+Blank 
+0/1-10V and Triac Dimming
+S-DL6 42L 
+42W, 3,311 lumens
+40K 
+4000K
+Blank 
+Universal 120-277 Volt
+Blank 
+0/1-10V and Triac Dimming
+Initial Delivered Lumens Dim "A"
+11L, 15L, 24L 6.8" (172mm)
+34L 6.8" (173mm)
+42L 7.3" (186mm)
+Rev. Date: V18 01/20/2025
+Accessories 
+Field-Installed
+SmartCast® 10V Zone Controller
+CSC-ZC-10V-CWC
+- Intelligent sensing and control of 0-10V luminaires
+C-Channel Hangar Bars
+RBH30C
+– Pair of 30" (762mm) rigid 3/4" x 1/2" (19mm x 
+13mm) c-channel bars
+RBH24C-1
+– Pair of 24" (610mm) rigid 1-1/2" (38mm) x 
+1/2" (13mm) c-channel bars
+T-Bar Clips
+RARC7
+– Set of four
+– For use with RBH24C-1 hanger barsEssentia® Series Downlights Round Downlight – 6"
+Product Specifications
+CONSTRUCTION & MATERIALS
+• Semi-specular clear r
+eflector/flange finish, standard
+• Multiple r
+eflector/flange colors available
+• Light engine, optics and driv
+er accessible from below ceiling
+• Heavy-gauge formed s
+teel housing
+• Mounting brack
+ets are adjustable from above or below the ceiling
+• Ten 1/2" (13mm) and tw
+o 3/4" (19mm) knockouts with pry-outs
+• Eight knockout
+s with Romex® cable clamp
+• Max. Ceiling Thicknes
+s: 1-3/8" (35mm)
+ELECTRICAL SYSTEM
+• Po
+wer Factor: > 0.9 at full load
+• Tot
+al Harmonic Distortion: < 20% at full load
+• Input Volt
+age: 120-277V, 50/60Hz
+• Operating T
+emperature Range: 0˚C - +35˚C (32˚F - +95˚F
+CONTROLS
+• Triac dimming do
+wn to 10%
+• 0/1-10V dimming down t
+o 1% with 0-10V DC control protocol
+• 10V Sourc
+e Current: 1.00mA
+• 0-10V dimming contr
+ol must be Class 2 and either have a neutral 
+connection or be suitable for use with LED luminaires
+• Ref
+erence dimming spec sheet for recommended dimming controls
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus List
+ed
+• Suitabl
+e for damp locations
+• Designed for indoor use onl
+y
+• Suitabl
+e for thru-wiring 8#12AWG-90˚C
+• Thermally pr
+otected Type NON-IC in accordance with Article 410 of the 
+NEC and UL 1598
+• Meets F
+CC Part 15, Subpart B, Class A limits for conducted and radiated 
+emissions
+• RoHS c
+ompliant. Consult factory for additional details
+•        CA RESIDENTS WARNING: Canc er and Reproductive Harm –  
+       www.p65warnings.ca.gov
+Essentia® Series Downlights Ambient Adjusted Lumen Maintenance1
+Ambient Initial 
+LMF
+25K hr 
+Reported2 
+LMF
+50K hr 
+Estimated3
+LMF
+75K hr 
+Estimated3 
+LMF
+100K hr  
+Estimated3 
+LMF
+25˚C (77˚F) 1.00 0.94 0.89 0.84 0.80
+Electrical Data*
+Initial  
+Delivered 
+Lumens
+System 
+Watts
+120-277V
+Total Current (A)
+120V 208V 240V 277V
+11L 12 0.10 0.06 0.05 0.04
+15L 15 0.12 0.07 0.06 0.05
+24L 23 0.19 0.11 0.10 0.08
+34L 34 0.28 0.16 0.14 0.12
+42L 42 0.35 0.20 0.18 0.15
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V +/- 10%
+1 Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data for the LED 
+package and in-situ luminaire testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen 
+maintenance factors. 
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are
+up to 6x the tested duration in the IES LM-80 report for the LED.
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234© 2025 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. Patent www.
+creelighting.com/patents. Essentia® and SmartCast® are registered trademarks of Cree Lighting USA LLC. Cree Lighting® 
+and the Cree Lighting logo are registered trademarks of CLNA Holdings LLC.The UL logo is a registered trademark of UL LLC. 
+Romex® is a registered trademark of Southwire Company, LLC. 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Essentia® Series Downlights Round Downlight – 6"
+0˚ 20˚
+50˚
+70˚
+90˚
+1779
+0
+7117
+3558
+5338
+0˚
+Initial Delivered Lumens: 3,469
+Efficacy: 81.0 LPW
+S/M: 0.56
+Beam Angle: 34.7˚
+Cone of Light
+Distance from 
+Workplane Footcandles Beam 
+Diameter
+6' (1.8m) 203 3.4' (1.0m)
+8' (2.4m) 114 4.5' (1.4m)
+10' (3.0m) 78 5.3' (1.6m)
+12' (3.7m) 51 6.7' (2.0m)
+14' (4.3m) 37 7.9' (2.4m)
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 114 111 109 107
+2 109 105 101 98
+3 104 99 94 90
+4 100 93 88 84
+5 95 88 83 79
+6 91 83 78 74
+7 87 79 74 70
+8 84 75 70 66
+9 80 72 67 63
+10 77 69 63 60
+Effective Floor Cavity Reflectance: 20%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 2,802 N/A 80.8%
+0-40 3,364 N/A 97.0%
+0-60 3,460 N/A 99.8%
+0-90 3,469 N/A 100%
+0-180 3,469 N/A 100%
+Average Luminance Table (cd/m 2)
+Vertical Angle
+ Horizontal Angl e
+0˚ 45˚ 90˚
+45˚ 7,000 7,000 7,000
+55˚ 1,562 1,562 1,562
+65˚ 591 591 591
+75˚ 537 537 537
+85˚ 503 503 503
+Photometry
+DL6-42L-40K + S-DL6T-M-SSC BASED ON CESTL REPORT TEST #: PL08067-001
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Reference https://www.creelighting.com/products/indoor/new-construction-downlights/essentia-series-downlights for detailed photometric data
+Open Space
+Spacing Lumens Wattage LPW w/ft 2 Average FC
+4 x 4
+3,311 42 79
+2.58 211
+6 x 6 1.20 99
+8 x 8 0.65 53
+10 x 10 0.43 35
+10' Ceiling, 80/50/20 Reflectances, 2.5 workplane. LLF: 1.0 Initial. Open Space: 50' x 40'
+Corridor
+Spacing Lumens Wattage LPW w/ft 2 Average FC
+4' on Center
+3,311 42 79
+1.79 111
+6' on Center 1.22 75
+8' on Center 0.86 53
+10' on Center 0.72 44
+10' Ceiling, 80/20/50 Reflectances, LLF: 1.0 Initial. 2.5' Workplane. Corridor: 6' Wide x 100' Long
+Application Reference
+Iniitial Delivered Lumens
+Beam Angle
+M W
+11L-24L 25˚ 45˚
+34L-42L 40˚ 55˚
+Beam Angles

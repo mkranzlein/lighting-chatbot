@@ -1,0 +1,235 @@
+2.6"
+(65.5mm)
+1.7"
+(43.5mm)
+0.2"
+(4.5mm)
+Ø5.0"
+(Ø126mm)
+CR4T 790L 12 E26GU24
+Ordering Information Additional Information
+Series Initial Delivered Lumens CCT Voltage Base Type Single Carton UPC Single Cartons/ 
+Master Carton Master Carton ITF-14
+CR4T 
+4" 
+(102mm)
+790L    
+10.5W, 790 Lumens – 75 LPW
+30K    
+3000K
+12    
+120 Volts
+E26GU24 
+Includes E26 (Title 20 Compliant) and  
+GU24 Base Pigtail (Title 24 Compliant)
+849665023395 12 10849665023392
+35K    
+3500K
+849665023401 12 10849665023408
+40K   
+4000K
+849665023418 12 10849665023415
+Ordering Information
+Example: CR4T-790L-30K-12-E26GU24
+† See https://www.creelighting.com/resources/warranties/ for warranty terms
+Accessories 
+Trims
+CR4T-TRMBRAN-1
+- 4" (102mm) Plastic Reflector Trim - Bronze
+CR4T-TRMBKAN-1
+- 4" (102mm) Plastic Reflector  Trim - Black
+CR4T-TRMSTAN-1
+- 4" (102mm) Plastic Reflector  Trim - Satin Nickel
+CR4T-TRMBKBB-1
+- 4" (102mm) Plastic Reflector Trim w/Extended Flange - Black
+Housings 
+GU24 Base Housings
+Recessed Housings, 120V
+RR4-GU24
+- Retrofit
+Universal 120-277V Housings
+Recessed Housings, 120-277V
+RC4-UNI
+-New Construction
+RR4-UNI
+-Retrofit
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+CRT Series
+CR4T™ LED Downlight – 4" (102mm) Rev. Date: V9 01/14/2025
+Product Description
+The new CR4T LED downlight delivers 790 lumens while achieving over 75 lumens per watt. This 
+breakthrough performance is achieved by combining the high efficacy and high-quality 90 CRI light. The 
+CR4T is available in warm and cool color temperatures, and easily installs into most standard four-inch 
+recessed IC or non-IC housings.  
+Applications: New construction or upgrade for residential and commercial lighting 
+Utilizes Cree TrueWhite® Technology
+Initial Delivered Lumens: 790 lumens
+Input Power: 10.5 watts
+CRI: 90+
+CCT: 3000K, 3500K, 4000K
+R9: > 50
+Limited Warranty†: 5 years for luminaire, 1 year for trims and housings
+Lifetime: Designed to last 50,000 hours
+Dimming: Dimmable to 5%
+Performance SummaryInstallation
+• Designed easily t o install in standard 4" (102mm) 
+downlight housings with minimum housing 
+height of 5" (127mm) and diameter 4" to 
+4.1" (102mm - 104mm)
+• Quick inst
+all system utilizes a unique retention 
+feature. Simply attach socket to CR4T. Move light 
+to ready position and slide into housing
+CR4T™ LED Downlight – 4" (102mm)
+Product Specifications
+CREE TRUEWHITE® TECHNOLOGY
+A revolutionary way to generate high-quality white light, Cree TrueWhite® Tech-
+nology is a patented approach that delivers an exclusive combination of 90+ CRI, 
+beautiful light characteristics and lifelong color consistency, all while maintaining 
+high luminous efficacy – a true no compromise solution.
+CONSTRUCTION & MATERIALS
+• Durable upper housing protects LEDs and driver. Adjustable flip clips resist 
+heat whil
+e providing retention for flush ceiling fit
+• Thermal management sy
+stem uses the lower reflector to conduct heat away 
+from LEDs and transfer it to the plenum space for optimal  
+performance. LED junction temperatures stay below specified maximum even 
+when installed in insulated ceilings
+• Suitabl
+e for insulated and non-insulated ceilings
+• One-piece aluminum l
+ower reflector redirects light while also  
+conducting heat away from LEDs. It creates a comfortable visual  
+transition from the lens to the ceiling plane and easily accommodates CRT4 
+snap-in trims
+OPTICAL SYSTEM
+• Unique combination of r eflective and refractive optical components achieves 
+a uniform, comfortable appearance while eliminating pixelation and color 
+fringing. This ensures smooth light patterns are projected with no hot spots 
+and minimal striations
+• Components w
+ork together to optimize distribution, balancing the delivery of 
+high illuminance levels on horizontal surfaces with an ideal amount of light on 
+walls and vertical surfaces. This increases the  
+perception of spaciousness
+• Diffusing poly
+carbonate lens shields direct view of LEDs while lower  
+reflector balances brightness of lens with the ceiling to create a low-glare 
+high angle appearance
+• Beam Angle (included angl
+e between points of 50% of max. intensity): ~ 95o
+• Field Angle (included angle between points of 10% of max. intensity): ~ 145o
+ELECTRICAL SYSTEM
+• Integral, high-efficiency power supply
+• Po
+wer Factor: > 0.9
+• Tot
+al Harmonic Distortion: < 20%
+• Input Volt
+age: 120V, 50/60Hz
+• Dimming: Dimmabl
+e to 5% with select incandescent dimmers. Forward phase 
+(triac) and reverse phase dimming only. 
+• Ref
+erence 
+https://www.creelighting.com/products/indoor/retrofit-downlights/crt-series 
+for recommended dimmers
+• Use only lighting c
+ontrols with neutral connection or controls intended for use 
+with LED fixtures
+• Operating T
+emperature Range:  -25˚C to +35˚C (-13˚F - +95˚F)
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus Classified
+• Suitabl
+e for wet locations for covered ceilings only
+• Meets F
+CC Part 15, Subpart B, Class B limits for conducted and radiated 
+emissions
+• Meets C
+A Title 24 JA8 Requirements
+• Meets C
+A Title 20 Appliance Regulations
+• RoHS Compliant. Consult f
+actory for additional details
+•        C
+A RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+NOTE: Reference https://www.creelighting.com/products/indoor/retrofit-downlights/crt-series for detailed installation 
+instructions
+Reference https://www.creelighting.com/products/indoor/retrofit-downlights/crt-series for detailed photometric data
+0˚ 20˚
+50˚
+70˚
+90˚
+96
+0
+385
+192
+289
+0˚
+ 90˚
+Photometry
+CR4T-790L-27K BASED ON CESTL REPORT TEST #: PL13048-001A 
+Luminaire photometry has been conducted in accordance with IES LM-79.  
+IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 
+100%.
+Coefficients Of Utilization – 
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 106 103 99
+2 102 95 89 84
+3 94 84 77 71
+4 87 76 68 62
+5 80 68 60 54
+6 74 62 54 48
+7 69 57 48 43
+8 65 52 44 38
+9 60 48 40 35
+10 57 44 37 32
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angl e
+0° 45° 90°
+45° 23,252 23,208 22,970
+55° 17,172 17,146 16,972
+65° 11,183 11,183 11,074
+75° 8,303 8,362 8,332
+85° 6,844 6,756 6,581
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 298 N/A 34.8%
+0-40 478 N/A 55.9%
+0-60 755 N/A 88.3%
+0-90 855 N/A 100.0%
+0-180 855 N/A 100.0%
+Open Space
+Spacing Lumens Wattage LPW w/ft 2 Average FC
+4 x 4
+790 10.5 75
+0.63 46
+6 x 6 0.29 21
+8 x 8 0.15 11
+10 x 10 0.10 7
+10' Ceiling, 80/50/20 Reflectances, 2.5 workplane. LLF: 1.0 Initial. Open Space: 50' x 40' x 10'
+Corridor
+Spacing Lumens Wattage LPW w/ft 2 Average FC
+4' on Center
+790 10.5 75
+0.44 16
+6' on Center 0.30 11
+8' on Center 0.21 7
+10' on Center 0.17 6
+10' Ceiling, 80/50/20 Reflectances, Light levels on the ground. LLF: 1.0 Initial. Corridor: 6' Wide x 100' Long
+Application Reference
+© 2025 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. Patent 
+www.creelighting.com/patents. CR4T™ is a trademark of Cree Lighting USA LLC. Cree Lighting® and the Cree Lighting logo 
+are registered trademarks of CLNA Holdings LLC.TrueWhite®, Cree TrueWhite® and the Cree TrueWhite Technology logo are 
+registered trademarks of CREELED, Inc. The UL logo is a registered trademark of UL LLC. 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234

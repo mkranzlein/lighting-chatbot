@@ -1,0 +1,1438 @@
+Field-Installed
+SmartCast® Technology Configuration Tool
+CCT-CWC-1
+- One required per project when SC5 control is selected
+SmartCast® Technology Face Plates
+CFP-1-WH
+- Matching face plate, 1-gang, white
+CFP-2-WH
+- Matching face plate, 2-gang, white
+SmartCast® 5-Button Wireless Scene Controller
+CSC-SC-A-5B-UNVN-WH (w/o text)
+CSC-SC-A-5S-UNVN-WH (w/scene text)
+CSC-SC-A-5X-UNVN-WH (w/custom text)
+SmartCast® Technology Wireless Dimmer
+CSC-CWD-UNVN-WH (neutral wire required)
+CSC-CWD-UNV-WH (no neutral required)
+SmartCast® Technology Wireless Switch
+CSC-CWS-UNVN-WH (neutral wire required)
+CSC-CWS-UNV-WH (no neutral required)
+SmartCast® Technology Wireless Plug Load Controller
+CPLC-JB-CWC
+SmartCast 10V Zone Controller  
+CSC-ZC-10V-CWC
+- Intelligent sensing and control of 0-10V luminaires
+3.0"
+(76mm)
+4.5"
+(114mm)
+DIM “A”
+DIM “B”
+1.2"
+(30mm)
+Rev. Date: V16 03/05/2025
+Styllus Linear® Series
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Product Description
+The Styllus Linear® Series is a full range linear architectural portfolio. Its sleek minimalistic design provides clean uniform 
+lines of light for any application such as: offices, healthcare, education and interior design. With smooth full-range 
+dimming down to 1%, the Styllus Linear® Series allows each space with the appropriate light level needed for any activity. 
+Available in up to 72 feet of continuous rows of seamless light in two-foot increments. Being versatile for lighting design, it 
+is configurable in straight linear rows or geometric patterns, and compatible with Cree Lighting's SmartCast® Technology, 
+Lutron Vive, and Lutron EcoSystem controls systems. Specifiable in three colors: white, black and graphite, the Styllus 
+Linear® Series is perfect for any application.
+Applications:  Suspended Direct/Indirect applications for new construction and upgrade
+Initial Delivered Lumens: 510-1,150 lumens per foot Downlight / 450-1,025 lumens per foot Uplight
+Efficacy: Up to 119 LPW Downlight / 131 LPW Uplight
+CRI: 80+ CRI
+CCT: 3000K, 3500K, 4000K
+Input Voltage: 120-277 VAC or 347 VAC
+L70 Lifetime: > 100,000 hours at 35˚C
+Limited Warranty†: 10 years for luminaire; 5 years for SmartCast® and Lutron controls; up to 5 years for 
+SmartCast® accessories
+Limited Warranty Emergency Back Up (EB) Battery and Generator Transfer Device: 1 Year. Test regularly in 
+accordance with local codes. Contains Self-Diagnostic Emergency Battery Back-up
+Dimensions with End Caps: H 4.5" (114mm) x W 3.0" (76mm) x  L up to 72.02' (21.95m)
+Weight: 3.5 LB/FT (1.6kg)
+Dimming: 0-10V dimming to 1%, DALI dimming to 5%, SmartCast® Technology dimming to 5%, Lutron 
+EcoSystem dimming to 1%, Lutron Vive dimming to 5%
+Assembled in the USA from US and imported parts
+† See https://www.creelighting.com/resources/warranties/ for warranty terms. For SmartCast accessories, consult SmartCast spec sheets for details 
+on warranty terms.
+Performance Summary
+ST3 SI
+Family Mounting Length Plan* Uplight 
+Output
+Downlight 
+OutputCRI CCT Voltage Downlight 
+OptionControls Suspension 
+Length
+Ceiling 
+TypeFinish Options
+ST3 
+Styllus 
+Linear® 
+3"
+SI 
+Suspended 
+Direct/
+Indirect
+02 
+- 2' 
+increments 
+up to 72'
+Blank
+Linear
+S_
+Square
+R_X_
+Rectangle
+U_X_X_
+U Shape
+L_X_
+L Shape
+C_
+Custom
+L
+Low
+(450 Lumens/
+FT)
+M
+Medium
+(745 Lumens/
+FT)
+H
+High 
+(1025 
+Lumens/FT)
+L
+Low
+(510 Lumens/
+FT)
+M
+Medium
+(830 Lumens/
+FT)
+H
+High 
+(1150 
+Lumens/FT)
+8
+80 CRI
+30K
+3000K
+35K
+3500K
+40K
+4000K 
+Blank
+120-277 
+Volt
+34
+347 Volt
+L
+Lambertian
+W
+Wall Wash/
+Asymmetric 
+Optic
+- Not 
+available with 
+SmartCast or 
+Lutron Vive
+- Not 
+available with 
+EB or GT
+10V
+0-10V dimming to 1%
+DAL
+DALI dimming to 5%
+- Not available with 2'lengths 
+or 347V
+SC5
+SmartCast Wireless control
+and integral sensors. 
+- Dimming to 5%
+- Not available in 2' lengths
+LDE1
+Lutron EcoSystem (Lutron 
+HiLume 1% EcoSystem LED 
+Driver with Soft-on, Fade to 
+Black Dimming Technology) 
+- Not available in 2' or 347v
+VDO
+Lutron Vive (5% 
+Dimming)
+- Not available in 2', 
+section lengths
+- Not available for 
+corners
+- Not available in 347V
+04  
+Up to 4'
+08 
+Up to 8'
+12
+Up to 12'
+A
+1" T Bar
+B
+9/16"  
+T Bar
+C
+Screw 
+Slot T 
+Bar
+D
+Hard 
+Ceiling
+WH 
+White
+BK 
+Black
+GR 
+Graphite
+EB 10W Emergency Battery 
+Backup**
+- 120-277V only
+- Standard 1 EB/Run; f
+or 
+additional emergency units 
+per run, consult sales
+- Illuminates firs
+t 4' of fixture
+ - Not available in 2' fixtur
+es
+GT Generator T
+ransfer 
+Device**
+- 120/277V only
+ - Not available in 2' fixtur
+es
+DF Dual Feed
+ - Allow
+s for independent control 
+of direct and indirect light
+ -  Not available with Lutr
+on Vive
+- Not available with G
+T option
+- Not supported with 
+SmartCast Wir
+eless***
+Ordering Information
+Example: ST3-SI-02-L-L-8-30K-L-10V-12-D-WH
+* Refer to page 6 for Plan Diagram for Corners.
+** GT and EB cannot be used together.
+***SmartCast supports  independent wireless control of direct and indirect lights without Dual Feed.
+Accessories 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Product Specifications
+SMARTCAST® TECHNOLOGY
+SmartCast® Technology is the most intuitive and easiest to install intelligent light 
+solution on the market. SmartCast® Technology delivers up to 70% energy savings 
+at up to half the cost of other solutions. Luminaires combine best-in-class light with 
+onboard sensors and intelligence to deliver a better light experience. Extreme energy 
+productivity, code compliance and a better light experience without any extra design, 
+installation or setup work.
+CONSTRUCTION & MATERIALS
+• 6063 marine grade e xtruded aluminum housing
+• Matte acrylic l
+ens
+• Bead suspended acrylic lens
+• Te
+xtured powder coat paint with a matte white, black or graphite finish
+• Individual luminaires and c
+ontinuous rows include non-feed cable kits and power 
+feed/cable kits to support installation
+• Non-feed c
+able kits include a 2" aluminum canopy with 1/16" galvanized 7x7 steel 
+cable
+• Feed kit
+s include a 5" aluminum canopy with 1/16" galvanized 7x7 steel cable and 
+SJT power cord(s)
+• Included cor
+ds: All control options: (1) 18/5 cord; DF Option: (2) 18/4 cords; EB 
+Option: (1) 18/2 and (1) 18/4 cord; GT Option: (2) 18/5 cords; EB+DF Option: (1) 18/4 
+and (1) 18/5 cord
+• Luminaires with whit
+e finish include a white canopy and white cord(s); black or 
+graphite luminaire finishes include a black canopy and black cord(s) 
+• End caps ar
+e extruded aluminum and come installed on individually mounted 
+luminaires (2'-12')
+• One set of end caps is included t
+o accommodate runs from 14'-72'
+• Continuous ro
+ws include quick connect wiring harnesses for ease of installation. 
+Alignment pins between luminaires create seamless  
+appearance and straighter rows
+• Weight:
+ 3.5 lbs./ft.; for GTD, add 0.50 lbs. each; for EB, add 2.8 lbs. each
+OPTICAL SYSTEM
+• Ultra-Wide batwing distribution provides even illumination across a ceiling while 
+all
+owing for maximum spacing between fixtures
+• Multiple lumen int
+ensities along with various up/down light options to provide the 
+correct level of illumination within each space
+• High efficiency diffuser designed to minimize glar
+e and provide uniform light 
+distribution
+ELECTRICAL SYSTEM
+• Power Factor: > 0.9 at full load
+• Input Po
+wer: Stays constant over life
+• Input Volt
+age: 120-277V or 347V, 50/60Hz
+• Operating T
+emperature Range: -20˚C - +35˚C (-4˚F - +95˚F); 
+minimum operating temperature with EB14 option is 0˚C (32˚F)
+• Tot
+al Harmonic Distortion: < 20% at full load
+10V DIMMING AND CONTROL
+• Continuous dimming to 1% with 0-10V DC c ontrol protocol
+• 10V Sourc
+e Current: 0.60mA maximum up to 12'
+• Use only lighting c
+ontrols with neutral connection or controls intended for use with 
+LED fixtures
+• Ref
+erence https://cree.widen.net/s/b6gdfgzrd9/0-10v-and-step-dimming-controls-
+spec-sheet-cr-flex-zr-troffers-ls-ur-styllus-ws-cdr-kbl 
+for recommended dimming controls and wiring diagrams
+• Luminaires with D
+ALI, SmartCast and Lutron Vive dim to 5%. Lutron EcoSystem dims 
+to 1%
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus list ed
+• Suitabl
+e for damp locations
+• Designed for indoor use onl
+y
+• Suitabl
+e for continuous row mounting
+• Not intended f
+or use in environments containing airborne corrosive 
+agents such as chemical solvents, cleaners, or cutting fluids
+• UL924 (EB option). Maximum mounting height: 15.0' (4.6m)
+• RoHS c
+ompliant. Consult factory for additional details
+• Meets F
+CC Part 15, Subpart B, Class A limits for conducted and 
+radiated emissions
+• Meets the r
+equirements for Buy American Act (BAA) because it qualifies as a 
+commercially-available off-the-shelf (COTS) item. Please refer to www.creelighting. 
+com/BAA-BABA
+• Assembl
+ed in the USA from US and imported parts
+• DLC Qualified when or
+dered in 6-12' lengths with 80 CRI and lambertian downlight 
+distribution. Please refer to https://qpl.designlights.org/solid-state-lighting for most 
+current information
+•        C
+A RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+SmartCast® Technology
+INTEGRAL MOTION SENSOR
+• Passive infrared (PIR)
+• Cov
+erage area: Please refer to the PIR motion sensor coverage table
+• Not intended t
+o be mounted higher than 20 ft.
+• Operation:
+• Grouped with a w
+all control: Luminaire will operate in vacancy mode (manual-on/auto-off)
+• Not grouped with a w
+all control: Luminaire will operate in occupancy mode (auto-on/auto-
+off)
+• Luminaires oper
+ate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool 
+AMBIENT LIGHT SENSOR
+• Sensor response mat ches response of human eye
+• Not intended t
+o be mounted higher than 20 ft. (6.1m)
+• Luminaires oper
+ate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+• Daylight harv
+esting calibration performed automatically during OneButton™ Setup
+INTEGRAL WIRELESS COMMUNICATION
+• 2.4GHz wirel ess mesh technology with AES 128-bit encryption
+• Self assigns t
+o quietest channel during OneButton™ Setup
+• Range:
+• 30 ft. (9.1m) in typical c
+ommercial applications
+• 300 ft. (91.4m) open air without obstructions
+• Network:
+ 250 devices max.
+• Space:
+ 100 devices max. per group
+• FC
+C and IC certifications
+LUMINAIRE
+• Luminaires oper ate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+• Independent wirel
+ess control of direct and indirect lights  through  SmartCast wall dimmers and 
+SmartCast Touchscreen
+• 10-year po
+wer fail memory of settings
+• NOTE:
+ SmartCast luminaires must be installed on unswitched AC power. Constant power is re-
+quired to maintain all luminaires on the SmartCast network. If wall control or manual dimming 
+is required, a SmartCast wall control dimmer must be used for manual on, off, and dimming.
+DEPLOYMENT
+• Please refer to the SmartCast® Deployment Guide at     
+https://cr
+ee.widen.net/s/mvxtfd2pcz/smartcastr-wireless-deployment-guide
+PIR Motion Sensor Coverage 
+H
+D
+Mounting Height - H 
+(Feet)
+Motion Sensor Coverage Diameter - D (Feet)
+Sensitivity - High (Default) Sensitivity - Medium Sensitivity - Low
+10 20 10 8
+12 26 14 12
+14 28 15 13
+20 38 Not Recommended Not Recommended
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Electrical Data*
+Length
+Direct
+Lumen 
+Package
+Indirect Lumen Package
+Medium Lumen Package  
+   
+Sy
+stem Watts Total Current (A)
+120-347V 120V 208V 240V 277V 347V
+2'
+L 24 0.20 0.12 0.10 0.09 0.07
+M 29 0.24 0.14 0.12 0.11 0.09
+H 35 0.29 0.17 0.15 0.13 0.10
+4'
+L 43 0.36 0.21 0.18 0.16 0.12
+M 54 0.45 0.26 0.23 0.20 0.16
+H 65 0.55 0.31 0.27 0.24 0.19
+6'
+L 62 0.51 0.30 0.26 0.22 0.18
+M 79 0.65 0.38 0.33 0.28 0.23
+H 95 0.80 0.46 0.40 0.34 0.27
+8'
+L 81 0.68 0.39 0.34 0.29 0.23
+M 103 0.86 0.49 0.43 0.37 0.29
+H 126 1.06 0.60 0.52 0.45 0.36
+10'
+L 101 0.84 0.49 0.42 0.36 0.29
+M 127 1.07 0.61 0.53 0.46 0.36
+H 159 1.33 0.76 0.66 0.57 0.45
+12'
+L 120 1.01 0.58 0.50 0.44 0.35
+M 155 1.29 0.75 0.65 0.56 0.45
+H 189 1.59 0.91 0.79 0.68 0.54
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%. For electrical data 
+for continuous runs to 72', please refer to the Initial Delivered Lumens & Electrical Data chart on pages 10-18.
+Electrical Data*
+Length
+Direct 
+Lumen 
+Package
+Indirect Lumen Package
+Low Lumen Package 
+    
+Sy
+stem Watts Total Current (A)
+120-347V 120V 208V 240V 277V 347V
+2'
+L 20 0.17 0.10 0.08 0.07 0.06
+M 25 0.21 0.12 0.11 0.09 0.08
+H 31 0.26 0.15 0.13 0.11 0.09
+4'
+L 35 0.28 0.16 0.14 0.12 0.09
+M 46 0.38 0.22 0.19 0.16 0.13
+H 57 0.48 0.27 0.24 0.20 0.16
+6'
+L 49 0.41 0.24 0.21 0.18 0.14
+M 66 0.55 0.32 0.27 0.24 0.19
+H 82 0.69 0.40 0.34 0.30 0.23
+8'
+L 64 0.54 0.31 0.27 0.23 0.18
+M 86 0.71 0.41 0.36 0.31 0.24
+H 109 0.91 0.52 0.45 0.39 0.31
+10'
+L 81 0.67 0.39 0.34 0.29 0.24
+M 107 0.90 0.51 0.45 0.39 0.31
+H 139 1.16 0.66 0.57 0.50 0.40
+12'
+L 94 0.79 0.45 0.39 0.34 0.27
+M 129 1.07 0.62 0.54 0.46 0.37
+H 163 1.37 0.78 0.68 0.59 0.46
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%. For electrical data 
+for continuous runs to 72', please refer to the Initial Delivered Lumens & Electrical Data chart on pages 10-18.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Styllus Linear® Series Ambient Adjusted Lumen Maintenance1
+Ambient Initial
+LMF
+25K hr
+Reported2
+LMF
+50K hr
+Estimated3
+LMF
+75K hr
+Estimated3
+LMF
+100K hr
+Estimated3
+LMF
+5˚C (41˚F) 1.03 1.00 0.95 0.91 0.87
+15˚C (59˚F) 1.01 0.98 0.93 0.89 0.85
+25˚C (77˚F) 1.00 0.97 0.92 0.88 0.84
+30˚C (86˚F) 0.99 0.96 0.91 0.87 0.83
+35˚C (95˚F) 0.99 0.96 0.91 0.87 0.83
+1 Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 
+report data for the LED package and in-situ luminaire testing. Luminaire ambient temperature 
+factors (LATF) have been applied to all lumen maintenance factors. 
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time 
+durations that are up to 6x the tested duration in the IES LM-80 report for the LED.
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration 
+of the LED.
+Electrical Data*
+Length
+Direct
+Lumen 
+Package
+Indirect Lumen Package
+High Lumen Package 
+    
+Sy
+stem Watts Total Current (A)
+120-347V 120V 208V 240V 277V 347V
+2'
+L 29 0.24 0.14 0.12 0.11 0.08
+M 34 0.29 0.17 0.14 0.12 0.10
+H 40 0.34 0.19 0.17 0.14 0.11
+4'
+L 53 0.44 0.25 0.22 0.19 0.15
+M 64 0.53 0.31 0.27 0.23 0.19
+H 75 0.63 0.36 0.31 0.27 0.22
+6'
+L 77 0.64 0.37 0.32 0.28 0.22
+M 94 0.78 0.45 0.39 0.34 0.27
+H 110 0.93 0.53 0.46 0.40 0.31
+8'
+L 101 0.85 0.49 0.42 0.37 0.29
+M 123 1.03 0.59 0.51 0.44 0.35
+H 146 1.23 0.70 0.61 0.53 0.42
+10'
+L 127 1.06 0.61 0.53 0.46 0.37
+M 153 1.29 0.74 0.64 0.55 0.44
+H 185 1.55 0.89 0.77 0.67 0.53
+12'
+L 153 1.28 0.74 0.64 0.55 0.44
+M 188 1.56 0.90 0.78 0.68 0.54
+H 222 1.86 1.07 0.92 0.80 0.63
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%. For electrical data 
+for continuous runs to 72', please refer to the Initial Delivered Lumens & Electrical Data chart on pages 10-18.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+ON-GRID MOUNTING
+weight of luminaire/luminaire row.
+SAVE THESE INSTALLATION INSTRUCTIONS
+1" T-GRID (T1) 9/16" T-GRID (T9) SCREW SLOT GRID (SC)1" T-Grid 9/16" T-Grid Screw Slot
+Grid
+OFF-GRID MOUNTING
+SAVE THESE INSTALLATION INSTRUCTIONS
+SHEETROCK LATHE & PLASTER VARIOUS "HARD CEILINGS"
+weight of luminaire/luminaire row.
+Sheetrock Lathe & Plaster Various "Hard Ceilings"
+3/8” 5/8”
+5.0”
+.25”
+5/8” 5/8”3/8”
+5.0”
+.25”
+3/8”
+2.0”
+.25”
+10V/DALI FEED CANOPY DF/EB/GT FEED CANOPY NON-FEED CANOPY
+Initial Delivered Lumens (30K/35K/40K)
+Direct 
+Lumen 
+Package
+Indirect Lumen Package - 80 CRI
+Low Medium High
+Downlight Uplight Downlight Uplight Downlight Uplight
+L 510 450 510 745 510 1025
+M 830 450 830 745 830 1025
+H 1150 450 1150 745 1150 1025
+Percentage of Downlight/Uplight      
+Direct 
+Lumen 
+Package
+Indirect Lumen Package
+Low Medium High
+%Downlight %Uplight %Downlight %Uplight %Downlight %Uplight
+L 53% 47% 41% 59% 33% 67%
+M 65% 35% 53% 47% 45% 55%
+H 72% 28% 61% 39% 53% 47%
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Photometry
+ST3-SI-04-H-H-30K-L-10V-04-A-WH BASED ON RESTL REPORT TEST #: PL14232-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 107 107 107 107
+1 97 93 89 86
+2 89 81 75 70
+3 81 71 64 58
+4 74 63 55 49
+5 68 56 48 42
+6 63 50 42 37
+7 58 46 38 32
+8 54 41 34 28
+9 50 38 30 25
+10 47 35 27 23
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angl e
+0˚ 45˚ 90˚
+45˚ 13,163 12,773 10,256
+55˚ 12,339 12,029 9,479
+65˚ 11,461 11,239 8,690
+75˚ 10,221 10,142 7,516
+85˚ 9,242 9,020 5,984
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1008.12 N/A 14.20%
+0-40 1621.79 N/A 22.80%
+0-60 2772.62 N/A 39.00%
+0-90 3477.9 N/A 48.90%
+90-120 971.81 N/A 13.70%
+90-150 2918.48 N/A 41.00%
+90-180 3633.34 N/A 51.10%
+0-180 7111.24 N/A 100.00%
+ST3-SI-04-H-H-30K-L-****
+Initial Delivered Lumens: 7,111
+Reference https://www.creelighting.com/styllus-series/ for detailed photometric data.
+Plan Diagram for Corners
+S_ R_X_ U_X_X_ L_X_
+Square
+Provide "A" dimension
+Example: S8'
+Part Number: ST3-SI-32-S8-L-L-8-30K-L-10V-
+04-A-WH
+Rectangle
+Provide "AxB" dimension
+Example: R12'x8'
+Part Number: ST3-SI-40-R12X8-L-L-8-30K-L-10V-
+04-A-WH
+U-Shape
+Provide "AxBxC" dimension
+Example: U12'x8'x12'
+Part Number: ST3-SI-32-U12X8X12-L-L-8-30K-
+L-10V-04-A-WH
+L-Shape
+Provide "AxB" dimension
+Example: L16'x8'
+Part Number: ST3-SI-24-L16X8-L-L-8-30K-
+L-10V-04-A-WH
+358
+716
+1074
+1432150˚
+120˚ 120˚
+60˚
+90˚ 90˚
+60˚
+30˚
+150˚
+90˚ 0˚
+NOTE: Corner units are 4' in length, 2' for each leg. 
+Actual dimensions for corner units are 24.75" for each leg.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Application Reference 
+Based on ST3-SI-04-H-H-8-30K-L-**** Luminaire
+Open Space
+Linear ft*
+80 CRI
+Direct
+Lumen 
+Package
+Direct 
+Lumens
+/ft
+Indirect
+Lumen 
+Package
+Indirect 
+Lumens
+/ft
+Average 
+FC
+FC/
+Linear ft
+120
+Low 510 Low 450 49 0.41
+Medium 830 Medium 745 81 0.67
+High 1150 High 1025 111 0.92
+100
+Low 510 Low 450 41 0.41
+Medium 830 Medium 745 67 0.67
+High 1150 High 1025 92 0.92
+80
+Low 510 Low 450 33 0.41
+Medium 830 Medium 745 54 0.67
+High 1150 High 1025 74 0.92
+64
+Low 510 Low 450 26 0.41
+Medium 830 Medium 745 42 0.67
+High 1150 High 1025 59 0.92
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, 8.5' mounting height. LLF: 1.0 Initial.
+Open Space: 50' x 40' x 10'
+Fixture spacing should typically not exceed 1x the mounting height in an open space or .5x the mounting height from a wall when it's the sole source of light.
+* Maximum run length is 72'
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Application Reference 
+Based on ST3-SI-04-H-30K-W-**** Luminaire
+Photometry
+ST3-SI-04-H-H-30K-W-**** BASED ON RESTL REPORT TEST #S: PL15326-001B (DOWNLIGHT) & PL14232-001 (UPLIGHT)
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 108 108 108 108
+1 99 95 91 87
+2 90 83 77 72
+3 82 73 66 60
+4 76 65 57 51
+5 69 58 50 44
+6 64 52 44 38
+7 59 47 39 34
+8 55 43 35 30
+9 51 39 32 27
+10 48 36 29 24
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angl e
+0˚ 45˚ 90˚
+45˚ 14,480 16,860 16,516
+55˚ 13,623 15,318 13,042
+65˚ 12,585 12,224 9,458
+75˚ 11,081 8,684 7,267
+85˚ 8,686 6,058 5,207
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1149.07 N/A 16.90%
+0-40 1830.25 N/A 26.90%
+0-60 3021.98 N/A 44.40%
+0-90 3625.66 N/A 53.30%
+0-180 6800.06 N/A 100.00%
+ST3-SI-04-H-H-30K-W-****
+Initial Delivered Lumens: 6,800
+Reference https://www.creelighting.com/styllus-series/ for detailed photometric data.
+405
+810
+1216
+1621150˚
+120˚ 120˚
+60˚
+90˚ 90˚
+60˚
+30˚
+150˚
+0˚ 90˚
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® Suspended Configuration Chart
+Length 
+(feet)
+Units
+Aperture
+(inches)
+End Cap to End Cap
+(inches)
+1/8"
+End Cap Kits2' 4' 6' 8' 10' 12'
+2 1 24 24.25
+4 1 48 48.25
+6 1 72 72.25
+8 1 96 96.25
+10 1 120 120.25 1
+12 1 144 144.25 1
+14 1 1 168 168.25 1
+16 2 192 192.25 1
+18 1 1 1 216 216.25 1
+20 1 2 240 240.25 1
+22 1 2 264 264.25 1
+24 3 288 288.25 1
+26 1 1 2 312 312.25 1
+28 1 3 336 336.25 1
+30 1 3 360 360.25 1
+32 4 384 384.25 1
+34 1 1 3 408 408.25 1
+36 1 4 432 432.25 1
+38 1 4 456 456.25 1
+40 5 480 480.25 1
+42 1 1 4 504 504.25 1
+44 1 5 528 528.25 1
+46 1 5 552 552.25 1
+48 6 576 576.25 1
+50 1 1 5 600 600.25 1
+52 1 6 625 625.25 1
+54 1 6 648 648.25 1
+56 7 672 672.25 1
+58 1 1 6 696 696.25 1
+60 1 7 720 720.25 1
+62 1 7 744 744.25 1
+64 8 768 768.25 1
+66 1 1 7 792 792.25 1
+68 1 8 816 816.25 1
+70 1 8 840 840.25 1
+72 9 864 864.25 1
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens & Electrical Data*
+Length
+Direct 
+Lumen 
+Package
+Indirect Lumen Package
+Low Lumen Package
+System 
+Watts Initial Delivered Lumens** Total Current (A)
+120-
+347V
+Lambertian/Wall 
+Wash Distributions 
+Downlight
+Batwing Distribution 
+Uplight 120V 208V 240V 277V 347V
+80 CRI 80 CRI
+2'
+L 20 1,020  900 0.17 0.10 0.08 0.07 0.06
+M 25 1,660  900 0.21 0.12 0.11 0.09 0.08
+H 31 2,300  900 0.26 0.15 0.13 0.11 0.09
+4'
+L 35 2,050  1,790 0.28 0.16 0.14 0.12 0.09
+M 46 3,330  1,790 0.38 0.22 0.19 0.16 0.13
+H 57 4,610  1,790 0.48 0.27 0.24 0.20 0.16
+6'
+L 49 3,070  2,690 0.41 0.24 0.21 0.18 0.14
+M 66 4,990  2,690 0.55 0.32 0.27 0.24 0.19
+H 82 6,900  2,690 0.69 0.40 0.34 0.30 0.23
+8'
+L 64 4,100  3,580 0.54 0.31 0.27 0.23 0.18
+M 86 6,650  3,580 0.71 0.41 0.36 0.31 0.24
+H 109 9,225  3,580 0.91 0.52 0.45 0.39 0.31
+10'
+L 81 5,125  4,480 0.67 0.39 0.34 0.29 0.24
+M 107 8,325  4,480 0.90 0.51 0.45 0.39 0.31
+H 139 11,525  4,480 1.16 0.66 0.57 0.50 0.40
+12'
+L 94 6,150  5,375 0.79 0.45 0.39 0.34 0.27
+M 129 9,975  5,375 1.07 0.62 0.54 0.46 0.37
+H 163 13,825  5,375 1.37 0.78 0.68 0.59 0.46
+14'
+L 113 7,170  6,270 0.95 0.54 0.47 0.41 0.33
+M 152 11,640  6,270 1.26 0.73 0.63 0.55 0.44
+H 191 16,125  6,270 1.61 0.92 0.79 0.69 0.55
+16'
+L 128 8,200  7,160 1.07 0.61 0.53 0.46 0.36
+M 172 13,300  7,160 1.43 0.82 0.71 0.62 0.48
+H 218 18,450  7,160 1.83 1.04 0.90 0.78 0.62
+18'
+L 148 9,220  8,060 1.23 0.71 0.61 0.53 0.42
+M 198 14,970  8,060 1.64 0.94 0.82 0.71 0.57
+H 248 20,735  8,060 2.08 1.19 1.03 0.89 0.71
+20'
+L 163 10,250  8,950 1.35 0.78 0.68 0.58 0.46
+M 218 16,630  8,950 1.80 1.04 0.90 0.78 0.62
+H 275 23,060  8,950 2.30 1.31 1.14 0.99 0.79
+22'
+L 177 11,270  9,850 1.48 0.85 0.74 0.64 0.51
+M 238 18,290  9,850 1.97 1.14 0.99 0.85 0.68
+H 300 25,350  9,850 2.52 1.44 1.25 1.08 0.86
+24'
+L 192 12,300  10,740 1.61 0.92 0.80 0.69 0.55
+M 258 19,950  10,740 2.14 1.23 1.07 0.92 0.73
+H 327 27,675  10,740 2.74 1.56 1.35 1.17 0.94
+26'
+L 212 13,320  11,640 1.76 1.02 0.88 0.76 0.60
+M 284 21,620  11,640 2.35 1.35 1.17 1.02 0.81
+H 357 29,960  11,640 2.99 1.71 1.48 1.28 1.02
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens & Electrical Data*
+Length
+Direct 
+Lumen 
+Package
+Indirect Lumen Package
+Low Lumen Package
+System 
+Watts Initial Delivered Lumens** Total Current (A)
+120-
+347V
+Lambertian/Wall 
+Wash Distributions 
+Downlight
+Batwing Distribution 
+Uplight 120V 208V 240V 277V 347V
+80 CRI 80 CRI
+28'
+L 227 14,350  12,530 1.89 1.09 0.94 0.82 0.64
+M 304 23,280  12,530 2.52 1.45 1.26 1.09 0.86
+H 384 32,285  12,530 3.22 1.83 1.59 1.38 1.10
+30'
+L 241 15,370  13,430 2.02 1.16 1.00 0.87 0.69
+M 324 24,940  13,430 2.69 1.55 1.34 1.16 0.92
+H 409 34,575  13,430 3.43 1.96 1.70 1.47 1.17
+32'
+L 256 16,400  14,320 2.14 1.23 1.07 0.92 0.73
+M 344 26,600  14,320 2.85 1.64 1.42 1.23 0.97
+H 436 36,900  14,320 3.65 2.08 1.80 1.56 1.25
+34'
+L 276 17,420  15,220 2.30 1.32 1.15 0.99 0.79
+M 370 28,270  15,220 3.06 1.77 1.53 1.33 1.06
+H 466 39,185  15,220 3.91 2.23 1.93 1.67 1.34
+36'
+L 291 18,450  16,110 2.42 1.39 1.21 1.05 0.82
+M 390 29,930  16,110 3.23 1.86 1.61 1.40 1.10
+H 493 41,510  16,110 4.13 2.35 2.04 1.77 1.41
+38'
+L 305 19,470  17,010 2.55 1.47 1.27 1.10 0.87
+M 410 31,590  17,010 3.40 1.96 1.70 1.47 1.16
+H 518 43,800  17,010 4.35 2.48 2.15 1.86 1.48
+40'
+L 320 20,500  17,900 2.68 1.54 1.33 1.15 0.91
+M 430 33,250  17,900 3.57 2.05 1.78 1.54 1.21
+H 545 46,125  17,900 4.57 2.60 2.25 1.95 1.56
+42'
+L 340 21,520  18,800 2.83 1.63 1.41 1.22 0.97
+M 456 34,920  18,800 3.78 2.18 1.89 1.63 1.30
+H 575 48,410  18,800 4.82 2.75 2.38 2.06 1.65
+44'
+L 355 22,550  19,690 2.96 1.70 1.47 1.28 1.01
+M 476 36,580  19,690 3.94 2.27 1.97 1.71 1.35
+H 602 50,735  19,690 5.04 2.87 2.49 2.16 1.73
+46'
+L 369 23,570  20,590 3.09 1.77 1.54 1.33 1.06
+M 496 38,240  20,590 4.11 2.37 2.05 1.78 1.41
+H 627 53,025  20,590 5.26 3.00 2.60 2.25 1.80
+48'
+L 384 24,600  21,480 3.21 1.84 1.60 1.38 1.09
+M 516 39,900  21,480 4.28 2.46 2.14 1.85 1.45
+H 654 55,350  21,480 5.48 3.12 2.71 2.34 1.87
+50'
+L 404 25,620  22,380 3.37 1.94 1.68 1.46 1.15
+M 542 41,570  22,380 4.49 2.59 2.24 1.94 1.54
+H 684 57,635  22,380 5.73 3.27 2.83 2.46 1.96
+52'
+L 419 26,650  23,270 3.49 2.01 1.74 1.51 1.19
+562 43,230  23,270 4.66 2.68 2.32 2.01 1.59
+H 711 59,960  23,270 5.96 3.39 2.94 2.55 2.04
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens & Electrical Data*
+Length
+Direct 
+Lumen 
+Package
+Indirect Lumen Package
+Low Lumen Package
+System 
+Watts Initial Delivered Lumens** Total Current (A)
+120-
+347V
+Lambertian/Wall 
+Wash Distribu-
+tions Downlight
+Batwing Distribu-
+tion Uplight 120V 208V 240V 277V 347V
+80 CRI 80 CRI
+54'
+L 433 27,670  24,170 3.62 2.08 1.80 1.56 1.24
+M 582 44,890  24,170 4.83 2.78 2.41 2.09 1.65
+H 736 62,250  24,170 6.17 3.52 3.05 2.64 2.11
+56'
+L 448 28,700  25,060 3.75 2.15 1.86 1.61 1.28
+M 602 46,550  25,060 4.99 2.87 2.49 2.16 1.70
+H 763 64,575  25,060 6.39 3.64 3.16 2.73 2.19
+58'
+L 468 29,720  25,960 3.90 2.25 1.95 1.69 1.33
+M 628 48,220  25,960 5.20 3.00 2.60 2.25 1.78
+H 793 66,860  25,960 6.65 3.79 3.29 2.85 2.27
+60'
+L 483 30,750  26,850 4.03 2.31 2.01 1.74 1.37
+M 648 49,880  26,850 5.37 3.09 2.68 2.32 1.83
+H 820 69,185  26,850 6.87 3.91 3.39 2.94 2.35
+62'
+L 497 31,770  27,750 4.16 2.39 2.07 1.79 1.42
+M 668 51,540  27,750 5.54 3.19 2.76 2.39 1.89
+H 845 71,475  27,750 7.09 4.04 3.50 3.03 2.42
+64'
+L 512 32,800  28,640 4.28 2.46 2.13 1.85 1.46
+M 688 53,200  28,640 5.71 3.28 2.85 2.47 1.94
+H 872 73,800  28,640 7.31 4.16 3.61 3.12 2.50
+66'
+L 532 33,820  29,540 4.44 2.55 2.21 1.92 1.52
+M 714 54,870  29,540 5.92 3.41 2.95 2.56 2.03
+H 902 76,085  29,540 7.56 4.31 3.74 3.24 2.59
+68'
+L 547 34,850  30,430 4.56 2.62 2.27 1.97 1.55
+M 734 56,530  30,430 6.08 3.50 3.04 2.63 2.07
+H 929 78,410  30,430 7.78 4.43 3.84 3.33 2.66
+70'
+L 561 35,870  31,330 4.69 2.70 2.34 2.02 1.60
+M 754 58,190  31,330 6.25 3.60 3.12 2.70 2.13
+H 954 80,700  31,330 8.00 4.56 3.95 3.42 2.73
+72'
+L 576 36,900  32,220 4.82 2.76 2.40 2.08 1.64
+M 774 59,850  32,220 6.42 3.70 3.20 2.77 2.18
+H 981 83,025  32,220 8.22 4.68 4.06 3.52 2.81
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens & Electrical Data*
+Length
+Direct 
+Lumen 
+Package
+Indirect Lumen Package
+Medium Lumen Package
+System 
+Watts Initial Delivered Lumens** Total Current (A)
+120-
+347V
+Lambertian/Wall 
+Wash Distribu-
+tions Downlight
+Batwing Distribution 
+Uplight 120V 208V 240V 277V 347V
+80 CRI 80 CRI
+2'
+L 24 1,020  1,490 0.20 0.12 0.10 0.09 0.07
+M 29 1,660  1,490 0.24 0.14 0.12 0.11 0.09
+H 35 2,300  1,490 0.29 0.17 0.15 0.13 0.10
+4'
+L 43 2,050  2,970 0.36 0.21 0.18 0.16 0.12
+M 54 3,330  2,970 0.45 0.26 0.23 0.20 0.16
+H 65 4,610  2,970 0.55 0.31 0.27 0.24 0.19
+6'
+L 62 3,070  4,450 0.51 0.30 0.26 0.22 0.18
+M 79 4,990  4,450 0.65 0.38 0.33 0.28 0.23
+H 95 6,900  4,450 0.80 0.46 0.40 0.34 0.27
+8'
+L 81 4,100  5,950 0.68 0.39 0.34 0.29 0.23
+M 103 6,650  5,950 0.86 0.49 0.43 0.37 0.29
+H 126 9,225  5,950 1.06 0.60 0.52 0.45 0.36
+10'
+L 101 5,125  7,425 0.84 0.49 0.42 0.36 0.29
+M 127 8,325  7,425 1.07 0.61 0.53 0.46 0.36
+H 159 11,525  7,425 1.33 0.76 0.66 0.57 0.45
+12'
+L 120 6,150  8,900 1.01 0.58 0.50 0.44 0.35
+M 155 9,975  8,900 1.29 0.75 0.65 0.56 0.45
+H 189 13,825  8,900 1.59 0.91 0.79 0.68 0.54
+14'
+L 143 7,170  10,400 1.19 0.69 0.60 0.52 0.41
+M 182 11,640  10,400 1.51 0.87 0.75 0.65 0.52
+H 221 16,125  10,400 1.85 1.06 0.92 0.80 0.63
+16'
+L 162 8,200  11,900 1.36 0.78 0.68 0.59 0.46
+M 206 13,300  11,900 1.72 0.99 0.86 0.74 0.58
+H 252 18,450  11,900 2.12 1.21 1.05 0.91 0.72
+18'
+L 186 9,220  13,370 1.55 0.89 0.78 0.67 0.53
+M 236 14,970  13,370 1.96 1.13 0.98 0.85 0.68
+H 286 20,735  13,370 2.40 1.38 1.19 1.03 0.82
+20'
+L 205 10,250  14,870 1.72 0.99 0.86 0.74 0.58
+M 260 16,630  14,870 2.17 1.25 1.08 0.94 0.74
+H 317 23,060  14,870 2.66 1.52 1.32 1.14 0.91
+22'
+L 224 11,270  16,350 1.87 1.08 0.93 0.81 0.64
+M 285 18,290  16,350 2.37 1.36 1.18 1.02 0.81
+H 347 25,350  16,350 2.91 1.66 1.44 1.25 0.99
+24'
+L 243 12,300  17,850 2.04 1.17 1.02 0.88 0.70
+M 309 19,950  17,850 2.57 1.48 1.28 1.11 0.88
+H 378 27,675  17,850 3.17 1.81 1.57 1.36 1.09
+26'
+L 267 13,320  19,320 2.23 1.29 1.11 0.96 0.76
+M 339 21,620  19,320 2.82 1.62 1.41 1.22 0.97
+H 412 29,960  19,320 3.46 1.98 1.71 1.49 1.18
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens & Electrical Data*
+Length
+Direct 
+Lumen 
+Package
+Indirect Lumen Package
+Medium Lumen Package
+System 
+Watts Initial Delivered Lumens** Total Current (A)
+120-
+347V
+Lambertian/Wall 
+Wash Distribu-
+tions Downlight
+Batwing Distribution 
+Uplight 120V 208V 240V 277V 347V
+80 CRI 80 CRI
+28'
+L 286 14,350  20,820 2.40 1.38 1.19 1.03 0.82
+M 363 23,280  20,820 3.02 1.74 1.51 1.31 1.04
+H 443 32,285  20,820 3.72 2.13 1.84 1.60 1.28
+30'
+L 305 15,370  22,300 2.55 1.47 1.27 1.10 0.88
+M 388 24,940  22,300 3.22 1.86 1.61 1.39 1.11
+H 473 34,575  22,300 3.97 2.27 1.96 1.70 1.36
+32'
+L 324 16,400  23,800 2.72 1.56 1.35 1.17 0.93
+M 412 26,600  23,800 3.43 1.98 1.71 1.48 1.17
+H 504 36,900  23,800 4.23 2.41 2.09 1.81 1.45
+34'
+L 348 17,420  25,270 2.91 1.68 1.45 1.26 1.00
+M 442 28,270  25,270 3.67 2.12 1.84 1.59 1.27
+H 538 39,185  25,270 4.52 2.58 2.24 1.94 1.55
+36'
+L 367 18,450  26,770 3.07 1.77 1.53 1.33 1.05
+M 466 29,930  26,770 3.88 2.24 1.94 1.68 1.33
+H 569 41,510  26,770 4.78 2.73 2.36 2.05 1.64
+38'
+L 386 19,470  28,250 3.23 1.86 1.61 1.40 1.11
+M 491 31,590  28,250 4.08 2.35 2.04 1.76 1.40
+H 599 43,800  28,250 5.03 2.87 2.49 2.16 1.72
+40'
+L 405 20,500  29,750 3.40 1.95 1.69 1.47 1.16
+M 515 33,250  29,750 4.29 2.47 2.14 1.85 1.46
+H 630 46,125  29,750 5.29 3.02 2.61 2.27 1.81
+42'
+L 429 21,520  31,220 3.59 2.07 1.79 1.55 1.23
+M 545 34,920  31,220 4.53 2.61 2.26 1.96 1.56
+H 664 48,410  31,220 5.58 3.19 2.76 2.39 1.91
+44'
+L 448 22,550  32,720 3.75 2.16 1.87 1.62 1.28
+M 569 36,580  32,720 4.74 2.73 2.37 2.05 1.62
+H 695 50,735  32,720 5.84 3.33 2.89 2.50 2.00
+46'
+L 467 23,570  34,200 3.91 2.25 1.95 1.69 1.34
+M 594 38,240  34,200 4.94 2.84 2.47 2.14 1.69
+H 725 53,025  34,200 6.08 3.47 3.01 2.61 2.08
+48'
+L 486 24,600  35,700 4.08 2.34 2.03 1.76 1.39
+M 618 39,900  35,700 5.15 2.96 2.57 2.22 1.75
+H 756 55,350  35,700 6.35 3.62 3.14 2.72 2.17
+50'
+L 510 25,620  37,170 4.27 2.46 2.13 1.84 1.46
+M 648 41,570  37,170 5.39 3.10 2.69 2.33 1.85
+H 790 57,635  37,170 6.63 3.79 3.28 2.84 2.27
+52'
+L 529 26,650  38,670 4.43 2.55 2.21 1.91 1.51
+M 672 43,230  38,670 5.60 3.22 2.79 2.42 1.91
+H 821 59,960  38,670 6.89 3.94 3.41 2.95 2.36
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens & Electrical Data*
+Length
+Direct 
+Lumen 
+Package
+Indirect Lumen Package
+Medium Lumen Package
+System 
+Watts Initial Delivered Lumens** Total Current (A)
+120-
+347V
+Lambertian/Wall 
+Wash Distributions 
+Downlight
+Batwing Distribution 
+Uplight 120V 208V 240V 277V 347V
+80 CRI 80 CRI
+54'
+L 548 27,670  40,150 4.59 2.64 2.29 1.98 1.57
+M 697 44,890  40,150 5.80 3.34 2.89 2.51 1.98
+H 851 62,250  40,150 7.14 4.08 3.53 3.06 2.44
+56'
+L 567 28,700  41,650 4.75 2.73 2.37 2.05 1.63
+M 721 46,550  41,650 6.00 3.46 3.00 2.60 2.05
+H 882 64,575  41,650 7.40 4.22 3.66 3.17 2.54
+58'
+L 591 29,720  43,120 4.95 2.85 2.47 2.14 1.69
+M 751 48,220  43,120 6.25 3.60 3.12 2.70 2.14
+H 916 66,860  43,120 7.69 4.39 3.81 3.30 2.63
+60'
+L 610 30,750  44,620 5.11 2.94 2.55 2.21 1.75
+M 775 49,880  44,620 6.45 3.72 3.22 2.79 2.21
+H 947 69,185  44,620 7.95 4.54 3.93 3.41 2.73
+62'
+L 629 31,770  46,100 5.27 3.03 2.63 2.28 1.81
+M 800 51,540  46,100 6.65 3.83 3.32 2.88 2.28
+H 977 71,475  46,100 8.20 4.68 4.06 3.51 2.81
+64'
+L 648 32,800  47,600 5.43 3.12 2.71 2.35 1.86
+M 824 53,200  47,600 6.86 3.95 3.42 2.97 2.34
+H 1008 73,800  47,600 8.46 4.83 4.18 3.62 2.90
+66'
+L 672 33,820  49,070 5.63 3.24 2.81 2.43 1.93
+M 854 54,870  49,070 7.10 4.09 3.55 3.07 2.44
+H 1042 76,085  49,070 8.75 5.00 4.33 3.75 3.00
+68'
+L 691 34,850  50,570 5.79 3.33 2.89 2.50 1.98
+M 878 56,530  50,570 7.31 4.21 3.65 3.16 2.50
+H 1073 78,410  50,570 9.01 5.14 4.46 3.86 3.09
+70'
+L 710 35,870  52,050 5.95 3.42 2.96 2.57 2.04
+M 903 58,190  52,050 7.51 4.33 3.75 3.25 2.57
+H 1103 80,700  52,050 9.26 5.28 4.58 3.97 3.17
+72'
+L 729 36,900  53,550 6.11 3.51 3.05 2.64 2.09
+M 927 59,850  53,550 7.72 4.44 3.85 3.34 2.63
+H 1134 83,025  53,550 9.52 5.43 4.71 4.08 3.26
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens & Electrical Data*
+Length
+Direct 
+Lumen 
+Package
+Indirect Lumen Package
+High Lumen Package
+System 
+Watts Initial Delivered Lumens** Total Current (A)
+120-
+347V
+Lambertian/Wall 
+Wash Distribu-
+tions Downlight
+Batwing Distribution 
+Uplight 120V 208V 240V 277V 347V
+80 CRI 80 CRI
+2'
+L 29 1,020  2,050 0.24 0.14 0.12 0.11 0.08
+M 34 1,660  2,050 0.29 0.17 0.14 0.12 0.10
+H 40 2,300  2,050 0.34 0.19 0.17 0.14 0.11
+4'
+L 53 2,050  4,100 0.44 0.25 0.22 0.19 0.15
+M 64 3,330  4,100 0.53 0.31 0.27 0.23 0.19
+H 75 4,610  4,100 0.63 0.36 0.31 0.27 0.22
+6'
+L 77 3,070  6,150 0.64 0.37 0.32 0.28 0.22
+M 94 4,990  6,150 0.78 0.45 0.39 0.34 0.27
+H 110 6,900  6,150 0.93 0.53 0.46 0.40 0.31
+8'
+L 101 4,100  8,200 0.85 0.49 0.42 0.37 0.29
+M 123 6,650  8,200 1.03 0.59 0.51 0.44 0.35
+H 146 9,225  8,200 1.23 0.70 0.61 0.53 0.42
+10'
+L 127 5,125  10,250 1.06 0.61 0.53 0.46 0.37
+M 153 8,325  10,250 1.29 0.74 0.64 0.55 0.44
+H 185 11,525  10,250 1.55 0.89 0.77 0.67 0.53
+12'
+L 153 6,150  12,300 1.28 0.74 0.64 0.55 0.44
+M 188 9,975  12,300 1.56 0.90 0.78 0.68 0.54
+H 222 13,825  12,300 1.86 1.07 0.92 0.80 0.63
+14'
+L 178 7,170  14,350 1.49 0.86 0.75 0.65 0.51
+M 217 11,640  14,350 1.81 1.04 0.90 0.78 0.62
+H 256 16,125  14,350 2.15 1.23 1.07 0.92 0.73
+16'
+L 202 8,200  16,400 1.70 0.98 0.85 0.73 0.58
+M 246 13,300  16,400 2.05 1.18 1.02 0.89 0.70
+H 292 18,450  16,400 2.45 1.40 1.21 1.05 0.84
+18'
+L 231 9,220  18,450 1.93 1.11 0.97 0.84 0.66
+M 281 14,970  18,450 2.34 1.35 1.17 1.01 0.81
+H 331 20,735  18,450 2.78 1.59 1.38 1.20 0.95
+20'
+L 255 10,250  20,500 2.14 1.23 1.07 0.92 0.73
+M 310 16,630  20,500 2.58 1.49 1.29 1.12 0.89
+H 367 23,060  20,500 3.08 1.76 1.53 1.32 1.06
+22'
+L 279 11,270  22,550 2.34 1.35 1.17 1.01 0.81
+M 340 18,290  22,550 2.83 1.63 1.41 1.23 0.98
+H 402 25,350  22,550 3.38 1.93 1.67 1.45 1.16
+24'
+L 303 12,300  24,600 2.54 1.46 1.27 1.10 0.87
+M 369 19,950  24,600 3.08 1.77 1.54 1.33 1.05
+H 438 27,675  24,600 3.68 2.10 1.82 1.58 1.26
+26'
+L 332 13,320  26,650 2.78 1.60 1.39 1.20 0.95
+M 404 21,620  26,650 3.36 1.94 1.68 1.46 1.16
+H 477 29,960  26,650 4.01 2.29 1.99 1.72 1.37
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens & Electrical Data*
+Length
+Direct 
+Lumen 
+Package
+Indirect Lumen Package
+High Lumen Package
+System 
+Watts Initial Delivered Lumens** Total Current (A)
+120-
+347V
+Lambertian/Wall 
+Wash Distribu-
+tions Downlight
+Batwing Distribution 
+Uplight 120V 208V 240V 277V 347V
+80 CRI 80 CRI
+28'
+L 356 14,350  28,700 2.98 1.72 1.49 1.29 1.02
+M 433 23,280  28,700 3.61 2.08 1.80 1.56 1.24
+H 513 32,285  28,700 4.31 2.46 2.14 1.85 1.48
+30'
+L 380 15,370  30,750 3.19 1.83 1.59 1.38 1.10
+M 463 24,940  30,750 3.86 2.22 1.93 1.67 1.33
+H 548 34,575  30,750 4.60 2.63 2.28 1.98 1.58
+32'
+L 404 16,400  32,800 3.39 1.95 1.69 1.46 1.16
+M 492 26,600  32,800 4.10 2.36 2.05 1.77 1.40
+H 584 36,900  32,800 4.90 2.80 2.43 2.10 1.68
+34'
+L 433 17,420  34,850 3.63 2.09 1.81 1.57 1.24
+M 527 28,270  34,850 4.39 2.53 2.19 1.90 1.51
+H 623 39,185  34,850 5.23 3.00 2.60 2.25 1.79
+36'
+L 457 18,450  36,900 3.83 2.20 1.91 1.66 1.31
+M 556 29,930  36,900 4.64 2.67 2.32 2.01 1.59
+H 659 41,510  36,900 5.54 3.16 2.74 2.38 1.90
+38'
+L 481 19,470  38,950 4.03 2.32 2.01 1.74 1.39
+M 586 31,590  38,950 4.88 2.81 2.44 2.11 1.68
+H 694 43,800  38,950 5.83 3.33 2.89 2.50 2.00
+40'
+L 505 20,500  41,000 4.24 2.44 2.11 1.83 1.45
+M 615 33,250  41,000 5.13 2.95 2.56 2.22 1.75
+H 730 46,125  41,000 6.13 3.50 3.04 2.63 2.10
+42'
+L 534 21,520  43,050 4.47 2.58 2.23 1.93 1.53
+M 650 34,920  43,050 5.42 3.12 2.71 2.34 1.86
+H 769 48,410  43,050 6.46 3.70 3.20 2.78 2.21
+44'
+L 558 22,550  45,100 4.68 2.69 2.33 2.02 1.60
+M 679 36,580  45,100 5.66 3.26 2.83 2.45 1.94
+H 805 50,735  45,100 6.76 3.86 3.35 2.90 2.32
+46'
+L 582 23,570  47,150 4.88 2.81 2.44 2.11 1.68
+M 709 38,240  47,150 5.91 3.40 2.95 2.56 2.03
+H 840 53,025  47,150 7.05 4.03 3.50 3.03 2.42
+48'
+L 606 24,600  49,200 5.09 2.93 2.54 2.20 1.74
+M 738 39,900  49,200 6.16 3.55 3.07 2.66 2.10
+H 876 55,350  49,200 7.36 4.20 3.64 3.16 2.52
+50'
+L 635 25,620  51,250 5.32 3.06 2.66 2.30 1.83
+M 773 41,570  51,250 6.44 3.71 3.22 2.79 2.22
+H 915 57,635  51,250 7.69 4.40 3.81 3.30 2.64
+52'
+L 659 26,650  53,300 5.53 3.18 2.76 2.39 1.89
+M 802 43,230  53,300 6.69 3.85 3.34 2.89 2.29
+H 951 59,960  53,300 7.99 4.57 3.96 3.43 2.74
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens & Electrical Data*
+Length
+Direct 
+Lumen 
+Package
+Indirect Lumen Package
+High Lumen Package
+System 
+Watts Initial Delivered Lumens** Total Current (A)
+120-
+347V
+Lambertian/Wall 
+Wash Distributions 
+Downlight
+Batwing Distribution 
+Uplight 120V 208V 240V 277V 347V
+80 CRI 80 CRI
+54'
+L 683 27,670  55,350 5.73 3.30 2.86 2.48 1.97
+M 832 44,890  55,350 6.94 4.00 3.46 3.00 2.38
+H 986 62,250  55,350 8.28 4.73 4.10 3.55 2.84
+56'
+L 707 28,700  57,400 5.93 3.41 2.96 2.56 2.03
+M 861 46,550  57,400 7.18 4.14 3.58 3.11 2.45
+H 1022 64,575  57,400 8.58 4.90 4.25 3.68 2.94
+58'
+L 736 29,720  59,450 6.17 3.55 3.08 2.67 2.12
+M 896 48,220  59,450 7.47 4.30 3.73 3.23 2.57
+H 1061 66,860  59,450 8.91 5.10 4.42 3.83 3.06
+60'
+L 760 30,750  61,500 6.37 3.67 3.18 2.75 2.18
+M 925 49,880  61,500 7.71 4.44 3.85 3.34 2.64
+H 1097 69,185  61,500 9.21 5.27 4.56 3.95 3.16
+62'
+L 784 31,770  63,550 6.58 3.78 3.28 2.84 2.26
+M 955 51,540  63,550 7.96 4.59 3.97 3.44 2.73
+H 1132 71,475  63,550 9.51 5.43 4.71 4.08 3.26
+64'
+L 808 32,800  65,600 6.78 3.90 3.38 2.93 2.32
+M 984 53,200  65,600 8.21 4.73 4.10 3.55 2.80
+H 1168 73,800  65,600 9.81 5.60 4.86 4.21 3.36
+66'
+L 837 33,820  67,650 7.02 4.04 3.50 3.03 2.41
+M 1019 54,870  67,650 8.49 4.89 4.24 3.68 2.92
+H 1207 76,085  67,650 10.14 5.80 5.02 4.35 3.48
+68'
+L 861 34,850  69,700 7.22 4.15 3.60 3.12 2.47
+M 1048 56,530  69,700 8.74 5.04 4.36 3.78 2.99
+H 1243 78,410  69,700 10.44 5.97 5.17 4.48 3.58
+70'
+L 885 35,870  71,750 7.42 4.27 3.70 3.21 2.55
+M 1078 58,190  71,750 8.99 5.18 4.49 3.89 3.08
+H 1278 80,700  71,750 10.73 6.14 5.32 4.61 3.68
+72'
+L 909 36,900  73,800 7.63 4.39 3.80 3.29 2.61
+M 1107 59,850  73,800 9.23 5.32 4.61 3.99 3.15
+H 1314 83,025  73,800 11.03 6.30 5.46 4.73 3.78
+Styllus Linear® LED Suspended Direct/Indirect Architectural Grade Luminaire 
+© 2025 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. 
+Patent www.creelighting.com/patents. SmartCast®, Styllus Linear®, and the Styllus linear logo are registered 
+trademarks, and OneButton™ is a trademark of Cree Lighting USA LLC. Cree Lighting® and the Cree Lighting logo 
+are registered trademarks of CLNA Holdings LLC. The UL logo is a registered trademark of UL LLC. Lutron, the 
+Lutron logo, EcoSystem, the Lutron EcoSystem Enabled logo and Vive are trademarks or registered trademarks 
+of Lutron Electronics Co., Inc. The DLC QPL, DLC QPL Premium and the DLC LUNA Logos are the registered and 
+unregistered trademarks of Efficiency Forward, Inc.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234

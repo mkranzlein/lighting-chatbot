@@ -1,0 +1,353 @@
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+2.2"
+(55mm)
+Max.
+19.7"
+(500mm)
+Rev. Date: V8 02/26/2025
+Ordering Information
+Fully assembled kit is composed of lightbars and drivers included.
+Example: UR2-24-26L-830-10V5-UNV-BP
+UR 10V5 UNV
+Family Size Lumen Package CRI/CCT Lens Distribution Control Voltage Packaging
+UR2 
+Two-Light Bars w/
+Driver
+24  
+24"
+26L 
+2,600 Lumens
+830 
+80 CRI, 3000K
+Blank 
+Round
+Blank 
+Light Bar
+10V5 
+0-10V Dimming 
+to 5%
+UNV 
+Universal 
+120-277V
+BP 
+Light Bars and Drivers shipped separately 
+in cartons.
+UR2 
+Two-Light Bars w/
+Driver
+24  
+24"
+32L 
+3,200 Lumens
+840 
+80 CRI, 4000K
+Blank 
+Round
+Blank 
+Light Bar
+10V5 
+0-10V Dimming 
+to 5%
+UNV 
+Universal 
+120-277V
+BP 
+Light Bars and Drivers shipped separately 
+in cartons.
+UR3 
+Three-Light Bars w/
+Driver
+24  
+24"
+39L 
+3,900 Lumens
+835 
+80 CRI, 3500K
+Blank 
+Round
+Blank 
+Light Bar
+10V5 
+0-10V Dimming 
+to 5%
+UNV 
+Universal 
+120-277V
+Blank 
+Ships as Individual sellable kit
+UR3 
+Three-Light Bars w/
+Driver
+48 
+48"
+63L 
+6,300 Lumens
+840 
+80 CRI, 4000K
+Blank 
+Round
+Blank 
+Light Bar
+10V5 
+0-10V Dimming 
+to 5%
+UNV 
+Universal 
+120-277V
+BP 
+Light Bars and Drivers shipped separately 
+in cartons.
+UR4 
+Four-Light Bars w/
+Driver
+48 
+48"
+84L 
+8,400 Lumens
+835 
+80 CRI, 3500K
+Blank 
+Round
+Blank 
+Light Bar
+10V5 
+0-10V Dimming 
+to 5%
+UNV 
+Universal 
+120-277V
+BP 
+Light Bars and Drivers shipped separately 
+in cartons.
+UR4 
+Four-Light Bars w/
+Driver
+48 
+48"
+84L 
+8,400 Lumens
+840 
+80 CRI, 4000K
+Blank 
+Round
+Blank 
+Light Bar
+10V5 
+0-10V Dimming 
+to 5%
+UNV 
+Universal 
+120-277V
+BP 
+Light Bars and Drivers shipped separately 
+in cartons.
+0.8"
+(21mm)
+0.9"
+(23mm)
+UR2/3-24: 22.0" (559mm)
+UR2/3/4-48: 44.0" (1118mm)
+Product Description
+The UR Series LED upgrade kit provides up to 8,400 Lumens of 80 CRI light while achieving up to 135 
+lumens per watt at the system level. This innovate kit is designed for retrofitting exisiting 1' x 2' (305mm 
+x 610mm), 2' x 2' (610mm x 610mm), 1' x 4' (305mm x 1219mm) & 2' x 4' (610mm x 1219mm) fixtures 
+to energy saving LED technology. The UR series is available in multiple color temperatures and offers 
+0-10V smooth dimming. The UR series upgrade is easy to install and fits into almost any existing 
+linear floursescent fixture making it a perfect upgrade option where energy savings and long life are 
+important.
+Performance Summary
+Upgrade Existing 1' x 2' (305mm x 610mm), 2' x 2' (610mm x 610mm), 1' x 4' (305mm x 1219mm) & 2' x 4' 
+(610mm x 1219mm) fixtures
+Efficacy: Up to 135 LPW at system level
+System Delivered Light Output: 2,600 Lumens - 8,400 Lumens
+Target Fixture Delivered Light Output*: 2,360 Lumens - 6,875 Lumens
+Input Power: 21 watts - 62 watts
+CRI: 80
+CCT: 3000K, 3500K, 4000K
+Input Voltage: 120-277 VAC
+Limited Warranty†: 1 year
+Controls: 0-10V Dimming to 5% 
+Mounting: Existing dry or damp rated linear fluorescent fixtures including troffers, parabolics, strips,
+wraps, volumetric/baskets and industrials; not intended for use in vaportights
+UR Series
+2', 4' LED Upgrade Kit
+† See https://www.creelighting.com/resources/warranties/ for warranty terms
+* Varies by fixture   Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Delivered Lumens & Electrical Data*
+Series Size Lumen 
+Package
+System 
+Delivered 
+Light 
+Output
+Target 
+Fixture 
+Delivered 
+Light 
+Output
+System 
+Watts 
+120-
+277V
+Total Current (A)
+120V 208V 240V 277V
+UR2 24
+26L  2,600  2,360 21 0.18 0.11 0.10 0.09
+32L  3,200  2,700 25 0.21 0.13 0.12 0.10
+UR3 24 39L  3,900  3,510 32 0.27 0.16 0.14 0.13
+UR3 48 63L  6,300  5,100 47 0.39 0.22 0.20 0.17
+UR4 48 84L  8,400  6,875 62 0.52 0.30 0.26 0.23
+* Data provided at 25˚C (77˚F). Actual lumens and wattages may differ by +/- 10% when operating between 120-277V +/-10%.
+Product Specifications
+CREE LIGHTING LED TECHNOLOGY
+Cree Lighting's total systems approach to product development is a 
+comprehensive engineering philosophy that combines the most advanced LED 
+sources, driver technologies, optics and forms. The result is highly-reliable 
+luminaire solutions for indoor applications that reduce energy use, extend 
+lifetimes, and maximize illumination performance and quality.
+CONSTRUCTION & MATERIAL
+• Lightweight aluminum heat sink housing provides strength and  
+durability 
+• Includes two durable, movable plastic mounting clips with integrated 
+magnets allow for simple snap on design to luminaire
+• Polycarbonate lens and endcaps
+• Shatterproof design
+• Weight: UR2-24: 1.7 lbs. (0.75kg); UR3-24: 1.8 lbs. (0.82kg); UR3-48: 2.2 
+lbs. (0.98kg); UR4-48: 2.8lbs. (1.27kg)
+OPTICAL SYSTEM
+• Specialized lens design for optimal light distribution and smooth visual 
+effect
+• Measured and designed to achieve optimal light performance in existing 
+fluorescent troffers
+ELECTRICAL SYSTEM
+• Power Factor: > 0.9 at full load
+• Input Power: Stays constant over life
+• Input Voltage: 120-277V, 50/60Hz
+• Operating Temperature Range: -20°C - +45°C (-4°F - +113°F)
+• Total Harmonic Distortion: < 20% at full load
+CONTROLS
+• Continuous dimming to 5% with 0-10V DC control protocol
+• 10V Source Current: 0.25mA
+• Use only lighting controls with neutral connection or controls intended 
+for use with LED fixtures
+• Reference  
+https://cree.widen.net/s/9sc962ctfv/0-10v-step-and-les-controls-
+options-spec-sheet-cr-flex-zr-troffers-ls-ur-styllus-ws-cdr-kbl for 
+recommended dimming controls and wiring diagrams
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• UL1598C (Retrofit Kit)
+• This product is UL Classified for U.S. and Canada for use in existing 
+linear fluorescent fixtures
+• Suitable for damp locations
+• Designed for indoor use only
+• Meets FCC Part 15, Subpart B, Class A limits for conducted and radiated 
+emissions
+• RoHS compliant. Consult factory for additional details
+• DLC Qualified. Please refer to https://qpl.designlights.org/solid-state-
+lighting for most current information
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+UR Series LED Upgrade Kit - 2', 4' 
+© 2025 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to 
+change. Patent www.creelighting.com/patents. Cree Lighting® and the Cree Lighting logo are registered 
+trademarks of CLNA Holdings LLC. The UL logo is a registered trademark of UL LLC. The DLC QPL, DLC QPL 
+Premium and the DLC LUNA Logos are the registered and unregistered trademarks of Efficiency Forward, Inc.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Reference creelighting.com/products/indoor/upgrade-solutions/ur-series for detailed photometric data
+Reference creelighting.com/products/indoor/upgrade-solutions/ur-series for detailed photometric data
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1,063 N/A 31.3%
+0-40 1,737 N/A 51.2%
+0-60 2,874 N/A 84.6%
+0-90 3,387 N/A 99.7%
+0-180 3,396 N/A 100%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 868 N/A 31.5%
+0-40 1,411 N/A 51.2%
+0-60 2,327 N/A 84.4%
+0-90 2,747 N/A 99.6%
+0-180 2,758 N/A 100%
+Average Luminance Table  
+(cd/m2)
+Vertical Angle
+ Horizontal Angle
+0° 45° 90°
+45° 1,806 1,956 2,045
+55° 1,421 1,572 1,652
+65° 1,030 977 1,183
+75° 899 881 1,104
+85° 1,011 963 873
+Average Luminance Table  
+(cd/m2)
+Vertical Angle
+ Horizontal Angle
+0° 45° 90°
+45° 3,043 3,355 3,727
+55° 2,346 2,724 3,016
+65° 1,869 1,758 2,099
+75° 1,684 1,462 2,076
+85° 1,642 1,809 2,160
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 105 101 98
+2 100 93 86 81
+3 92 82 75 69
+4 85 73 65 59
+5 78 66 57 51
+6 72 60 51 45
+7 67 54 46 40
+8 63 50 41 36
+9 59 46 38 32
+10 55 42 35 29
+Effective Floor Cavity Reflectance: 20%
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 105 101 98
+2 100 93 86 81
+3 92 82 75 68
+4 85 73 65 59
+5 78 66 57 51
+6 72 60 51 45
+7 67 54 46 40
+8 63 50 42 36
+9 59 46 38 32
+10 55 42 35 29
+Effective Floor Cavity Reflectance: 20%
+0˚ 20˚
+50˚
+70˚
+90˚
+339
+0
+1354
+1016
+677
+90˚ 0˚
+0˚ 20˚
+50˚
+70˚
+90˚
+279
+0
+1116
+558
+837
+90˚ 0˚
+Photometry
+UR2-24-32L-830-10V5-UNV IN A 2 x 2 RECESSED TROFFER BASED ON STANDARD-TECH TEST # JBE200416-C
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Photometry
+UR2-48-42L-830-10V5-UNV IN A 2 x 4 RECESSED TROFFER BASED ON STANDARD-TECH TEST #: JBE200416-J
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+UR Series LED Upgrade Kit - 2', 4' 

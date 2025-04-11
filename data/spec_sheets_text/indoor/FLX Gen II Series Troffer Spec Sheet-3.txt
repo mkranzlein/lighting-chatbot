@@ -1,0 +1,1927 @@
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+FLX
+Family Size Lumen Package CRI/CCT Lens* Controls Voltage Options**
+FLX 14
+1x4
+30L
+3,000 Lumens
+40L
+4,000 Lumens
+50L
+5,000 Lumens
+60L
+6,000 Lumens
+830
+80 CRI, 3000K 
+835
+80 CRI, 3500K
+840
+80 CRI, 4000K
+850
+80 CRI, 5000K
+CRV
+ZR Curve
+ARC
+FLX Arc
+SQ
+Square
+10V10  
+0-10V 10% Dimming 
+- Available only with 26L-60L lumen packages
+10V1 
+0-10V 1% Dimming
+SC1  
+SmartCast Wireless Technology with 1% Dimming, Integral Motion and 
+Ambient Sensors
+- For adjustable CCT functionality, luminaire must be ordered 
+   with 9ACK CRI/CCT (26L-60L lumen packages only)
+- Utilizes a multifunction sensor
+DALI 
+DALI Dimming to 1%
+AWNR+
+Lutron Athena Wireless Integral Fixture Control (RF only) with 1% 
+Dimming
+- Tunable white requires 9ACK CRI/CCT (26L-60L lumen 
+   packages only)
+- Utilizes a DALI2 driver
+AWNS+ 
+Lutron Athena Wireless Integral Fixture Control with 1% Dimming, 
+Occupancy and Daylight Sensing 
+- Tunable white requires 9ACK CRI/CCT (26L-60L lumen packages only)
+- Utilizes a DALI2 driver
+- Utilizes a multifunction sensor
+UNV
+Universal 
+voltage 
+120-277 
+Volt
+34
+347 Volt
+- Not 
+available 
+with 
+10V10 
+controls
+CP Chicago Plenum 
+- Available with UNV voltage only 
+- Available with all controls  
+   except AWNR 
+- Not available with EB  
+   or GT options 
+EB Emergency Backup 
+- Available with UNV voltage only 
+- Provides 10W and 90 minutes  
+   of emergency operation 
+- Not available with CP or 
+   GT options
+GT Generator Transfer Device 
+- Available with UNV voltage only
+- Not available with 
+   CP or EB options
+22
+2x2
+26L 
+2,600 Lumens
+30L 
+3,000 Lumens
+40L 
+4,000 Lumens
+50L 
+5,000 Lumens
+930 
+90 CRI, 3000K 
+935 
+90 CRI, 3500K 
+940 
+90 CRI, 4000K 
+950 
+90 CRI, 5000K 
+24
+2x4
+30L 
+3,000 Lumens
+40L 
+4,000 Lumens
+50L 
+5,000 Lumens
+60L 
+6,000 Lumens
+70L 
+7,000 Lumens
+80L 
+8,000 Lumens
+100L 
+10,000 Lumens
+9ACK 
+90 CRI, Adjustable 
+Color 3000K-6500K in 
+100K increments 
+- Available only with
+   26L-60L lumen
+   packages (SC1
+   or AWNR/AWNS  
+   controls) 
+- Available only
+   with SC1 or 
+   AWNR/AWNS  
+   controls
+Rev. Date: V12 10/22/2024
+Product Description
+The FLEX Series LED troffer delivers up to 10,000 lumens with enhanced color quality and 
+three different lens designs to fit the aesthetics of any space. The FLEX Series boasts a variety 
+of inner optic accessories which provides greater design flexibility, making it perfect for both 
+new construction and renovation. The slim and lightweight FLEX Series LED troffer boasts an 
+efficacy of up to 159 LPW performance along with a wide variety of control options to meet local 
+energy codes. The FLEX Series broad optionality of lumen packages, control  packages, tunable 
+white options, and factory installed accessories make this family highly specifiable.
+Performance Summary
+Utilizes Cree TrueWhite® Technology (90 CRI)
+Efficacy: Up to 159 LPW
+Initial Delivered Lumens: 2,600 - 10,000 lumens
+Input Power: 18 - 82 watts
+CRI: 80+, 90+ 
+CCT: 3000K, 3500K, 4000K, 5000K, Tunable White (SmartCast® Technology and Lutron Athena)
+Input Voltage: 120-277 VAC or 347 VAC
+Limited Warranty†: 10 years for luminaire and SmartCast controls; 5 years for Lutron Athena 
+controls; up to 5 years for SmartCast® accessories; 1 year for luminaire accessories
+Limited Warranty Emergency Back Up (EB) Battery: 1 Year on Battery Back Up. Test regularly in 
+accordance with local codes
+Controls: 0-10V, SmartCast/SmartCast Wireless with Adjustable CCT option, DALI, Lutron Athena/
+Lutron Athena Tunable White
+Mounting: Recessed (Designed for use in most ceiling grids including standard 1 ½", 9/16", 
+15/16", hard ceiling, and surface mounting)
+Room-side accessible removable lens
+Assembled in the USA by Cree Lighting from US and imported parts
+Ordering Information
+Example: FLX24-40L-835-ARC-10V1
+† See https://www.creelighting.com/resources/warranties/ for warranty terms. For SmartCast accessories, consult SmartCast 
+spec sheets for details on warranty terms. Refer to page 5 for lens assembly images and dimensions as well as dimensional information for 
+SmartCast and Lutron AWNS controls.
++ More information on Lutron controls can be found at lutron.com.
+* Refer to page 5 for lens images.
+** Consult factory for other options.
+C
+B
+A
+10V10, 10V1, DALI, AND AWNR 
+CONTROLS 
+Shown w/ARC Lens
+10V10, 10V1, DALI & AWNR Dimensions
+DIM "A" DIM "A" w/EB DIM "B" DIM "C" Weight Weight w/EB
+1x4 4.0" (101mm) 4.0" (101mm) 11.7" (298mm) 47.7" (1213mm) 11.0 lbs. (5.0kg) 16.0 lbs. (7.3kg)
+2x2 4.0" (101mm) 3.3" (84mm) 23.7" (603mm) 23.8" (604mm) 9.0 lbs. (4.1kg) 14.0 lbs. (6.4kg)
+2x4 4.0" (101mm) 3.3" (84mm) 23.7" (603mm) 47.7" (1213mm) 15.0 lbs. (6.8kg) 20.0 lbs. (9.1kg)
+FLEX Series
+FLX14™, FLX22™, and FLX24™ Specification LED Troffers
+PIR Motion Sensor Coverage 
+H
+D
+Mounting Height - H 
+(Feet)
+Motion Sensor Coverage Diameter - D (Feet)
+Sensitivity - High (Default) Sensitivity - Medium Sensitivity - Low
+10 20 10 8
+12 26 14 12
+14 28 15 13
+20 38 Not Recommended Not Recommended
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+FLX14™, FLX22™, and FLX24™ Specification LED Troffer
+Product Specifications
+CREE TRUEWHITE® TECHNOLOGY
+A revolutionary way to generate high-quality white light, Cree TrueWhite® Technology 
+is a patented approach that delivers an exclusive combination of 90+ CRI, beautiful 
+light characteristics and lifelong color consistency, all while maintaining high luminous 
+efficacy – a true no compromise solution.
+SMARTCAST® TECHNOLOGY
+SmartCast® Technology is the most intuitive and easiest to install intelligent light 
+solution on the market. SmartCast® Technology delivers up to 70% energy savings 
+at up to half the cost of other solutions. Luminaires combine best-in-class light with 
+onboard sensors and intelligence to deliver a better light experience. Extreme energy 
+productivity, code compliance and a better light experience without any extra design, 
+installation or setup work.
+CONSTRUCTION & MATERIALS
+• Durable 22 ga. cold rolled steel housing provides strength and uniformity 
+• Ultra-thin luminaire height and lightweight design effectively target a broad range of 
+plenum spaces and allow for easy installations 
+• Luminaire is pre-painted for enhanced matte finish
+• Includes integrated hooks for mounting to t-bar, and cable slots for suspended 
+mounting 
+• Luminaire sides and ends are hemmed in for safe, easy handling
+• Room-side accessible/removable lens snaps and locks into end caps for tool-less 
+entry
+• Not for installation within 3" (76mm) of insulation
+• Weight: Refer to tables on pages 1 and 5.
+• Includes QR code on the back of the troffer housing which provides access to: Online 
+installation instructions, Luminaire information (Part number, Serial number, Build 
+date, and Warranty end date), and Warranty claim submission form
+• Duplicate 1” and 2" QR code labels are included. 1" labels can be affixed next to 
+fixtures, on site plans, or in maintenance records. 2” labels can be scanned from the 
+ground when placed at an appropriate height
+OPTICAL SYSTEM
+• Unique luminaire design creates perfect balance of both horizontal and vertical 
+illumination
+• Optimized smooth acrylic lens eliminates pixelation and delivers a  
+low-glare, diffused light distribution
+• Additional diffuser options available. Refer to Inner Optic Overlay  
+Diffuser Accessories table on page 5 for additional details
+ELECTRICAL SYSTEM
+• Power Factor: >90% at full load
+• Input Power: Stays constant over life
+• Input Voltage: 120-277V, 50/60Hz or 347V, 50/60Hz. 347V w/ 9ACK-SC1, and DALI are 
+60Hz only
+• Operating Temperature Range: 0˚C - + 35˚C (32˚F - + 95˚F)
+• Total Harmonic Distortion: < 20% at full load
+10V DIMMING AND CONTROL
+• 10V10 option provides continuous dimming to 10% and 10V1 option provides 
+continuous dimming to 1%  with 0-10V DC control protocol
+• Maximum 10V Source Current: 0.45mA
+• For use with Class 2 dimming systems only
+• Use only lighting controls with neutral connection or controls intended for use with 
+LED fixtures
+• Reference https://cree.widen.net/s/2b8dlcwsvq/cr_-flex_-zr_-cs_-ln_-ls_-ur_-
+stylus-series-control-options-dimming-specsheet for recommended dimming 
+controls and wiring diagrams
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus Listed (UL1598)
+• Suitable for damp locations
+• Designed for indoor use only
+• Requires minimum 90˚C supply conductors
+• Drivers and LEDs are UL Recognized in accordance with UL8750
+• Meets NEMA C82.77 standards
+• UL924 (EB Option) Maximum mounting height: 15.0’(4.6m)
+• EB option meets CA Title 20 Appliance Regulations
+• CCEA approved when ordered with CP option. Not available with EB option
+• RoHS compliant. Consult factory for additional details
+• Meets FCC Part 15, Subpart B, Class A limits for conducted and radiated emissions
+• DLC and DLC Premium qualified versions available. Please refer to https://qpl.
+designlights.org/solid-state-lighting for most current information
+• Assembled in the USA by Cree Lighting from US and imported parts
+• Some configurations meet requirements of BAA and/or BABA. Consult factory when 
+needed for a project: www.creelighting.com/BAA-BABA
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+FLEX Series Ambient Adjusted Lumen Maintenance1
+Ambient CRI Initial 
+LMF
+25K hr 
+Reported2 LMF
+50K hr 
+Reported2 LMF
+75K hr 
+Estimated3 LMF
+100K hr  
+Estimated3 LMF
+0˚C (32˚F) 80 1.04 1.00 0.903 0.81 0.73
+90 1.04 0.99 0.952 0.91 0.87
+5˚C (41˚F) 80 1.04 1.00 0.903 0.81 0.73
+90 1.04 0.99 0.952 0.91 0.87
+10˚C (50˚F) 80 1.03 0.99 0.893 0.80 0.72
+90 1.03 0.98 0.942 0.90 0.86
+15˚C (59˚F) 80 1.02 0.98 0.883 0.79 0.72
+90 1.02 0.97 0.932 0.89 0.85
+20˚C (68˚F) 80 1.01 0.97 0.873 0.79 0.71
+90 1.01 0.96 0.922 0.88 0.85
+25˚C (77˚F) 80 1.00 0.96 0.863 0.78 0.70
+90 1.00 0.95 0.912 0.87 0.84
+30˚C (86˚F) 80 0.99 0.95 0.853 0.77 0.69
+90 0.99 0.93 0.892 0.85 0.81
+35˚C (95˚F) 80 0.98 0.94 0.853 0.76 0.69
+90 0.98 0.91 0.862 0.82 0.77
+1 Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data for the LED package and in-situ luminaire 
+testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen maintenance factors. 
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are
+up to 6x the tested duration in the IES LM-80 report for the LED.
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+SmartCast® Technology
+INTEGRAL MOTION SENSOR
+• Passive infrared (PIR)
+• Coverage area: Please refer to the PIR motion sensor coverage table
+• Not intended to be mounted higher than 20 ft.
+• Operation:
+• Grouped with a wall control: Luminaire will operate in vacancy mode 
+(manual-on/auto-off)
+• Not grouped with a wall control: Luminaire will operate in occupancy mode (auto-on/auto-
+off)
+• Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+AMBIENT LIGHT SENSOR
+• Sensor response matches response of human eye
+• Not intended to be mounted higher than 20 ft. (6.1m)
+• Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+• Daylight harvesting calibration performed automatically during OneButton™ Setup
+INTEGRAL WIRELESS COMMUNICATION
+• 2.4GHz wireless mesh technology with AES 128-bit encryption
+• Self assigns to quietest channel during OneButton™ Setup
+• Range:
+• 30 ft. (9.1m) in typical commercial applications
+• 300 ft. (91.4m) open air without obstructions
+• Network: 250 devices max.
+• Space: 100 devices max. per group
+• FCC and IC certifications
+LUMINAIRE
+• Energy metering with 4% accuracy
+• Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+• 10 year power fail memory of settings
+• NOTE: SmartCast luminaires must be installed on unswitched AC power. Constant power is 
+required to maintain all luminaires on the SmartCast network. If wall control or manual dimming 
+is required, a SmartCast wall control dimmer must be used for manual on, off, and dimming.
+DEPLOYMENT
+• Please refer to the SmartCast® Deployment Guide at  
+https://cree.widen.net/s/mvxtfd2pcz/smartcastr-wireless-deployment-guideDelivered Lumens & Electrical Data*
+Size Lumen 
+Package CRI Control
+Initial 
+Delivered 
+Lumens
+Wattage Current (A) EB/GT 
+Wattage EB/GT Current (A)
+120-277V 347V** 120V 208V 240V 277V 347V** 120-277V 120V 208V 240V 277V
+2x2 26L
+80 10V10, 10V1, SC1, DALI, AWNR, 
+AWNS
+2,600
+18 18 0.17 0.10 0.08 0.07 0.05 21 0.19 0.11 0.09 0.08
+90/9ACK 10V10, 10V1, SC1, DALI, AWNR, 
+AWNS 21 24 0.19 0.11 0.10 0.09 0.07 24 0.22 0.13 0.11 0.10
+1x4, 2x2, 
+2x4 30L
+80 10V10, 10V1, SC1, DALI, AWNR, 
+AWNS
+3,000
+21 21 0.19 0.11 0.09 0.08 0.06 24 0.22 0.12 0.11 0.09
+90/9ACK 10V10, 10V1, SC1, DALI, AWNR, 
+AWNS 26 28 0.23 0.13 0.12 0.10 0.09 29 0.26 0.15 0.13 0.11
+1x4, 2x2, 
+2x4 40L
+80 10V10, 10V1, SC1, DALI, AWNR, 
+AWNS
+4,000
+27 29 0.24 0.14 0.12 0.10 0.09 30 0.27 0.15 0.13 0.11
+90/9ACK 10V10, 10V1, SC1, DALI, AWNR, 
+AWNS 33 36 0.31 0.18 0.16 0.14 0.12 36 0.34 0.19 0.17 0.15
+1x4, 2x2, 
+2x4
+50L
+80 10V10
+5,000
+35 N/A 0.31 0.18 0.15 0.13 N/A 38 0.34 0.19 0.17 0.14
+90/9ACK 10V10, 10V1, SC1, DALI, AWNR, 
+AWNS 41 44 0.35 0.20 0.17 0.15 0.13 44 0.37 0.21 0.18 0.16
+1x4, 2x4 80 10V1, SC1, AWNR, AWNS 35 35 0.31 0.18 0.15 0.13 0.12 38 0.34 0.19 0.17 0.14
+2x2 80 10V1, SC1, AWNR, AWNS 40 40 0.32 0.17 0.15 0.13 0.11 43 0.36 0.21 0.18 0.16
+1x4, 2x4 60L
+80 10V10, 10V1, SC1, DALI, AWNR, 
+AWNS
+6,000
+39 41 0.32 0.18 0.15 0.13 0.11 42 0.35 0.20 0.18 0.15
+90/9ACK 10V10, 10V1, SC1, DALI, AWNR, 
+AWNS 49 53 0.43 0.24 0.20 0.18 0.16 52 0.43 0.25 0.24 0.19
+2x4 70L
+80 10V1, SC1, DALI, AWNR, AWNS
+7,000
+47 49 0.41 0.24 0.20 0.17 0.15 50 0.44 0.25 0.21 0.19
+90 10V1, SC1, DALI, AWNR, AWNS 56 59 0.49 0.28 0.24 0.21 0.18 59 0.51 0.30 0.25 0.22
+2x4 80L
+80 10V1, SC1, DALI, AWNR, AWNS
+8,000
+54 57 0.47 0.27 0.23 0.20 0.18 57 0.49 0.29 0.25 0.21
+90 10V1, SC1, DALI, AWNR, AWNS 65 69 0.57 0.33 0.28 0.24 0.21 68 0.60 0.34 0.29 0.25
+2x4 100L
+80 10V1, SC1, DALI, AWNR, AWNS
+10,000
+67 70 0.58 0.34 0.29 0.25 0.22 69 0.61 0.35 0.30 0.26
+90 10V1, SC1, DALI, AWNR, AWNS 78 82 0.68 0.39 0.34 0.29 0.25 81 0.70 0.41 0.35 0.30
+*   Electrical data at 25˚C (77˚F). Actual wattage and lumens may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Not available with 10V10 controls.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+FLX14™, FLX22™, and FLX24™ Specification LED TrofferAccessories 
+Field-Installed
+Drywall Grid Adapter
+DGA14-WHT 1x4, Single Pack
+DGA14-WHT-10PK 1x4, 10-Pack
+DGA22-WHT 2x2, Single Pack
+DGA22-WHT-10PK 2x2, 10-Pack
+DGA24-WHT 2x4, Single Pack
+DGA24-WHT-10PK 2x4, 10-Pack
+Surface Mount Kit
+SMK-FLX14 (1x4)
+SMK-FLX22 (2x2)
+SMK-FLX24 (2x4)
+- Not for use with AWNR control
+SmartCast® Technology Configuration Tool
+CCT-CWC-1
+- One required per project when SC1 control is selected
+SmartCast® Technology Face Plates
+CFP-1-WH
+- Matching face plate, 1-gang, white
+CFP-2-WH
+- Matching face plate, 2-gang, white
+SmartCast® Technology Wireless Dimmer
+CSC-CWD-UNVN-WH (neutral wire required)
+CSC-CWD-UNV-WH (no neutral required)
+SmartCast® Technology Adjustable CCT Wireless Dimmer
+CSC-CCD-UNVN-WH (neutral wire required)
+CSC-CCD-UNV-WH (no neutral required)
+- For use only with luminaires with SmartCast controls and 9ACK
+- 3000K-5000K adjustable CCT
+SmartCast® Technology Wireless Switch
+CSC-CWS-UNVN-WH (neutral wire required)
+CSC-CWS-UNV-WH (no neutral required)
+SmartCast® 5-Button Wireless Scene Controller
+CSC-SC-A-5B-UNVN-WH (w/o text)
+CSC-SC-A-5S-UNVN-WH (w/scene text)
+CSC-SC-A-5C-UNVN-WH (w/CCT text)
+- Available only with 9ACK
+CSC-SC-A-5X-UNVN-WH (w/custom text)
+SmartCast® Technology Wireless Plug Load Controller
+CPLC-JB-CWC
+SmartCast® 10V Zone Controller
+CSC-ZC-10V-CWC
+- Intelligent sensing and control of
+   0-10V luminaires
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+FLX14™, FLX22™, and FLX24™ Specification LED Troffer
+Delivered Emergency Lumens
+Size Lumen Package CRI
+Approximate  
+Delivered 
+Emergency Lumens
+2x2 26L
+80 1,440
+90/ACK 1,240
+1x4, 2x2, 2x4 30L
+80 1,430
+90/ACK 1,150
+1x4, 2x2, 2x4 40L
+80 1,480
+90/ACK 1,210
+1x4, 2x2, 2x4 50L
+80 1,430
+90/ACK 1,220
+1x4, 2x4 60L
+80 1,430
+90/ACK 1,220
+2x4 70L
+80 1,490
+90 1,250
+2x4 80L
+80 1,480
+90 1,230
+2x4 100L
+80 1,490
+90 1,280A
+B
+C
+B
+A
+C
+B
+A
+SC1 SMARTCAST® TECHNOLOGY CONTROL 
+SHOWN WITH ARC LENS
+AWNS CONTROLS 
+SHOWN WITH CRV LENS
+LENS ASSEMBLY 
+Inner Optic Overlay Diffuser Accessories 
+Wavy
+Perforated
+Striped
+Diffuse
+Brushed Metal
+CRV
+ARC
+SQ
+Inner Optic Overlay Diffuser Accessories (for use with ARC Lens only)
+Field-Installed
+For use with 10V10, 10V1, DALI, and AWNR controls
+Wavy Inner Optic Diffuser, 10-Pack
+FLX-WVD-4 (1x4 & 2x4 luminaires)
+FLX-WVD-2 (2x2 luminaires)
+Perforated Inner Optic Diffuser, 10-Pack
+FLX-PFD-4 (1x4 & 2x4 luminaires)
+FLX-PFD-2 (2x2 luminaires)
+Diffuse Inner Optic, 10-Pack
+FLX-STD-4 (1x4 & 2x4 luminaires)
+FLX-STD-2 (2x2 luminaires)
+Brushed Metal Inner Optic Diffuser, 10-Pack
+FLX-BMD-4 (1x4 & 2x4 luminaires)
+FLX-BMD-2 (2x2 luminaires)
+Striped Inner Optic Diffuser, 10-Pack
+FLX-STRD-4 (1x4 & 2x4 luminaires)
+FLX-STRD-2 (2x2 luminaires)
+Sample Inner Optic Diffuser Kit
+FLX-SMPL-4 (1x4 & 2x4 luminaires)
+FLX-SMPL-2 (2x2 luminaires)
+- Includes one of each optic overlay diffuse accessory (wavy, 
+   perforated, diffuse, brushed metal and striped)
+For use with SC1 and AWNS Controls
+Wavy Inner Optic Diffuser, 10-Pack
+FLX-SCLV-WVD-4 (1x4 & 2x4 luminaires)
+FLX-SCLV-WVD-2 (2x2 luminaires)
+Perforated Inner Optic Diffuser, 10-Pack
+FLX-SCLV-PFD-4 (1x4 & 2x4 luminaires)
+FLX-SCLV-PFD-2 (2x2 luminaires)
+Diffuse Inner Optic, 10-Pack
+FLX-SCLV-STD-4 (1x4 & 2x4 luminaires)
+FLX-SCLV-STD-2 (2x2 luminaires)
+Brushed Metal Inner Optic Diffuser, 10-Pack
+FLX-SCLV-BMD-4 (1x4 & 2x4 luminaires)
+FLX-SCLV-BMD-2 (2x2 luminaires)
+Striped Inner Optic Diffuser, 10-Pack
+FLX-SCLV-STRD-4 (1x4 & 2x4 luminaires)
+FLX-SCLV-STRD-2 (2x2 luminaires)
+SC1 and AWNS Dimensions
+DIM "A" DIM "A" w/EB DIM "B" DIM "C" Weight Weight w/EB
+1x4 4.0" (101mm) 4.0" (101mm) 11.7" (298mm) 47.7" (1213mm) 11.0 lbs. (5.0kg) 16.0 lbs. (7.3kg)
+2x2 4.0" (101mm) 3.3" (84mm) 23.7" (603mm) 23.8" (604mm) 9.0 lbs. (4.1kg) 14.0 lbs. (6.4kg)
+2x4 4.0" (101mm) 3.3" (84mm) 23.7" (603mm) 47.7" (1213mm) 15.0 lbs. (6.8kg) 20.0 lbs. (9.1kg)
+Lens Assembly Dimensions
+Lens Width DIM "A" Endcap Width DIM "B"
+CRV 7.3" (185mm) 7.9" (200mm)
+ARC 5.4" (138mm) 6.2" (157mm)
+SQ 5.4" (138mm) 6.2" (157mm)
+A
+B
+A
+B
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+FLX14™, FLX22™, and FLX24™ Specification LED TrofferCoefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 108 103 99 95
+2 98 90 83 77
+3 90 79 71 64
+4 82 70 61 54
+5 76 63 54 47
+6 70 56 47 41
+7 65 51 42 36
+8 60 47 38 32
+9 56 43 35 29
+10 53 40 32 27
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0° 45° 90°
+45° 4,495 4,373 4,454
+55° 4,145 4,133 4,377
+65° 3,739 4,003 4,497
+75° 3,110 4,066 4,960
+85° 2,061 4,185 5,209
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 2,697 N/A 28.0%
+0-40 4,338 N/A 45.0%
+0-60 7,468 N/A 77.5%
+0-90 9,641 N/A 100%
+0-180 9,641 N/A 100%
+Reference https://creelighting.com/products/indoor/troffers/flex-series for detailed photometric data.
+Photometry
+FLX24-100L-930-ARC-10V1-UNV BASED ON RESTL REPORT TEST #: PL16330-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 
+100%.
+0˚ 20˚
+50˚
+70˚904
+0
+3615
+1808
+2711
+0˚ 90˚
+90˚
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 108 103 98 94
+2 98 89 82 75
+3 89 78 69 62
+4 81 69 59 52
+5 74 61 52 45
+6 69 55 46 39
+7 64 50 41 35
+8 59 45 37 31
+9 55 42 33 28
+10 52 38 30 25
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0° 45° 90°
+45° 4,051 4,341 4,714
+55° 3,738 4,292 4,892
+65° 3,377 4,409 5,313
+75° 2,846 4,804 6,064
+85° 2,059 5,089 5,578
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 2,496 N/A 25.9%
+0-40 4,070 N/A 42.3%
+0-60 7,216 N/A 74.9%
+0-90 9,631 N/A 100%
+0-180 9,631 N/A 100%
+Reference https://creelighting.com/products/indoor/troffers/flex-series for detailed photometric data.
+Photometry
+FLX24-100L-930-CRV-10V1-UNV BASED ON RESTL REPORT TEST #: PL16304-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 
+100%.
+0˚ 20˚
+50˚
+70˚820
+0
+3278
+1639
+2459
+0˚ 90˚
+90˚
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+FLX14™, FLX22™, and FLX24™ Specification LED TrofferOpen Space
+Spacing Lumen Package CRI Initial Delivered 
+Lumens Wattage LPW w/ft2 Average 
+fc
+8 x 8
+26L
+80
+2,600
+18 144 0.27
+36
+90/9ACK 21 124 0.32
+30L
+80
+3,000
+21 143 0.32
+42
+90/9ACK 26 115 0.39
+40L
+80
+4,000
+27 148 0.41
+56
+90/9ACK 33 121 0.50
+50L
+80
+5,000
+35 143 0.53
+70
+90/9ACK 41 122 0.62
+8 x 10
+26L
+80
+2,600
+18 144 0.23
+30
+90/9ACK 21 124 0.26
+30L
+80
+3,000
+21 143 0.26
+35
+90/9ACK 26 115 0.33
+40L
+80
+4,000
+27 148 0.34
+47
+90/9ACK 33 121 0.41
+50L
+80
+5,000
+35 143 0.44
+58
+90/9ACK 41 122 0.51
+10 x 10
+26L
+80
+2,600
+18 144 0.18
+24
+90/9ACK 21 124 0.21
+30L
+80
+3,000
+21 143 0.21
+28
+90/9ACK 26 115 0.26
+40L
+80
+4,000
+27 148 0.27
+37
+90/9ACK 33 121 0.33
+50L
+80
+5,000
+35 143 0.35
+47
+90/9ACK 41 122 0.41
+10 x 12
+26L
+80
+2,600
+18 144 0.14
+19
+90/9ACK 21 124 0.17
+30L
+80
+3,000
+21 143 0.17
+22
+90/9ACK 26 115 0.21
+40L
+80
+4,000
+27 148 0.22
+30
+90/9ACK 33 121 0.26
+50L
+80
+5,000
+35 143 0.28
+37
+90/9ACK 41 122 0.33
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial
+Open Space: 50' x 40' x 10
+Applies to ARC, CRV and SQ lenses.
+Open Space
+Spacing Lumen Package CRI Initial Delivered 
+Lumens Wattage LPW w/ft2 Average 
+fc
+8 x 8
+60L
+80
+6,000
+42 143 0.63
+56
+90/9ACK 49 122 0.74
+70L
+80
+7,000
+47 149 0.71
+65
+90 56 125 0.84
+80L
+80
+8,000
+54 148 0.81
+74
+90 65 123 0.98
+100L
+80
+10,000
+67 149 1.01
+93
+90 78 128 1.17
+8 x 10
+60L
+80
+6,000
+42 143 0.53
+46
+90/9ACK 49 122 0.61
+70L
+80
+7,000
+47 149 0.59
+54
+90 56 125 0.70
+80L
+80
+8,000
+54 148 0.68
+61
+90 65 123 0.81
+100L
+80
+10,000
+67 149 0.84
+77
+90 78 128 0.98
+10 x 10
+60L
+80
+6,000
+42 143 0.42
+37
+90/9ACK 49 122 0.49
+70L
+80
+7,000
+47 149 0.47
+43
+90 56 125 0.56
+80L
+80
+8,000
+54 148 0.54
+49
+90 65 123 0.65
+100L
+80
+10,000
+67 149 0.67
+62
+90 78 128 0.78
+10 x 12
+60L
+80
+6,000
+42 143 0.34
+29
+90/9ACK 49 122 0.39
+70L
+80
+7,000
+47 149 0.38
+34
+90 56 125 0.45
+80L
+80
+8,000
+54 148 0.43
+39
+90 65 123 0.52
+100L
+80
+10,000
+67 149 0.54
+49
+90 78 128 0.62
+25' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial
+Open Space: 50' x 40' x 10
+Applies to ARC, CRV and SQ lenses.
+Application Reference Application Reference 
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 108 103 99 95
+2 98 89 82 76
+3 89 78 70 63
+4 82 69 60 53
+5 75 62 53 46
+6 69 56 47 40
+7 64 51 42 35
+8 60 46 38 32
+9 56 42 34 28
+10 52 39 31 26
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0° 45° 90°
+45° 4,246 4,346 4,498
+55° 3,927 4,244 4,604
+65° 3,565 4,284 4,955
+75° 3,011 4,478 5,512
+85° 2,030 4,015 4,278
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 2,596 N/A 27.0%
+0-40 4,192 N/A 43.6%
+0-60 7,322 N/A 76.2%
+0-90 9,610 N/A 100%
+0-180 9,610 N/A 100%
+Reference https://creelighting.com/products/indoor/troffers/flex-series for detailed photometric data.
+Photometry
+FLX24-100L-930-SQ-10V1-UNV  BASED ON RESTL REPORT TEST #: PL16329-001B
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 
+100%.
+0˚ 20˚
+50˚
+70˚860
+0
+3440
+1720
+2580
+0˚ 90˚
+90˚
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+FLX14™, FLX22™, and FLX24™ Specification LED TrofferANSI/IES TM-30-18
+4000K, 80 CRI 
+Based on RESTL TEST #:  PL16472-001
+4000K, 90 CRI 
+Based on RESTL TEST #:  PL16468-001 
+Manufacturer:
+Test:
+x
+y
+u' Ra 84
+v' R9 13
+(CRI)
+Colors are for visual orientation purposes only. Created with the ANSI/IES TM-30-18 Calculator Version 2.01
+FLX Troffer - 840
+7/19/2021
+0.3816
+0.3786
+0.2252
+0.5026
+Cree Lighting
+PL16472-001
+ANSI/IES TM-30-18 Color Rendition Report
+Source:
+Date:
+Notes: CIE 13.3-1995
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+CES01
+CES04
+CES07
+CES10
+CES13
+CES16
+CES19
+CES22
+CES25
+CES28
+CES31
+CES34
+CES37
+CES40
+CES43
+CES46
+CES49
+CES52
+CES55
+CES58
+CES61
+CES64
+CES67
+CES70
+CES73
+CES76
+CES79
+CES82
+CES85
+CES88
+CES91
+CES94
+CES97
+Color Sample Fidelity (Rf,CESi)
+380 430 480 530 580 630 680 730 780
+Radiant Power 
+(Equal Luminous Flux)
+Wavelength (nm)
+Reference Test
+0.00
+0.05
+0.10
+0.05
+0.03
+-0.01
+-0.01
+0.02
+0.10
+0.14
+0.15
+0.06
+-0.07
+-0.07
+-0.16
+-0.12
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+Local Hue Shift (Rhs,hj)
+80 84 80
+88 90 94 90 88 84
+75 77
+84 85 88
+78 77
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Local Color Fidelity (Rf,hj)
+Hue-Angle Bin (j)
+-11%
+-7%
+-4%
+-2%
+-2%
+0%
+-6%
+-7%
+-7%
+-6%
+4%
+6%
+7%
+4%
+-1%
+-6%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+Local Chroma Shift (Rcs,hj)
+-20%
+20%
+1
+2
+3
+45
+16
+6
+7
+8
+9
+10 15
+11
+12 13
+14 Duv
+84
+CCT
+95
+0.0005
+RgRf
+3981 K
+Manufacturer:
+Test:
+x
+y
+u' Ra 92
+v' R9 72
+(CRI)
+Colors are for visual orientation purposes only. Created with the ANSI/IES TM-30-18 Calculator Version 2.01
+FLX Troffer - 940
+7/20/2021
+0.3820
+0.3836
+0.2234
+0.5048
+Cree Lighting
+PL16468-001
+ANSI/IES TM-30-18 Color Rendition Report
+Source:
+Date:
+Notes: CIE 13.3-1995
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+CES01
+CES04
+CES07
+CES10
+CES13
+CES16
+CES19
+CES22
+CES25
+CES28
+CES31
+CES34
+CES37
+CES40
+CES43
+CES46
+CES49
+CES52
+CES55
+CES58
+CES61
+CES64
+CES67
+CES70
+CES73
+CES76
+CES79
+CES82
+CES85
+CES88
+CES91
+CES94
+CES97
+Color Sample Fidelity (Rf,CESi)
+380 430 480 530 580 630 680 730 780
+Radiant Power 
+(Equal Luminous Flux)
+Wavelength (nm)
+Reference Test
+-0.01
+0.01
+0.04
+0.03
+0.03
+0.00
+-0.01
+0.00
+0.04
+0.08
+0.11
+0.06
+0.00
+-0.01
+-0.07
+-0.08
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+Local Hue Shift (Rhs,hj)
+92 94 91 92 92 96 96 94 92 86 83 87 92 93 89 87
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Local Color Fidelity (Rf,hj)
+Hue-Angle Bin (j)
+-3%
+-3%
+-2%
+-1%
+-1%
+2%
+-1%
+-3%
+-4%
+-4%
+2%
+4%
+5%
+5%
+3%
+1%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+Local Chroma Shift (Rcs,hj)
+-20%
+20%
+1
+2
+3
+45
+16
+6
+7
+8
+9
+10 15
+11
+12 13
+14 Duv
+91
+CCT
+100
+0.0028
+RgRf
+4009 K
+Manufacturer:
+Test:
+x
+y
+u' Ra 84
+v' R9 13
+(CRI)
+Colors are for visual orientation purposes only. Created with the ANSI/IES TM-30-18 Calculator Version 2.01
+FLX Troffer - 840
+7/19/2021
+0.3816
+0.3786
+0.2252
+0.5026
+Cree Lighting
+PL16472-001
+ANSI/IES TM-30-18 Color Rendition Report
+Source:
+Date:
+Notes: CIE 13.3-1995
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+CES01
+CES04
+CES07
+CES10
+CES13
+CES16
+CES19
+CES22
+CES25
+CES28
+CES31
+CES34
+CES37
+CES40
+CES43
+CES46
+CES49
+CES52
+CES55
+CES58
+CES61
+CES64
+CES67
+CES70
+CES73
+CES76
+CES79
+CES82
+CES85
+CES88
+CES91
+CES94
+CES97
+Color Sample Fidelity (Rf,CESi)
+380 430 480 530 580 630 680 730 780
+Radiant Power 
+(Equal Luminous Flux)
+Wavelength (nm)
+Reference Test
+0.00
+0.05
+0.10
+0.05
+0.03
+-0.01
+-0.01
+0.02
+0.10
+0.14
+0.15
+0.06
+-0.07
+-0.07
+-0.16
+-0.12
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+Local Hue Shift (Rhs,hj)
+80 84 80
+88 90 94 90 88 84
+75 77
+84 85 88
+78 77
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Local Color Fidelity (Rf,hj)
+Hue-Angle Bin (j)
+-11%
+-7%
+-4%
+-2%
+-2%
+0%
+-6%
+-7%
+-7%
+-6%
+4%
+6%
+7%
+4%
+-1%
+-6%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+Local Chroma Shift (Rcs,hj)
+-20%
+20%
+1
+2
+3
+45
+16
+6
+7
+8
+9
+10 15
+11
+12 13
+14 Duv
+84
+CCT
+95
+0.0005
+RgRf
+3981 K
+Manufacturer:
+Test:
+x
+y
+u' Ra 92
+v' R9 72
+(CRI)
+Colors are for visual orientation purposes only. Created with the ANSI/IES TM-30-18 Calculator Version 2.01
+FLX Troffer - 940
+7/20/2021
+0.3820
+0.3836
+0.2234
+0.5048
+Cree Lighting
+PL16468-001
+ANSI/IES TM-30-18 Color Rendition Report
+Source:
+Date:
+Notes: CIE 13.3-1995
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+CES01
+CES04
+CES07
+CES10
+CES13
+CES16
+CES19
+CES22
+CES25
+CES28
+CES31
+CES34
+CES37
+CES40
+CES43
+CES46
+CES49
+CES52
+CES55
+CES58
+CES61
+CES64
+CES67
+CES70
+CES73
+CES76
+CES79
+CES82
+CES85
+CES88
+CES91
+CES94
+CES97
+Color Sample Fidelity (Rf,CESi)
+380 430 480 530 580 630 680 730 780
+Radiant Power 
+(Equal Luminous Flux)
+Wavelength (nm)
+Reference Test
+-0.01
+0.01
+0.04
+0.03
+0.03
+0.00
+-0.01
+0.00
+0.04
+0.08
+0.11
+0.06
+0.00
+-0.01
+-0.07
+-0.08
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+Local Hue Shift (Rhs,hj)
+92 94 91 92 92 96 96 94 92 86 83 87 92 93 89 87
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Local Color Fidelity (Rf,hj)
+Hue-Angle Bin (j)
+-3%
+-3%
+-2%
+-1%
+-1%
+2%
+-1%
+-3%
+-4%
+-4%
+2%
+4%
+5%
+5%
+3%
+1%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+Local Chroma Shift (Rcs,hj)
+-20%
+20%
+1
+2
+3
+45
+16
+6
+7
+8
+9
+10 15
+11
+12 13
+14 Duv
+91
+CCT
+100
+0.0028
+RgRf
+4009 K
+Manufacturer:
+Test:
+x
+y
+u' Ra 84
+v' R9 13
+(CRI)
+Colors are for visual orientation purposes only. Created with the ANSI/IES TM-30-18 Calculator Version 2.01
+FLX Troffer - 840
+7/19/2021
+0.3816
+0.3786
+0.2252
+0.5026
+Cree Lighting
+PL16472-001
+ANSI/IES TM-30-18 Color Rendition Report
+Source:
+Date:
+Notes: CIE 13.3-1995
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+CES01
+CES04
+CES07
+CES10
+CES13
+CES16
+CES19
+CES22
+CES25
+CES28
+CES31
+CES34
+CES37
+CES40
+CES43
+CES46
+CES49
+CES52
+CES55
+CES58
+CES61
+CES64
+CES67
+CES70
+CES73
+CES76
+CES79
+CES82
+CES85
+CES88
+CES91
+CES94
+CES97
+Color Sample Fidelity (Rf,CESi)
+380 430 480 530 580 630 680 730 780
+Radiant Power 
+(Equal Luminous Flux)
+Wavelength (nm)
+Reference Test
+0.00
+0.05
+0.10
+0.05
+0.03
+-0.01
+-0.01
+0.02
+0.10
+0.14
+0.15
+0.06
+-0.07
+-0.07
+-0.16
+-0.12
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+Local Hue Shift (Rhs,hj)
+80 84 80
+88 90 94 90 88 84
+75 77
+84 85 88
+78 77
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Local Color Fidelity (Rf,hj)
+Hue-Angle Bin (j)
+-11%
+-7%
+-4%
+-2%
+-2%
+0%
+-6%
+-7%
+-7%
+-6%
+4%
+6%
+7%
+4%
+-1%
+-6%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+Local Chroma Shift (Rcs,hj)
+-20%
+20%
+1
+2
+3
+45
+16
+6
+7
+8
+9
+10 15
+11
+12 13
+14 Duv
+84
+CCT
+95
+0.0005
+RgRf
+3981 K
+Manufacturer:
+Test:
+x
+y
+u' Ra 92
+v' R9 72
+(CRI)
+Colors are for visual orientation purposes only. Created with the ANSI/IES TM-30-18 Calculator Version 2.01
+FLX Troffer - 940
+7/20/2021
+0.3820
+0.3836
+0.2234
+0.5048
+Cree Lighting
+PL16468-001
+ANSI/IES TM-30-18 Color Rendition Report
+Source:
+Date:
+Notes: CIE 13.3-1995
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+CES01
+CES04
+CES07
+CES10
+CES13
+CES16
+CES19
+CES22
+CES25
+CES28
+CES31
+CES34
+CES37
+CES40
+CES43
+CES46
+CES49
+CES52
+CES55
+CES58
+CES61
+CES64
+CES67
+CES70
+CES73
+CES76
+CES79
+CES82
+CES85
+CES88
+CES91
+CES94
+CES97
+Color Sample Fidelity (Rf,CESi)
+380 430 480 530 580 630 680 730 780
+Radiant Power 
+(Equal Luminous Flux)
+Wavelength (nm)
+Reference Test
+-0.01
+0.01
+0.04
+0.03
+0.03
+0.00
+-0.01
+0.00
+0.04
+0.08
+0.11
+0.06
+0.00
+-0.01
+-0.07
+-0.08
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+Local Hue Shift (Rhs,hj)
+92 94 91 92 92 96 96 94 92 86 83 87 92 93 89 87
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16
+Local Color Fidelity (Rf,hj)
+Hue-Angle Bin (j)
+-3%
+-3%
+-2%
+-1%
+-1%
+2%
+-1%
+-3%
+-4%
+-4%
+2%
+4%
+5%
+5%
+3%
+1%
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+Local Chroma Shift (Rcs,hj)
+-20%
+20%
+1
+2
+3
+45
+16
+6
+7
+8
+9
+10 15
+11
+12 13
+14 Duv
+91
+CCT
+100
+0.0028
+RgRf
+4009 K
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+FLX14™, FLX22™, and FLX24™ Specification LED Troffer© 2024 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. Patent www.
+creelighting.com/patents. SmartCast® and the SmartCast Technology logo are registered trademarks, and OneButton™, FLX14™, 
+FLX22™, and FLX24™ are trademarks of Cree Lighting USA LLC. Cree Lighting® and the Cree Lighting logo are registered trademarks of 
+CLNA Holdings LLC. The UL logo is a registered trademark of UL LLC. Lutron Athena is a trademark or registered trademark of Lutron 
+Electronics Co., Inc. The DLC QPL, DLC QPL Premium and the DLC LUNA Logos are the registered and unregistered trademarks of 
+Efficiency Forward, Inc.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+FLX14™, FLX22™, and FLX24™ Specification LED Troffer
+Replacement Parts
+EB Replacement Kit  
+FLX-EBKIT-IO 
+- Replaces EB driver in existing ZR/FLX luminaires 
+- Available only with UNV voltage
+RLK
+Product Lens Controls Replacement Lens Kit
+FLX14/24 
+- For use with 1x4 and 2x4  
+   luminaires 
+FLX22 
+- For use with 2x2 luminaires
+CRV  
+- ZR Curve 
+ARC 
+- FLX Arc  
+SQ 
+- Square
+BLANK 
+-  For use with 10V10, 10V1, 
+    LDE1, DALI, and AWNR 
+    controls 
+SCLV 
+- For use with SC1, VDO, VRF,  
+   and AWNS controls
+RLK 
+- Replacement Lens Kit
+Lens Replacement Kits

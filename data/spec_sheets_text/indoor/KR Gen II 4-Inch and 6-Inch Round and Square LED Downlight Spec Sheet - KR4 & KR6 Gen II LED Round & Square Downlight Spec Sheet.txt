@@ -1,0 +1,937 @@
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KR4R
+Rev. Date: V5 12/12/2024
+Product Description
+The KR Series LED specification downlights deliver beautiful, high-quality light with efficacy up to 90 lumens per watt. 
+Designed for new construction applications, the KR Series is available in a variety of color temperatures, round and square 
+trims with high-quality anodized aluminum reflector finish, a sloped ceiling adapter accessory, and a variety of dimming 
+options. The KR Series downlights with SmartCast® Technology, Cree Lighting's intelligent light solution, provide extreme 
+energy productivity and code compliance – all with installation that's so intuitive and simple, it just works.
+Performance Summary
+Utilizes Cree TrueWhite® Technology
+Initial Delivered Lumens: 850-6,750 lumens
+Input Power : 13-78 watts
+Emergency Performance: Minimum 90 Minutes, 10W (9L-40L) / 20W (60L)
+CRI: 90
+CCT : 2700K, 3000K, 3500K, 4000K, 5000K
+Controls: 0-10V Dimming to 5%, SmartCast® Technology Dimming to 5%, and Lutron EcoSystem® Dimming to 
+1%, Lutron Vive Dimming to 5%
+Limited Warranty†: 10 years for luminaire/up to 5 years for SmartCast® accessories/1 year for luminaire 
+accessories
+Limited Warranty Emergency Back Up (EB) Battery: 1 Year Battery Back Up. Test regularly in accordance with 
+local codes
+Assembled in the USA by Cree Lighting from US and imported parts
+† See https://www.creelighting.com/resources/warranties/ for warranty terms. Consult SmartCast accessory spec sheets for details on warranty 
+terms.
+Refer to page 7&8 for additional downlight drawings.
+* Lumen package information based on 35K/40K. Actual lumen output levels vary depending on CCT. Refer to Delivered Lumens & Electrical Data and Reflector Illumination Performance tables for specific lumen values.
+10V/L3DA/VRF: 
+12.0" (306mm)
+10R/VRF:  
+14.4" (367mm)
+7.4"
+(187mm)
+4.25" 
+(108mm)
+5.25" 
+(133mm)
+110V/L3DA:  
+11.9" (303mm)
+10R: 12.4" 
+(314mm)
+SmartCast Technology RF 
+Module (10R Control only)
+KR Series
+KR4™ & KR6™ LED Specification Downlights
+Ordering Information
+Fully assembled luminaire is composed of two components that must be ordered separately:
+Example: Housing: KR4R-20L-935-12-10V + Reflector: KR4T-SSGC-FF
+Housing (Reflector must be ordered separately)
+KR
+Series Size Lumen Package* CRI/CCT Voltage Controls Options
+KR 4R 
+4" Round 
+4S 
+4" Square 
+6R 
+6" Round 
+6S 
+6" Square
+9L 
+1,000 Lumens, 13W - 77 LPW 
+13L 
+1,340 Lumens, 16W - 84 LPW 
+20L 
+1,970 Lumens, 24W - 82 LPW 
+30L 
+2,810 Lumens, 33W - 85 LPW 
+40L 
+3,760 Lumens, 44W - 85 LPW 
+60L 
+6,490 Lumens, 75W - 87 LPW 
+- Available only with 6" downlights
+927 
+90 CRI, 2700K 
+930 
+90 CRI, 3000K 
+935 
+90 CRI, 3500K 
+940 
+90 CRI, 4000K 
+950 
+90 CRI, 5000K
+12 
+120V 
+27 
+277V 
+34 
+347V
+10V 
+0-10V Dimming to 5% 
+10R
+SmartCast® Wireless Technology with 5% Dimming, 
+Integral Motion and Ambient Sensors 
+- Available only with 9L-30L lumen packages 
+- Available only with 12 & 27 voltages 
+L3DA 
+Lutron EcoSystem® Dimming to 1% 
+- Available only with 13L-40L lumen packages 
+- Available only with 12 & 27 voltages 
+- Minimum operating temperature: 0̊C (32̊F)
+VRF
+Lutron Vive Wireless Integral Fixture Control with 
+Dimming to 5% (RF only)
+- Available only with 12 & 27 voltages
+- Minimum operating temperature: 0̊C (32̊F)
+-EB 
+Emergency Backup 
+- Available only with 12 & 27 voltages 
+- Provides 90 minutes and 10W (9L-40L) or 20W (60L) 
+of power 
+- Minimum operating temperature: 0̊C (32̊F)
+Reflector (Housing must be ordered separately)
+Series Reflector Finish Flange Finish Options
+KR4T
+KR4TS 
+KR6T 
+KR6TS
+4" Round Trim
+4" Square Trim
+6" Round Trim
+6" Square Trim
+SSGC 
+Soft Satin Glow, Clear
+FF 
+Matches Reflector 
+WF  
+White Paint
+BF
+Black Paint
+- For use only with 6" trims
+WW 
+Wall Wash 
+- For use only with 6"round 
+trims
+Accessories 
+Field-Installed
+Sloped Ceiling Adapter
+KXKS4**WW (4" Round only)
+KRKS6**WW (6" Round only)
+** 0-35 (order in 5 degree increments
+C-Channel Hanger Bars
+RBH30C
+- Pair of 30" (762mm) rigid 
+3/4" x 1/2"
+(19mm x 13mm) C 
+Channel bars
+RBH24C-1
+- Pair of 24" (610mm) x 1-1/2" (38mm)
+x 1/2" (13mm) standard C-Channel bars
+T-Bar Clips
+RARC7
+- Set of four
+- For use with RBH24C-1 hanger bars
+Beauty Ring
+KR4TA (4" Round only)
+KR6TA (6" Round only)
+- White beauty ring to cover pan head 
+fasteners on round reflectors
+SmartCast® Technology Configuration Tool
+CCT-CWC-1
+- One required per project when
+10R control is selected
+SmartCast® Technology Face Plates
+CFP-1-WH
+- Matching face plate, 1-gang, white
+CFP-2-WH
+- Matching face plate, 2-gang, white
+SmartCast® 5-Button Wireless Scene
+Controller
+CSC-SC-A-5B-UNVN-WH (w/o text)
+CSC-SC-A-5S-UNVN-WH (w/scene text)
+CSC-SC-A-5X-UNVN-WH (w/custom text)
+SmartCast® 10V Zone Controller
+CSC-ZC-10V-CWC
+- Intelligent sensing and control of 0-10V 
+luminaires
+SmartCast® Technology Wireless Dimmer
+CSC-CWD-UNVN-WH (neutral wire required)
+CSC-CWD-UNV-WH (no neutral required)
+SmartCast® Technology Wireless Switch
+CSC-CWS-UNVN-WH (neutral wire required)
+CSC-CWS-UNV-WH (no neutral required)
+SmartCast® Technology Wireless Plug Load 
+Controller
+CPLC-JB-CWCWebsite: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Product Specifications 
+CREE TRUEWHITE® TECHNOLOGY
+A revolutionary way to generate high-quality white light, Cree TrueWhite® Technology is 
+a patented approach that delivers an exclusive combination of 90+ CRI, beautiful light 
+characteristics, and lifelong color consistency, all while maintaining high luminous 
+efficacy – a true no compromise solution
+SMARTCAST® TECHNOLOGY
+SmartCast® Technology is the most intuitive and easiest to install intelligent light solution on 
+the market. SmartCast Technology delivers up to 70% energy savings at up to half the cost of 
+other solutions. Luminaires combine best-in-class light with onboard sensors and intelligence 
+to deliver a better light experience. Extreme energy productivity, code compliance and a better 
+light experience without any extra design, installation or setup work.
+CONSTRUCTION & MATERIAL
+ Low brightness parabolic spun Alzak aluminum cone, 0.06" (2mm) thick with 
+polished radius and continuous self-flange
+ Soft Satin Glow Clear finish, standard
+ 2" (51mm) aperture throat to accommodate all standard and up to 3" (76mm) thick 
+ceilings and provide flexibility in mounting within grid
+ Provided with quick mounting brackets for optional carrying channels
+ Light engine, optics, and driver accessible from below ceiling
+ Beam Angle: ~70º (included angle between points of 50% of maximum intensity)
+ Includes QR code on the inside of the trim ring which provides access to: Online 
+installation instructions, Luminaire information (Part number, Serial number, Build 
+date, and Warranty end date), and Warranty claim submission form
+ Duplicate 1” and 2" QR code labels are included. 1" labels can be affixed next to 
+fixtures, on site plans, or in maintenance records. 2” labels can be scanned from the 
+ground when placed at an appropriate height 
+ELECTRICAL SYSTEM
+ Power Factor : > 0.9 at full load
+ Total Harmonic Distortion: < 20% at full load
+ Input Voltage : 120, 277V, or 347V, 50/60Hz
+ Operating Temperature Range: -18˚C - +40˚C (0˚F - +104˚F); minimum operating 
+temperature with L3DA control or EB option is 0°C (32°F)
+CONTROLS
+ Continuous dimming to 5% with 0-10V DC control protocol
+ 10V Source Current: 9L-40L: 0.2mA (max.); 60L: 0.6mA (max.)
+ For use with Class 2 dimming systems only
+ Use only lighting controls with neutral connection or controls intended for use with 
+LED fixtures
+ Lutron EcoSystem ® Dimming to 1%
+ SmartCast ® Technology Dimming to 5%
+ Reference https://www.creelighting.com/products/indoor/new-construction-
+downlights/kr-series/ for recommended dimming controls and wiring diagrams
+REGULATORY & VOLUNTARY QUALIFICATIONS
+ cULus Listed
+ Suitable for thru-wiring 8#12AWG-90°C
+ Suitable for damp locations
+ Designed for indoor use only
+ Thermally protected Type NON-IC in accordance with Article 410 of the NEC and UL 
+1598
+ Requires minimum 90˚C supply conductors
+ UL924 (EB option). Maximum mounting height: 9L - 21' (6.4m); 13L - 25' (7.6m); 20L - 
+26' (7.9m); 30L/40L - 28' (8.5m); 60L - 43' (13.1m)
+ Meets FCC Part 15, Subpart B, Class A limits for conducted and radiated emissions
+ RoHS compliant. Consult factory for additional details
+ Assembled in the USA by Cree Lighting from US and imported parts
+ Some configurations meet requirements of BAA and/or BABA. Consult factory when 
+needed for a project: www.creelighting.com/BAA-BABA
+•CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+SmartCast® Technology 
+INTEGRAL MOTION SENSOR
+ Passive infrared (PIR)
+ Coverage area: 100 sq. ft. (30.5m2) at 10 ft. (3.0m) mounting height
+ Not intended to be mounted higher than 12 ft. (3.7m)
+ Operation:
+    Grouped with a wall control: Luminaire will operate in vacancy mode (manual 
+            on/auto-off)
+    Not grouped with a wall control: Luminare will operate in occupancy mode 
+            (auto-on/auto-off)
+ Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+AMBIENT LIGHT SENSOR
+ Sensor response matches response of human eye
+ Not intended to be mounted higher than 12 ft. (3.7m)
+ Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree 
+Lighting Configuration Tool
+ Daylight harvesting calibration performed automatically during OneButton™ Setup
+INTEGRAL WIRELESS COMMUNICATION
+ 2.4GHz wireless mesh technology with AES 128-bit encryption
+ Self assigns to quietest channel during OneButton™ Setup
+ Range:
+    30 ft. (9.1m) in typical commercial applications
+    300 ft. (91.4m) open air without obstructions
+ Network: 250 devices max.
+ Space: 100 devices max. per group
+ FCC and IC Certifications
+ NOTE: SmartCast luminaires must be installed on unswitched AC power. Constant power is 
+required to maintain all luminaires on the SmartCast network. If wall control or manual dimming 
+is required, a SmartCast wall control dimmer must be used for manual on, off, and dimming.
+LUMINAIRE
+ Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+ 10 year power fail memory of settings
+DEPLOYMENT
+ Please refer to the SmartCast ® Deployment Guide at https://cree.widen.net/s/mvxtfd2pcz/
+smartcastr-wireless-deployment-guide
+Installation - 4" 
+ Recommended round ceiling cutout: ᴓ 4.75" (120mm)
+ Recommended square ceiling cutout: 4.75" x 4.75" (120mm x 120mm)
+Note: 30L and 40L versions require marked spacing: 24" (600mm) x 12" (300mm) x ½" (12mm). 24" (600mm) luminaire to 
+luminaire, 12" (300mm) luminaire to side wall, ½" (12mm) above luminaire.
+Installation - 6" 
+ Recommended ceiling cutout: ᴓ 6.5" (165mm)
+ Recommended ceiling cutout: 6.5" x 6.5" (165mm x 165mm)
+Note: 30L and 40L versions require marked spacing: 24" (600mm) x 12" (300mm) x ½" (12mm). 24" (600mm)
+luminaire to luminaire, 12" (300mm) luminaire to side wall, ½" (12mm) above luminaire. 60L versions require marked 
+spacing: 48" (1219mm) x 24" (600mm) x 1" (25mm). 48" (1219mm) luminaire to luminaire, 24" (600mm) luminaire to side 
+wall, 1" (25mm) above luminaire.
+KR4™ & KR6™ LED Specification Downlights
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Electrical Data*
+Lumen 
+Package
+System Watts 
+120V, 277V, 
+347V
+Total Current (A)
+120V 277V 347V
+9L 13 0.12 0.06 0.06
+9L w/EB 18 0.16 0.07 N/A
+13L 16 0.15 0.07 0.07
+13L w/EB 21 0.19 0.08 N/A
+20L 24 0.23 0.11 0.09
+20L w/EB 29 0.26 0.11 N/A
+30L 33 0.30 0.13 0.11
+30L w/EB 38 0.34 0.15 N/A
+40L 44 0.39 0.17 0.14
+40L w/EB 48 0.43 0.19 N/A
+60L 75 0.67 0.30 0.25
+60L w/EB 82 0.74 0.33 N/A
+Initial Delivered Lumens
+Lumen 
+Package
+2700K/3000K 3500K/4000K 5000K
+Initial 
+Delivered 
+Lumens*
+Efficacy 
+(LPW)
+Initial 
+Delivered 
+Lumens*
+Efficacy 
+(LPW)
+Initial 
+Delivered 
+Lumens*
+Efficacy 
+(LPW)
+9L  850 65  1,000 77  1,040 80
+13L  1,140 71  1,340 84  1,390 87
+20L  1,680 70  1,970 82  2,050 85
+30L  2,390 72  2,810 85  2,930 89
+40L  3,200 73  3,760 85  3,910 89
+60L  5,520 74  6,490 87  6,750 90
+Delivered Emergency Lumens
+Lumen 
+Package 2700K/3000K 3500K/4000K 5000K
+9L  650  770  800 
+13L  710  840  870 
+20L  700  820  850 
+30L  720  850  890 
+40L  730  850  890 
+60L  1,470  1,730  1,800 
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating at 120V, 277V, or 
+347V +/- 10%.
+* Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial 
+delivered lumens.
+KR Gen II Series Ambient Adjusted Lumen Maintenance1
+Initial  
+LMF
+25K hr  
+Reported2 
+LMF
+50K hr  
+Reported2 
+LMF
+75K hr  
+Estimated3  
+LMF
+100K hr  
+Estimated3  
+LMF
+0˚C (32˚F) 1.04 0.99 0.97 0.94 0.92
+5˚C (41˚F) 1.03 0.99 0.96 0.93 0.91
+10˚C (50˚F) 1.02 0.98 0.95 0.93 0.90
+15˚C (59˚F) 1.02 0.97 0.95 0.92 0.90
+20˚C (68˚F) 1.01 0.96 0.94 0.91 0.89
+25˚C (77˚F) 1.00 0.96 0.93 0.91 0.88
+30˚C (86˚F) 0.99 0.95 0.92 0.90 0.88
+35˚C (95˚F) 0.99 0.94 0.92 0.89 0.87
+40˚C (104˚F) 0.98 0.94 0.91 0.89 0.86
+1 Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data for the LED 
+package and in-situ luminaire testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen 
+maintenance factors. 
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are up to 6x 
+the tested duration in the IES LM-80 report for the LED. 
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+KR4™ & KR6™ LED Specification DownlightsWebsite: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KR4™ & KR6™ LED Specification Downlights
+0˚20˚
+50˚
+70˚
+90˚
+501
+0
+2003
+1002
+1502
+0˚ 90˚
+RESTL Test Report #: PL16884-001B
+KR4R-40L-927-12-10V w/KR4T-SSGC-FF
+Initial Delivered Lumens: 3,224
+Efficacy: 73 LPW
+S/M: 1.2
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 112 109 106 104
+2 105 100 95 91
+3 99 91 85 80
+4 92 83 77 72
+5 86 76 69 64
+6 81 70 63 58
+7 76 65 58 53
+8 71 60 53 48
+9 67 56 49 44
+10 63 52 45 41
+Effective Floor Cavity Reflectance: 20%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1,612 N/A 50.0%
+0-40 2,415 N/A 74.9%
+0-60 3,149 N/A 97.7%
+0-90 3,224 N/A 100.0%
+0-180 3,224 N/A 100.0%
+Cone of Light
+Distance from 
+Workplane Footcandles Beam  
+Diameter
+6' (1.8m) 60 3.5
+8' (2.4m) 33 9.2
+10' (3.0m) 21 11.6
+12' (3.7m) 14 14.2
+14' (4.3m) 10 16.8
+Cone of Light
+Distance from 
+Workplane Footcandles Beam  
+Diameter
+6' (1.8m) 71 7.4
+8' (2.4m) 39 9.4
+10' (3.0m) 25 11.8
+12' (3.7m) 17 14.2
+14' (4.3m) 12 16.9
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0˚45˚90˚
+45˚115,443 115,835 117,842
+55˚51,419 51,759 50,739
+65˚15,576 15,690 14,996
+75˚6,038 6,212 5,899
+85˚2,554 2,805 2,399
+Photometry
+KR4R40L9271210V W/KR4TSSGCFF BASED ON RESTL TEST #: PL16884001B
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+For exact photometric data, please reference our available IES and LM-79 test results at http://creelighting.com/products/indoor/new-construction-downlights/kr-series
+0˚20˚
+50˚
+70˚
+90˚
+607
+0
+2427
+1214
+1821
+0˚ 90˚
+RESTL Test Report #: PL16884-002B
+KR6R-40L-927-12-10V w/KR6T-SSGC-FF
+Initial Delivered Lumens: 3,294
+Efficacy: 75 LPW
+S/M: 1.2
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 113 110 107 105
+2 107 101 97 93
+3 101 94 88 84
+4 95 86 80 76
+5 89 80 74 69
+6 84 74 68 63
+7 79 69 63 58
+8 75 65 58 54
+9 71 60 54 50
+10 67 57 50 46
+Effective Floor Cavity Reflectance: 20%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1,942 N/A 59.0%
+0-40 2,850 N/A 86.5%
+0-60 3,259 N/A 99.0%
+0-90 3,294 N/A 100.0%
+0-180 3,294 N/A 100.0%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0˚45˚90˚
+45˚31,167 31,229 32,618
+55˚7,262 7,488 7,916
+65˚3,026 3,142 3,402
+75˚1,300 1,360 1,465
+85˚601 626 654
+Photometry
+KR6R40L9271210V W/KR6TSSGCFF BASED ON RESTL TEST #: PL16884002B
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+For exact photometric data, please reference our available IES and LM-79 test results at http://creelighting.com/products/indoor/new-construction-downlights/kr-seriesWebsite: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KR4™ & KR6™ LED Specification Downlights
+0˚20˚
+50˚
+70˚
+90˚
+523
+0
+2091
+1046
+1569
+0˚ 90˚
+RESTL Test Report #: PL16890-001B
+KR6S-40L-927-12-10V w/KR6TS-SSGC-FF
+Initial Delivered Lumens: 3,091
+Efficacy: 70 LPW
+S/M: 1.2
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 112 109 106 104
+2 106 100 95 91
+3 99 92 86 81
+4 93 84 78 73
+5 87 78 71 66
+6 82 72 65 60
+7 77 66 59 55
+8 73 62 55 50
+9 68 57 51 46
+10 65 54 47 43
+Effective Floor Cavity Reflectance: 20%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1,615 N/A 52.2%
+0-40 2,456 N/A 79.4%
+0-60 3,005 N/A 97.2%
+0-90 3,091 N/A 100.0%
+0-180 3,091 N/A 100.0%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0˚45˚90˚
+45˚22,640 44,329 23,522
+55˚12,562 8,710 11,699
+65˚8,225 4,566 7,355
+75˚2,857 2,636 2,624
+85˚1,031 2,990 958
+Photometry
+KR6S40L9271210V W/KR6TSSSGCFF BASED ON RESTL TEST #: PL16890001B
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+For exact photometric data, please reference our available IES and LM-79 test results at http://creelighting.com/products/indoor/new-construction-downlights/kr-series
+Open Space
+Spacing Lumen 
+Package
+Initial Delivered 
+Lumens Wattage LPW w/ft 2 Average fc
+4 x 4
+9L  1,000 13 77 0.78  62 
+13L  1,340 16 84 0.96  83 
+20L  1,970 24 82 1.44  123 
+30L  2,810 33 85 1.98  175 
+40L  3,760 44 85 2.64  234 
+60L  6,490 75 87 4.50  404 
+6 x 6
+9L  1,000 13 77 0.36  29 
+13L  1,340 16 84 0.45  39 
+20L  1,970 24 82 0.67  57 
+30L  2,810 33 85 0.92  82 
+40L  3,760 44 85 1.23  109 
+60L  6,490 75 87 2.10  189 
+8 x 8
+9L  1,000 13 77 0.20  16 
+13L  1,340 16 84 0.24  21 
+20L  1,970 24 82 0.36  31 
+30L  2,810 33 85 0.50  44 
+40L  3,760 44 85 0.66  59 
+60L  6,490 75 87 1.13  101 
+10 x 10
+9L  1,000 13 77 0.13  10 
+13L  1,340 16 84 0.16  14 
+20L  1,970 24 82 0.24  20 
+30L  2,810 33 85 0.33  29 
+40L  3,760 44 85 0.44  39 
+60L  6,490 75 87 0.75  67 
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial
+Open Space: 50' x 40' x 10
+Corridor Space
+Spacing Lumen 
+Package
+Initial Delivered 
+Lumens Wattage LPW w/ft 2 Average fc
+4' OC 
+9L  1,000 13 77 0.54  28 
+13L  1,340 16 84 0.67  37 
+20L  1,970 24 82 1.00  55 
+30L  2,810 33 85 1.38  78 
+40L  3,760 44 85 1.83  105 
+60L  6,490 75 87 3.13  181 
+6' OC 
+9L  1,000 13 77 0.37  19 
+13L  1,340 16 84 0.45  25 
+20L  1,970 24 82 0.68  37 
+30L  2,810 33 85 0.94  53 
+40L  3,760 44 85 1.25  71 
+60L  6,490 75 87 2.13  122 
+8' OC
+9L  1,000 13 77 0.26  13 
+13L  1,340 16 84 0.32  18 
+20L  1,970 24 82 0.48  26 
+30L  2,810 33 85 0.66  38 
+40L  3,760 44 85 0.88  51 
+60L  6,490 75 87 1.50  87 
+10' OC
+9L  1,000 13 77 0.22  11 
+13L  1,340 16 84 0.27  15 
+20L  1,970 24 82 0.40  22 
+30L  2,810 33 85 0.55  32 
+40L  3,760 44 85 0.73  42 
+60L  6,490 75 87 1.25  73 
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial
+Corridor Space: 6' x 100' x 10
+Application Reference 
+Based on 3500K/4000K CCT. Applies to 4"/6" round/square downlights.
+Cone of Light
+Distance from 
+Workplane Footcandles Beam  
+Diameter
+6' (1.8m) 67 3.5
+8' (2.4m) 37 8.8
+10' (3.0m) 23 11.3
+12' (3.7m) 16 13.5
+14' (4.3m) 12 15.7Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KR4™ & KR6™ LED Specification Downlights
+0˚20˚
+50˚
+70˚
+90˚
+643
+2573
+1286
+1929
+0˚ 90˚
+RESTL Test Report #: PL16891-001B
+KR6R-40L-927-12-10V w/KR6T-SSGC-
+FF-WW
+Initial Delivered Lumens: 3,370
+Efficacy: 77 LPW
+S/M: 1.2
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 113 109 106 104
+2 106 100 95 91
+3 99 92 86 81
+4 93 85 78 73
+5 88 78 71 66
+6 82 72 65 60
+7 78 67 60 55
+8 73 62 56 51
+9 69 58 52 47
+10 65 55 48 44
+Effective Floor Cavity Reflectance: 20%
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1,883 N/A 55.9%
+0-40 2,757 N/A 81.8%
+0-60 3,239 N/A 96.1%
+0-90 3,370 N/A 100.0%
+0-180 3,370 N/A 100.0%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0˚45˚90˚
+45˚38,922 34,675 28,528
+55˚41,045 28,828 5,175
+65˚41,496 27,761 2,825
+75˚5,742 3,695 1,367
+85˚1,477 1,004 640
+Photometry
+KR6R40L9271210V W/KR6TSSGCFFWW BASED ON RESTL TEST #: PL16891001B
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+For exact photometric data, please reference our available IES and LM-79 test results at http://creelighting.com/products/indoor/new-construction-downlights/kr-series
+Application Reference 
+Based on KR6R-30L-927-12-10V w/KR6T-SSGC-FF-WW Luminaire : 2,390 lumens, 10' ceiling height, 2' set back.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KR4R w/EB KR4S
+KR4S w/EB
+ 19.7"
+(499mm)
+ 19.7"
+(499mm)
+18.2"
+(461mm)
+18.4"
+(467mm)
+SmartCast Technology RF Module 
+(10R Control only)
+SmartCast Technology RF Module 
+(10R Control only)
+SmartCast 
+Technology 
+RF Module 
+(10R Control 
+only)
+7.4"
+(187mm)
+7.4"
+(187mm)
+10R: 13.2" 
+(336mm)
+10V/L3DA/VRF: 
+12.9" (327mm)
+10R/VRF: 15.0" 
+(381mm)
+10V/L3DA: 12.5" 
+(317mm)
+ 7.4"
+(188mm)
+5.25" 
+(133mm) 5.75" 
+(146mm)
+4.25" (108mm)
+4.25" (114mm)
+5.75" 
+(146mm)
+4.5" (114mm)
+KR4™ & KR6™ LED Specification DownlightsWebsite: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+SmartCast 
+Technology 
+RF Module 
+(10R Control 
+only)
+SmartCast 
+Technology 
+RF Module 
+(10R Control 
+only)
+KR6R 
+KR6S w/EB
+KR6R w/EB
+KR6S
+SmartCast 
+Technology 
+RF Module 
+(10R Control 
+only)
+SmartCast 
+Technology 
+RF Module 
+(10R Control 
+only)
+10R: 13.0" 
+(331mm)
+10R: 14.8" 
+(375mm)
+10V/L3DA/VRF: 
+12.6" (321mm)
+10V/L3DA/VRF: 
+14.4" (365mm)
+10R/VRF: 14.4" 
+(365mm)
+10R/VRF: 16.6" 
+(422mm)
+60L: 19.5" 
+(495mm)
+60L: 19.5" 
+(496mm)
+10V/L3DA: 11.9" 
+(302mm)
+10V/L3DA: 14.1" 
+(359mm)
+9L-40L: 
+17.0" (432mm)
+9L-40L: 
+17.0" (433mm)
+6.0" (152mm)
+6.0" (152mm)
+6.0" (152mm)
+6.0" (152mm)
+7.0" (178mm)
+7.3" 
+(185mm)
+7.0" (178mm)
+7.3" (185mm)
+19.7"
+(499mm)
+19.7"
+(499mm)
+9L-40L: 
+7.3" 
+(185mm)
+9L-40L: 
+7.4" 
+(188mm)
+9L-40L: 
+7.4" 
+(187mm)
+9L-40L: 
+7.4" 
+(188mm)
+60L:
+8.5" 
+(216mm)
+60L: 8.7" 
+(220mm)
+60L:
+8.6" 
+(218mm)
+60L: 
+8.6" 
+(219mm)
+KR4™ & KR6™ LED Specification Downlights© 2024 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. Patent www.creelighting.
+com/patents. SmartCast® and the SmartCast® logo are registered trademarks, and KR4™, KR6™, and OneButton™ are trademarks of Cree 
+Lighting USA LLC. TrueWhite®, Cree TrueWhite® and the Cree TrueWhite Technology logo are registered trademarks of CREELED, Inc. Cree 
+Lighting® and the Cree Lighting logo are registered trademarks of CLNA Holdings LLC. The UL logo is a registered trademark of UL LLC. 
+Lutron, the Lutron logo, EcoSystem, and the Lutron EcoSystem Enabled logo are trademarks or registered trademarks of Lutron Electronics 
+Co., Inc. 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+KR-B-DVRKT
+Product Lumen Package Controls
+KR-B-DVRKT 
+- For use with 4" and 6" downlights  
+- For use with round and square  
+  downlights 
+- Not for use with Gen 1 KR downlights
+9L 
+1,000 Lumens, 13W - 77 LPW 
+13L 
+1,340 Lumens, 16W - 84 LPW 
+20L 
+1,970 Lumens, 24W - 82 LPW 
+30L 
+2,810 Lumens, 33W - 85 LPW 
+40L 
+3,760 Lumens, 44W - 85 LPW 
+60L 
+6,490 Lumens, 75W - 87 LPW 
+- Available only with 6" downlights
+10V 
+- For use with 10V, 10R and VRF controls 
+- 10R is available only with 9L-30L lumen packages 
+- 10R & VRF are for use only with 12 & 27 voltages 
+L3DA 
+- For use with luminaires with L3DA controls 
+- Available only with 13L-40L lumen packages 
+- For use only with 12 & 27 voltages
+KR-B-LE
+Product Lumen Package CRI/CCT
+KR-B-LE 
+- For use with 4" and 6" downlights  
+- For use with round and square  
+  downlights 
+- Not for use with Gen 1 KR downlights
+9L 
+1,000 Lumens, 13W - 77 LPW 
+13L 
+1,340 Lumens, 16W - 84 LPW 
+20L 
+1,970 Lumens, 24W - 82 LPW 
+30L 
+2,810 Lumens, 33W - 85 LPW 
+40L 
+3,760 Lumens, 44W - 85 LPW 
+60L 
+6,490 Lumens, 75W - 87 LPW 
+- Available only with 6" downlights
+927 
+90 CRI, 2700K 
+930 
+90 CRI, 3000K 
+935 
+90 CRI, 3500K 
+940 
+90 CRI, 4000K 
+950 
+90 CRI, 5000K
+KR-B-DRVLE
+Product Lumen Package CRI/CCT Controls
+KR-B-DRVLE 
+- For use with 4" and 6" downlights  
+- For use with round and square  
+  downlights 
+- For use with Gen 1 KR downlights
+9L 
+1,000 Lumens, 13W - 77 LPW 
+13L 
+1,340 Lumens, 16W - 84 LPW 
+20L 
+1,970 Lumens, 24W - 82 LPW 
+30L 
+2,810 Lumens, 33W - 85 LPW 
+40L 
+3,760 Lumens, 44W - 85 LPW 
+60L 
+6,490 Lumens, 75W - 87 LPW 
+- Available only with 6" downlights
+927 
+90 CRI, 2700K 
+930 
+90 CRI, 3000K 
+935 
+90 CRI, 3500K 
+940 
+90 CRI, 4000K 
+950 
+90 CRI, 5000K
+10V 
+- For use with 10V, 10R and VRF controls 
+- 10R is available only with 9L-30L lumen packages 
+- 10R & VRF are for use only with 12 & 27 voltages 
+L3DA 
+- For use with luminaires with L3DA controls 
+- Available only with 13L-40L lumen packages 
+- For use only with 12 & 27 voltages
+Driver Replacement Kits
+Light Engine Replacement Kits
+Driver & Light Engine Replacement Kits
+Replacement Parts
+KR4™ & KR6™ LED Specification Downlights

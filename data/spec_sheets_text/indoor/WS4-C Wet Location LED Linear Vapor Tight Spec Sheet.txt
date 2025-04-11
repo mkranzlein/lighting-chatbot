@@ -1,0 +1,188 @@
+Ordering Information
+Example: WS4-C-40L-LFA-35K-8-UL
+WS4 C 8
+Product Series Lumen Package Lens CCT CRI Voltage Options
+WS4 C 40L 
+30W, 4,100 lumens
+60L 
+43W, 6,100 lumens
+LFA 
+Frosted Acrylic
+LFP
+Frosted Polycarbonate
+LRA
+Ribbed Acrylic
+35K
+3500K
+40K
+4000K
+50K
+5000K
+8
+80+ CRI
+UL
+120-277 Volt
+UH
+347-480 Volt
+SSL Stainless Steel Latches
+Rev. Date: V9 08/16/2024
+Luminaire (shown with LRA lens)
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+51.8"
+(1316mm)
+6.8"
+(173mm)
+4.3"
+(109mm)
+WS Series
+WS4™ Wet Location Linear Vapor Tight — 4'
+Product Description
+The Cree Lighting WS Series is a versatile IP65/IP66 rated and NSF certified fixture that provides sealed 
+protection against dust and water ingress.  Constructed of a one-piece, durable fiberglass housing and 
+available with either diffused acrylic or polycarbonate lenses; the WS Series can be suspended or surface 
+mounted while maintaining its operating range of -40˚C - + 40˚C (-40˚F - + 104˚F).
+Applications: Food processing, animal containment, parking garages, garden centers, breezeways, 
+cold-storage and other industrial applications
+Performance Summary
+Initial Delivered Lumens: 4,100 or 6,100 lumens
+Efficacy: Up to 142 LPW
+Input Wattage: 30 or 43 watts
+CRI: Minimum 80 CRI
+CCT: 3500K, 4000K, 5000K
+Input Voltage: 120-277 VAC or 347-480 VAC
+Limited Warranty†: 5 years for luminaire; 1 year for luminaire accessories  
+Mounting: Ceiling, wall, or suspended
+Dimming: 0-10V dimming to 10%
+Operating Temperature Range: Up to +40˚C (104˚F)
+Assembled in the USA by Cree Lighting from US and imported parts
+Accessories 
+Field-Installed
+Tamper Proof Kit
+WS4TPK 
+- Includes 4 tamper proof screws and bit 
+Tamper Proof Kit for Stainless Steel Latches
+WSSSL4TPK 
+- Includes 4 tamper proof screws and bit
+Stainless Steel Safety Cables 
+SC-5C 
+- 5.0' (1.5m) Cable
+- Two required per luminaire
+- Non-NSF certified
+† See https://www.creelighting.com/resources/warranties for warranty termsWS4™ Wet Location Linear Vapor Tight — 4'
+Product Specifications
+CONSTRUCTION & MATERIALS
+• Molded one-piece reinforced fiberglass housing
+• Two 3/4" IP entry points are provided (one at each end of the housing)  
+for continuous feed
+• Includes eight captive white thermoplastic latches standard;  
+stainless steel latches optional
+• Suitable for ceiling and wall mount
+• Includes two stainless steel mounting brackets and bails  
+for surface or suspended mounting
+• Weight: 11.4 lbs. (5.2kg)
+• Includes QR code on the LED tray inside the housing which provides 
+access to: Online installation instructions, Luminaire information 
+(Part number, Serial number, Build date, and Warranty end date), and 
+Warranty claim submission form
+• Duplicate 1” and 2" QR code labels are included. 1" labels can be affixed 
+next to fixtures, on site plans, or in maintenance records. 2” labels can 
+be scanned from the ground when placed at an appropriate height
+OPTICAL SYSTEM
+• Three injection molded lens choices: frosted ribbed acrylic, frosted 
+acrylic, and frosted UV-stabilized polycarbonate
+• Polyurethane gasketing is poured in place, providing a continuous, 
+seamless seal
+ELECTRICAL SYSTEM
+• Input Voltage: 120-277V or 347-480V, 50/60Hz
+• Power Factor: > 0.9 at full load
+• Total Harmonic Distortion: < 20% at full load
+• Operating Temperature Range: -40˚C to +40˚C (-40˚F to +104˚F)
+• Integral 6kV/3kA surge suppression protection standard
+• When code dictates fusing, a slow blow fuse or type C/D breaker should 
+be used to address inrush current
+CONTROLS
+• Continuous dimming to 10% with 0-10V DC control protocol standard
+• 10V Source Current: 0.15mA
+• Use only lighting controls with neutral connection or controls intended 
+for use with LED fixtures
+• Reference dimming document for additional information
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus Listed
+• Suitable for wet locations
+• IP65 and IP66 rated in accordance with IEC Publication 60598-1
+• Intended for covered canopy use 
+• Requires minimum 90°C supply conductors
+• RoHS compliant. Consult factory for additional details
+• ANSI C136.2 6kV/3kA surge protection, tested in accordance  
+with IEEE/ANSI C62.41.2
+• Assembled in the USA by Cree Lighting from US and imported parts
+• Some configurations meet requirements of BAA and/or BABA. Consult 
+factory when needed for a project: www.creelighting.com/BAA-BABA
+• DLC qualified. Please refer to www.designlights.org/QPL for most  
+current information
+• NSF Splash-Zone 2 Certified.  
+Refer to http://info.nsf.org/Certified/Food/ for additional details
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+WS Series Ambient Adjusted Lumen Maintenance1
+Ambient Initial
+LMF
+25K hr
+Reported2
+LMF
+50K hr
+Reported2
+LMF
+75K hr
+Estimated3
+LMF
+100K hr
+Estimated3
+LMF
+0˚C (32˚F) 1.04 0.98 0.92 0.87 0.82
+5˚C (41˚F) 1.03 0.97 0.91 0.86 0.81
+10˚C (50˚F) 1.03 0.97 0.91 0.86 0.81
+15˚C (59˚F) 1.02 0.96 0.91 0.85 0.81
+20˚C (68˚F) 1.01 0.93 0.88 0.83 0.78
+25˚C (77˚F) 1.00 0.93 0.87 0.82 0.77
+30˚C (86˚F) 0.99 0.92 0.87 0.82 0.77
+35˚C (95˚F) 0.98 0.91 0.86 0.81 0.77
+40˚C (104˚F) 0.97 0.91 0.85 0.80 0.76
+1  Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data for the LED 
+package and in-situ luminaire testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen 
+maintenance factors. Please refer to the Temperature Zone Reference Document for outdoor average nighttime 
+ambient conditions.
+2  In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are  
+up to 6x the tested duration in the IES LM-80 report for the LED.
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+Electrical Data*
+Lumen 
+Package CCT
+Delivered 
+Lumens 
+(all lenses)
+System 
+Watts
+120-480V
+Efficacy
+(LPW)
+Total Current (A)
+120V 208V 240V 277V 347V 480V
+40L All 4,100 30 137 0.25 0.14 0.13 0.11 0.09 0.06
+60L All 6,100 43 142 0.36 0.21 0.18 0.15 0.12 0.09
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347-480V +/- 10%
+LFP and LFA Lenses (lens only)
+6.385"
+(162mm)
+2.03"
+(52mm)
+51.37"
+(1305mm)
+© 2024 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. 
+Patent www.creelighting.com/patents. WS4™ is a trademark of Cree Lighting USA LLC. Cree Lighting ®  and the 
+Cree Lighting logo are registered trademarks of CLNA Holdings LLC. The UL logo is a registered trademark 
+of UL LLC. The DLC QPL Premium logo is a registered trademark of Efficiency Forward, Inc. The NSF logo is a 
+registered trademark of NSF International.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234

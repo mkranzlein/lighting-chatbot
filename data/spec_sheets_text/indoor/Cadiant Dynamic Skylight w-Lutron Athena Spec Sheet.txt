@@ -1,0 +1,243 @@
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Rev. Date: V2 09/10/2024
+Product Description
+Cree Lighting’s Cadiant® dynamic skylight brings the outdoors in, recreating the sensation of being under a 
+natural sky for an interior lighting experience that’s as smart as it is visually stunning. For architects, lighting 
+designers and specifiers seeking the visual impact and human benefits of a real skylight — but without the 
+associated high costs or construction limitations — the Cadiant® experience is an exciting, dynamic lighting 
+solution that delivers the sensation and human benefits of bringing the outdoors in to any interior space 
+Applications: Commercial office, healthcare, education, retail 
+Performance Summary
+Utilizes Cree TrueWhite® Technology
+Adjustable Lumen Levels: 150-6,980 
+Input Power: 5-96 watts
+Efficacy: Up to 83 LPW
+CRI: 90+ CRI
+R9: > 65
+CCT: Adjustable from 3000K to 6500K
+Input Voltage: 120-277 VAC 
+L70 Lifetime: > 100,000 hours at 35˚C
+Limited Warranty†: 5 years for luminaire and Lutron Athena controls; 1 year for luminaire accessories
+Mounting: Designed for use in most ceiling grids including standard 1 ½", 9/16", 15/16" and hard ceiling
+Weight: 34 lbs. (15.4kg)
+Controls: Lutron Athena dimming to 5% with East to West Sun Feature
+Assembled in the USA by Cree Lighting from US and imported parts
+CDNT AL ACK AWNR
+Product Lumen Package CCT Voltage Control
+CDNT AL
+Adjustable Lumens
+150 - 6,980 Lumens
+ACK
+Adjustable Color
+3000K - 6500K
+Blank   
+120 - 277 Volt
+AWNR Lutron Athena Integral Fixture Control (RF only)
+- Utilizes three Athena nodes and a DALI2 driv
+ers
+- Dimming to 5% with East t
+o West Sun Feature
+Ordering Information
+Example: CDNT-AL-ACK-AWNR
+† See https://www.creelighting.com/resources/warranties/ for warranty terms. 
+Cadiant® Accessories 
+Field-Installed
+Drywall Grid Adapter
+DGA22-WHT
+Cadiant® Dynamic Skylight
+Cadiant® Experience 2' x 2' Architectural LED Dynamic Skylight
+Cadiant®  
+Dynamic Skylight
+Cadiant® Dynamic Skylight Ceiling Configurations
+23.7"
+(602mm)
+7.2"
+(182mm)
+0.3"
+(7mm)
+23.7"
+(602mm)Product Specifications
+CREE TRUEWHITE® TECHNOLOGY
+A revolutionary way to generate high-quality white light, Cree TrueWhite® 
+Technology is a patented approach that delivers an exclusive combination 
+of 90+ CRI, beautiful light characteristics and lifelong color consistency, all 
+while maintaining high luminous efficacy – a true no compromise solution.
+CONSTRUCTION & MATERIALS
+• Durabl
+e 22 ga. galvanized steel housing provides strength and uniformity 
+• 5" (127mm) regr
+ess gives the impression of a true sky while fitting into 
+most recessed applications
+• Luminaire is pos
+t-painted for enhanced matte finish
+• Includes four t-bar clips and t
+abs for mounting support wires (by others)
+• Luminaire sides and ends ar
+e hemmed in for safe, easy handling
+• Not for ins
+tallation within 3" (76mm) of insulation
+• Weight:
+ 34.0 lbs. (15.4kg)
+• Includes QR code on luminair
+e next to electrical labels which provides 
+access to: Online installation instructions, Luminaire information (Part 
+number, Serial number, Build date, and Warranty end date), and War-
+ranty claim submission form
+• Duplicat
+e 1" and 2" QR code labels are included. 1" labels can be affixed 
+next to fixtures, on site plans, or in maintenance records. 2" labels can 
+be scanned from the ground when placed at an appropriate height
+OPTICAL SYSTEM
+• Unique luminaire design cr
+eates perfect balance of both horizontal and 
+vertical illumination
+• Optimized smooth acrylic lens eliminat
+es pixelation and delivers a  
+low-glare, diffused light distribution
+• Dynamic lighting via Athena progr
+amming provides variation in lumen 
+output and CCT throughout the day
+• Soft blue-sky w/east t
+o west sun panels which simulates the natural 
+dawn to dusk arc of the sun
+ELECTRICAL SYSTEM
+• Input Volt
+age: 120-277V, 50/60Hz 
+• Input Po
+wer: Stays constant over life
+• Po
+wer Factor: > 90% at full load
+• Tot
+al Harmonic Distortion: < 20% at full load
+• Operating T
+emperature Range: 0˚C - + 35˚C (32˚F - + 95˚F)
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus List
+ed
+• Suitabl
+e for damp locations
+• Designed for indoor use onl
+y
+• Requir
+es minimum 90˚C supply conductors
+• Not intended f
+or use in environments containing airborne corrosive 
+agents such as chemical solvents, cleaners, or cutting fluids
+• RoHS c
+ompliant. Consult factory for additional details
+• Meets F
+CC Part 15, Subpart B, Class A limits for conducted and radiated 
+emissions
+• Assembl
+ed in the USA by Cree Lighting from US and imported parts
+• Meets the r
+equirements of BAA and/or BABA. Consult factory when 
+needed for a project: www.creelighting.com/BAA-BABA
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       
+www.p65warnings.ca.gov
+* Data provided at 25˚C (77˚F). Actual wattage and lumen output may differ by +/- 10% when operating between 120 
+-277V +/- 10%.
+Dynamic Lighting Profile Delivered Lumens & Electrical Data*
+Luminaire Initial Delivered 
+Lumens
+System Watts 
+120-277V Total Current (A)
+Dawn Preset 1,500 21 0.18 0.12 0.12 0.12
+Maximum Power 
+Setting 6,825 96 0.8 0.46 0.4 0.35
+1  Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data for the LED 
+package and in-situ luminaire testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen 
+maintenance factors. 
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are up to 6x 
+the tested duration in the IES LM-80 report for the LED.
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+Cadiant® Dynamic Skylight (Sun) Ambient Adjusted Lumen Maintenance1
+Ambient Initial 
+LMF
+25K hr 
+Reported2 
+LMF
+50K hr 
+Estimated3 
+LMF
+75K hr 
+Estimated3 
+LMF
+100K hr  
+Estimated3 
+LMF
+25˚C (77˚F) 1.00 0.99 0.99 0.99 0.99
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Cadiant® Experience 2' x 2' Architectural LED Dynamic SkylightPhotometry
+ANSI/IES TM-30-18 
+CDNT-AL-ACK-AWNR BASED ON RESTL REPORT TEST #: PL17585-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Cadiant Dawn/Dusk Presets
+Based on RESTL TEST #: PL17606-001
+CDNT-AL-ACK-AWNR
+Shown at Midday Preset (6500K) 
+Initial Delivered Lumens: 4,472
+Reference https://www.creelighting.com/products/
+indoor/dynamic-skylight/cadiant/ for detailed 
+photometric data
+Average Luminance Table (cd/sq.m)
+Vertical Angle
+Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 4,646 4,878 4,674
+55˚ 5,324 5,539 5,376
+65˚ 6,498 6,599 6,578
+75˚ 8,497 8,166 8,678
+85˚ 8,105 7,830 8,106
+Zonal Lumen Summary
+Zone Lumens % Lamp %Fixt
+0-30 825 N/A 18.5
+0-40 1,431 N/A 32.0
+0-60 2,906 N/A 65.0
+0-90 4,472 N/A 100.0
+0-180 4,472 N/A 100.0
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 106 100 94 90
+2 94 84 76 69
+3 85 72 63 55
+4 77 63 53 45
+5 70 56 45 38
+6 64 50 40 32
+7 59 45 35 28
+8 55 40 31 25
+9 51 37 28 22
+1048 34 25 20
+Effective Floor Cavity Reflectance: 0.20
+0˚ 20˚
+50˚
+70˚
+90˚
+250
+0
+998
+499
+749
+0° 90°
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Cadiant® Experience 2' x 2' Architectural LED Dynamic SkylightANSI/IES TM-30-18 
+Cadiant Morning/Afternoon Presets
+Based on RESTL TEST #: PL17606-002
+Cadiant Midday Preset
+Based on RESTL TEST #: PL17606-003
+© 2024 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. 
+Patent www.creelighting.com/patents. Cadiant® is a trademark of Cree Lighting USA LLC. TrueWhite®, Cree 
+TrueWhite® and the Cree TrueWhite Technology logo are registered trademarks of CREELED, Inc. Cree Lighting® and 
+the Cree Lighting logo are registered trademarks of CLNA Holdings LLC. The UL logo is a registered trademark of UL 
+LLC. Lutron, the Lutron logo, EcoSystem, the Lutron EcoSystem Enabled logo, Athena, and Vive are trademarks or 
+registered trademarks of Lutron Electronics Co., Inc.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Cadiant® Experience 2' x 2' Architectural LED Dynamic Skylight

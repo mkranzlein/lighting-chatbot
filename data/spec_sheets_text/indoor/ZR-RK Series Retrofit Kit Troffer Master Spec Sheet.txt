@@ -1,0 +1,579 @@
+ZRRK
+Series Size Lumen Package CRI/CCT Lens Control Voltage Factory Installed Options*
+ZRRK 14 30L
+3,100 Lumens
+40L
+4,100 Lumens
+50L
+5,100 Lumens
+60L
+6,325 Lumens
+830
+85 CRI, 3000K
+835
+85 CRI, 3500K
+840
+85 CRI, 4000K
+- Available with all lumen
+packages except 1x4 and
+2x4 with 50L
+850
+85 CRI, 5000K
+Blank   
+ZR Curve
+10V5 
+ - 0-10V 5% Dimming
+SC1
+- SmartCast Wirel
+ess 
+Technology with 1% Dimming,
+- Integral motion and ambient 
+sensor
+s
+UNV 
+ - Universal 120-277V
+34
+- 347V (120-347V) 
+- Availabl
+e only with 
+10V5 control
+EB Emergency Backup
+- Availabl
+e with UNV voltage 
+only
+- Provides 90 minut
+es of 
+emergency operation
+22 20L
+2,030 Lumens
+30L
+3,070 Lumens
+40L
+4,070 Lumens
+50L
+5,075 Lumens
+24 30L
+3,110 Lumens
+40L
+4,130 Lumens
+50L
+5,100 Lumens
+60L
+6,325 Lumens
+80L
+8,300 Lumens
+Rev. Date: V9 07/12/2024
+Product Description
+The ZRRK™ LED Retrofit Troffer Kit provides energy productivity and code compliance – all with 
+installation that's so intuitive and simple. The ZRRK Series delivers from 2,030 to 8,300 lumens and 
+85 CRI quality light and is perfect for both retrofit and renovation. Available with 0-10V dimming or  
+SmartCast Technology, which incorporates integrated ambient and occupancy sensing and wireless 
+communication resulting in lower electricity bills, reduced maintenance and an improved total cost of 
+ownership over traditional lighting control systems. The ZRRK™ LED Retrofit Troffer Kit installs into most 
+existing fluorescent troffers, with a 3 part doorkit design that snaps and locks into place for quick and 
+easy upgrading.
+Efficacy: Up to 141 LPW
+Initial Delivered Lumens: 2,030 to 8,300
+Input Power: 15W-60W 
+CRI: 85 CRI* 
+CCT: 3000K, 3500K, 4000K, 5000K
+Input Voltage: 120-277 VAC, 347VAC
+Limited Warranty†: 5 years for retrofit kit; 5 years for SmartCast® controls; up to 5 years for SmartCast® 
+accessories
+Limited Warranty Emergency Back Up (EB) Battery: 1 Year on Battery Back Up. Test regularly in 
+accordance with local code
+Controls: 0-10V, SmartCast Wireless
+Mounting: Existing Fluorescent Prismatic and Parabolic Troffer Pans Using NEMA® 9/16" or 15/16" 
+T-Bar Ceiling Grid**
+Performance Summary
+Accessories 
+† See http://creelighting.com/warranty for warranty terms
+*  CRI can vary +/-5% depending on CCT.
+**Consult factory for non-standard grid applications.
+Ordering Information
+Example: ZRRK24-60L-835-10V5-UNV 
+*Consult factory for other options.
+ZRRK22™
+ZRRK24™
+3.0"
+(77mm)
+24.0" 
+(609mm)
+48.0" 
+(1219mm)
+23.9"
+(608mm)
+23.9"
+(608mm)
+3.0"
+(77mm)
+ZRRK14™
+3.4" 
+(86mm)
+48.0" 
+(1219mm)
+12.3" 
+(312mm)
+Field-Installed
+SmartCast® Technology  
+Configuration Tool
+CCT-CWC-1
+- One required per 
+project when SC1 control 
+is selected
+SmartCast® Technology 
+Face Plates
+CFP-1-WH
+- Matching face plate, 
+1-gang, white
+CFP-2-WH
+- Matching face plate, 
+2-gang, white
+SmartCast® Technology Wireless 
+Dimmer
+CSC-CWD-UNVN-WH (neutral wire 
+required)
+CSC-CWD-UNV-WH (no neutral 
+required)
+SmartCast® Technology Wireless 
+Switch
+CSC-CWS-UNVN-WH (neutral wire 
+required)
+CSC-CWS-UNV-WH (no neutral 
+required)
+SmartCast® 5-Button Wireless Scene 
+Controller
+CSC-SC-5B-CWC-WH (w/o text)
+CSC-SC-5S-CWC-WH (w/scene text)
+CSC-SC-5X-CWC-WH (w/custom text)
+SmartCast® Technology Wireless Plug 
+Load Controller
+CPLC-JB-CWC
+SmartCast® 10V Zone Controller
+CSC-ZC-10V-CWC
+- Intelligent sensing and control of
+0-10V luminaires
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+ZRRK Series 
+ZRRK™ LED Retrofit Troffer KitProduct Specifications
+SMARTCAST® TECHNOLOGY
+SmartCast® Technology is the most intuitive and easiest to install intelligent 
+light solution on the market. SmartCast Technology delivers up to 70% 
+energy savings at up to half the cost of other solutions. Luminaires combine 
+best-in-class light with onboard sensors and intelligence to deliver a better 
+light experience. Extreme energy productivity, code compliance and a better 
+light experience without any extra design, installation or setup work.
+CONSTRUCTION & MATERIALS
+• Durabl
+e 22 ga. cold rolled steel housing provides strength and uniformity 
+• Ultra-thin fixtur
+e height (3.0" [77mm] on 2x2 and 2x4 and 3.4" [86mm] 
+on 1x4) and lightweight design effectively target a broad range of plenum 
+spaces and allow for easy installations 
+• Luminaire is pr
+e-painted for enhanced smooth finish
+• Luminaire sides and ends ar
+e hemmed in for safe, easy handling
+• Weight:
+ ZRRK14 - 9.5 lbs. (4.3kg); ZRRK22 - 10.1 lbs. (4.6kg); ZRRK24 - 
+14.6 lbs. (6.6kg)
+OPTICAL SYSTEM
+• Unique luminaire design cr
+eates perfect balance of both horizontal and 
+vertical illumination
+• Optimized smooth acrylic lens eliminat
+es pixelation and delivers a  
+low-glare, diffused light distribution
+ELECTRICAL SYSTEM
+• Po
+wer Factor: = 0.9 nominal
+• Input Po
+wer: Stays constant over life
+• Input Volt
+age: 120-277V, 347V, 60Hz 
+• Operating T
+emperature Range: 0˚C - + 35˚C (32˚F - + 95˚F)
+• Tot
+al Harmonic Distortion: <20%
+• Dimming: 1%-100% (V
+aries by control)
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus Classified (UL1598C) 
+• Suitabl
+e for damp locations
+• Designed for indoor use onl
+y
+• Suitabl
+e for installation in 1x4, 2x2, and 2x4 recessed troffer that uses 
+NEMA® 9/16" or 15/16" T-Bar ceiling grid. Minimum internal pan size of 
+existing pan is: 1' x 4' - 48.00" (1219 mm) x 12.28" (312 mm) x 3.43" (87 
+mm) high; 2' x 2' - 24.00" (609 mm) x 23.90" (607 mm) x 3.03" (77 mm) 
+high; 2x4  - 47.5" (1219 mm) x 23.5" (607 mm) x 3" (77 mm) 
+• UL924 (EB  option). Maximum mounting height: 15.0' (4.6m)
+• RoHS c
+ompliant. Consult factory for additional details
+• Meets F
+CC Part 15, Subpart B, Class A limits for conducted and radiated 
+emissions
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+SmartCast® Technology
+INTEGRAL MOTION SENSOR
+• Pas
+sive infrared (PIR)
+• Cov
+erage area: 100 sq. ft. (30.5m2) at 10 ft. (3.0m) mounting height
+• Not intended t
+o be mounted higher than 12 ft. (3.7m)
+• Operation:
+• Grouped with a w
+all control: Luminaire will operate in vacancy mode 
+(manual-on/auto-off)
+• Not grouped with a w
+all control: Luminaire will operate in occu-
+pancy mode (auto-on/auto-off)
+• Luminaires oper
+ate at full intensity until OneButton™ Setup is initiated 
+by the Cree Configuration Tool
+ZRRK™ LED Retrofit Troffer Kit
+Delivered Lumens & Electrical Data*
+Size Lumen Package Initial Delivered 
+Lumens
+System Watts 
+120-347V**
+Total Current (A)
+120V 208V 240V 277V 347V**
+1x4
+30L 3,100 22 0.25 0.11 0.10 0.09 0.07
+30L w/EB 27 0.30 0.12 0.10 0.09 N/A
+40L 4,100 30 0.34 0.16 0.15 0.12 0.10
+40L w/EB 35 0.39 0.16 0.15 0.12 N/A
+50L 5,100 36 0.40 0.19 0.16 0.14 0.12
+50L w/EB 41 0.45 0.19 0.16 0.15 N/A
+60L 6,325 45 0.49 0.23 0.20 0.18 0.15
+60L w/EB 50 0.54 0.23 0.20 0.18 N/A
+2x2
+20L 2,030 15 0.20 0.08 0.07 0.06 0.05
+20L w/EB 20 0.25 0.08 0.07 0.07 N/A
+30L 3,070 22 0.25 0.11 0.10 0.09 0.07
+30L w/EB 27 0.30 0.12 0.10 0.09 N/A
+40L 4,070 30 0.34 0.16 0.15 0.12 0.10
+40L w/EB 35 0.39 0.16 0.15 0.12 N/A
+50L 5,075 36 0.40 0.19 0.16 0.14 0.12
+50L w/EB 41 0.45 0.19 0.16 0.15 N/A
+2x4
+30L 3,110 22 0.25 0.11 0.10 0.09 0.07
+30L w/EB 27 0.30 0.12 0.10 0.09 N/A
+40L 4,130 30 0.34 0.16 0.15 0.12 0.10
+40L w/EB 35 0.39 0.16 0.15 0.12 N/A
+50L 5,100 36 0.40 0.19 0.16 0.14 0.12
+50L w/EB 41 0.45 0.19 0.16 0.15 N/A
+60L 6,325 45 0.49 0.23 0.20 0.18 0.15
+60L w/EB 50 0.54 0.23 0.20 0.18 N/A
+80L 8,300 60 0.66 0.29 0.25 0.23 0.19
+80L w/EB 65 0.71 0.30 0.26 0.23 N/A
+AMBIENT LIGHT SENSOR
+• Sensor response mat
+ches response of human eye
+• Not intended t
+o be mounted higher than 12 ft. (3.7m)
+• Luminaires oper
+ate at full intensity until OneButton™ Setup is initiated by the Cree 
+Configuration Tool
+• Daylight harv
+esting calibration performed automatically during OneButton™ Setup
+INTEGRAL WIRELESS COMMUNICATION
+• 2.4GHz wirel
+ess mesh technology with AES 128-bit encryption
+• Self assigns t
+o quietest channel during OneButton™ Setup
+• Range:
+• 30 ft. (9.1m) in typical c
+ommercial applications
+• 300 ft. (91.4m) open air without obstructions
+• Network: 
+250 devices max.
+• Space: 
+100 devices max. per group
+• FC
+C and IC Certifications
+LUMINAIRE
+• Luminaires oper
+ate at full intensity until OneButton™ Setup is initiated by the Cree 
+Configuration Tool
+• 10 year po
+wer fail memory of settings
+• NOTE:
+ SmartCast luminaires must be installed on unswitched AC power. Constant 
+power is required to maintain all luminaires on the SmartCast network. If wall con-
+trol or manual dimming is required, a SmartCast wall control dimmer must be used 
+for manual on, off, and dimming.
+DEPLOYMENT
+• Please r
+efer to the SmartCast® Deployment Guide at  
+https://cree.widen.net/s/mvxtfd2pcz/smartcastr-wireless-deployment-guide
+* Electrical data at 25˚C (77˚F). Actual wattage and lumens may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** 347V not available with EB or GTD option.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234ZRRK™ LED Retrofit Troffer Kit
+ZR-RK Series Ambient Adjusted Lumen Maintenance1
+Ambient Initial 
+LMF
+25K hr 
+Reported2 
+LMF
+50K hr 
+Reported2 
+LMF
+75K hr 
+Estimated3 
+LMF
+100K hr  
+Estimated3 
+LMF
+25˚C (77˚F) 1.00 0.95 0.90 0.85 0.81
+Open Space
+Spacing
+Initial 
+Delivered 
+Lumens
+Lumens Wattage LPW w/ft2 Average fc
+8 x 8
+30L 3,100 22 141 0.34 43
+40L 4,100 30 137 0.47 57
+50L 5,100 36 142 0.56 71
+60L 6,325 45 141 0.70 88
+8 x 10
+30L 3,100 22 141 0.28 36
+40L 4,100 30 137 0.38 47
+50L 5,100 36 142 0.45 59
+60L 6,325 45 141 0.56 73
+10 x 10
+30L 3,100 22 141 0.22 29
+40L 4,100 30 137 0.30 38
+50L 5,100 36 142 0.36 47
+60L 6,325 45 141 0.45 59
+10 x 12
+30L 3,100 22 141 0.18 23
+40L 4,100 30 137 0.25 30
+50L 5,100 36 142 0.30 38
+60L 6,325 45 141 0.38 47
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial 
+Open Space: 50' x 40' x 10'
+Application Reference
+1 Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data 
+for the LED package and in-situ luminaire testing. Luminaire ambient temperature factors (LATF) have been 
+applied to all lumen maintenance factors. 
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time durations that 
+are up to 6x the tested duration in the IES LM-80 report for the LED.
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+Photometry
+ZRRK14-30L-830-LDE5-UNV BASED ON NINGBO TENGLI TESTING REPORT #: STD200706NB-A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 
+100%.
+0˚ 20˚
+50˚
+70˚284
+0
+1138
+569
+853
+0˚ 90˚
+90˚ Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 109 104 100 96
+2 99 91 84 78
+3 90 80 72 65
+4 83 71 62 55
+5 76 63 54 48
+6 70 57 48 42
+7 65 52 43 37
+8 61 47 39 33
+9 57 43 35 29
+10 53 40 32 27
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angl e
+0˚ 45˚ 90˚
+45˚ 2,803 3,040 3,253
+55˚ 2,559 2,901 3,213
+65˚ 2,264 2,768 3,008
+75˚ 1,833 2,419 2,384
+85˚ 981 1,347 1,357
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 872 N/A 28.0%
+0-40 1,416 N/A 45.4%
+0-60 2,471 N/A 79.3%
+0-90 3,113 N/A 96.4%
+0-180 3,116 N/A 100%
+Reference https://www.creelighting.com/products/indoor/troffers/zr-rk for detailed photometric data
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234ZRRK™ LED Retrofit Troffer Kit
+Photometry
+ZRRK22-20L-830-LDE5-UNV BASED ON NINGBO TENGLI TESTING REPORT  #: STD200706NB-J
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 
+100%.
+0˚ 20˚
+50˚
+70˚173
+0
+690
+345
+518
+0˚ 90˚
+90˚ Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 108 103 99 95
+2 98 90 83 77
+3 89 78 70 63
+4 82 69 60 53
+5 75 62 53 46
+6 69 56 46 40
+7 64 50 41 35
+8 60 46 37 31
+9 56 42 34 28
+10 52 39 31 25
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angl e
+0˚ 45˚ 90˚
+45˚ 165 178 190
+55˚ 153 174 198
+65˚ 136 177 213
+75˚ 104 169 216
+85˚ 34 72 83
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 533 N/A 26.3%
+0-40 872 N/A 43.0%
+0-60 1,553 N/A 76.6%
+0-90 2,024 N/A 99.9%
+0-180 2,027 N/A 100%
+Reference https://www.creelighting.com/products/indoor/troffers/zr-rk for detailed photometric data
+Open Space
+Spacing Lumen 
+Package
+Initial 
+Delivered 
+Lumens
+Wattage LPW w/ft2 Average fc
+8 x 8
+20L 2,030 15 135 0.23 28
+30L 3,070 22 140 0.34 43
+40L 4,070 30 136 0.47 57
+50L 5,075 36 141 0.56 71
+8 x 10
+20L 2,030 15 135 0.19 24
+30L 3,070 22 140 0.28 36
+40L 4,070 30 136 0.38 47
+50L 5,075 36 141 0.45 59
+10 x 10
+20L 2,030 15 135 0.15 19
+30L 3,070 22 140 0.22 28
+40L 4,070 30 136 0.30 38
+50L 5,075 36 141 0.36 47
+10 x 12
+20L 2,030 15 135 0.13 15
+30L 3,070 22 140 0.18 23
+40L 4,070 30 136 0.25 30
+50L 5,075 36 141 0.30 38
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial 
+Open Space: 50' x 40' x 10'
+Application Reference
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234ZRRK™ LED Retrofit Troffer Kit
+Photometry
+ZRRK24-50L-830-LDE5-UNV BASED ON NINGBO TENGLI TESTING REPORT  #: STD200706NB-Z
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 
+100%.
+0˚ 20˚
+50˚
+70˚454
+0
+1818
+909
+1363
+0˚ 90˚
+90˚ Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 108 103 99 95
+2 98 89 82 76
+3 89 78 70 63
+4 81 69 60 53
+5 75 62 52 46
+6 69 55 46 40
+7 64 50 41 35
+8 59 46 37 31
+9 56 42 34 28
+10 52 39 31 25
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angl e
+0˚ 45˚ 90˚
+45˚ 2,314 2,406 2,540
+55˚ 2,170 2,334 2,585
+65˚ 1,973 2,352 2,821
+75˚ 1,602 2,457 2,746
+85˚ 790 1,127 899
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1,406 N/A 26.1%
+0-40 2,300 N/A 42.7%
+0-60 4,100 N/A 76.1%
+0-90 5,383 N/A 99.9%
+0-180 5,390 N/A 100%
+Reference https://www.creelighting.com/products/indoor/troffers/zr-rk for detailed photometric data
+Open Space
+Spacing
+Initial 
+Delivered 
+Lumens
+Lumens Wattage LPW w/ft2 Average fc
+8 x 8
+30L 3,110 22 141 0.34 43
+40L 4,130 30 138 0.47 57
+50L 5,100 36 142 0.56 71
+60L 6,325 45 141 0.70 88
+80L 8,300 60 138 0.94 115
+8 x 10
+30L 3,110 22 141 0.28 36
+40L 4,130 30 138 0.38 48
+50L 5,100 36 142 0.45 59
+60L 6,325 45 141 0.56 73
+80L 8,300 60 138 0.75 96
+10 x 10
+30L 3,110 22 141 0.22 29
+40L 4,130 30 138 0.30 38
+50L 5,100 36 142 0.36 47
+60L 6,325 45 141 0.45 59
+80L 8,300 60 138 0.60 77
+10 x 12
+30L 3,110 22 141 0.18 23
+40L 4,130 30 138 0.25 31
+50L 5,100 36 142 0.30 38
+60L 6,325 45 141 0.38 47
+80L 8,300 60 138 0.50 62
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, open room. LLF: 1.0 Initial 
+Open Space: 50' x 40' x 10'
+Application Reference
+© 2024 Cree Lighting USA LLC. All rights reserved. For informational purposes only.
+Content is subject to change. Patent www.cree.com/patents. SmartCast® and the SmartCast logo are registered 
+trademarks, and ZRRK™ is a trademark of Cree Lighting USA LLC.Cree® and the Cree logo are registered trademarks of  
+SMART Global Holdings, Inc.  The UL logo is a registered trademark of UL LLC. NEMA® is a registered trademark of the 
+National Electrical Manufacturers Association. 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234

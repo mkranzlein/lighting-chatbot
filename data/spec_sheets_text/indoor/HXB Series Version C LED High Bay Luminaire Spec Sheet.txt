@@ -1,0 +1,209 @@
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Rev. Date: V6 07/29/2024
+HXB Series
+LED High-Bay Luminaire
+Product Description
+The HXB Series LED High-Bay luminaire delivers 70,000 lumens with illumination performance to 
+allow one-for-one replacement of 750W and 1000W HID luminaires. With exceptional rated lifetimes 
+and operating temperatures, the HXB deliveries industry-leading lumens per watt while reducing 
+maintenance in the toughest environments.
+Applications: Industrial, manufacturing, warehouse, retail, convention centers, and arenas
+Initial Delivered Lumens: 70,000
+Efficacy: Up to 144 LPW
+CRI: 70 or 80+
+CCT : 3500K, 4000K, or 5000K
+Mounting: Hook and cord or pendant
+Input Voltage: 120-277 VAC or 347-480 VAC (without step-down transformer)
+Dimming: 0-10V dimming to 10% (standard)
+Operating Temperature Range: -40˚C to +60˚C (-40˚F - +140˚F)
+Lumen Maintenance: L70 >/= 100,000 hours at +60˚C (140˚F)
+Limited Warranty†: 10 years for luminaire; up to 5 years for Synapse® accessories;  
+1 year for luminaire accessories
+Assembled in the USA by Cree Lighting from US and imported parts
+Performance Summary
+Ordering Information
+Example: HXB-C-UV-70L-M-35K-7-UL-SV
+Reflectors
+Single Pack
+HXB-GS30-OP: White Opaque Reflector
+HXB-GS30-WH: Clear Translucent Reflector
+Multi Packs
+HXB-GS30-OP-MP: White Opaque Reflector
+HXB-GS30-WH-MP: Clear Translucent Reflector
+- All reflectors are 30" (762mm) impact-resistant 
+   polycarbonate
+- Single pack SKUs ship as one reflector per box
+Note: Not recommended for use in gymnasium applications
+- Multi-pack SKUs require a minimum order of 4 pieces or 
+   more, and ship together in as few boxes as possible
+HXB C UV SV
+Family Series Mounting Lumen Package* Optic CCT CRI Voltage Finish
+HXB C UV
+Universal Mount: hook and cord 
+with 6ft cord, adaptor plate for 
+pendant
+70L
+70,000 lumens
+M
+Medium optic; 1.4SC
+35K
+3500K
+40K
+4000K
+50K
+5000K
+7
+70 CRI
+8
+80 CRI
+UL
+120-277V 
+UH
+347-480V
+SV
+Silver
+Field-Installed
+Anti-Spin Adaptor
+HXB-AS
+- Anti-spin accessory for hook and cord  
+mounting configuration
+Synapse® SimplySnap 10V Interface
+DIM10-220F
+- 120V-277V
+- Requires other Synapse components to complete system
+- Use to retro fit controls to existing HXB 10V projects
+- Refer to DIM10-220F spec sheet for details
+Shown w/Hook  
+70L Lumen Package 
+and White Opaque 
+Reflector Accessory 
+w/Uplight
+Accessories 
+† See https://www.creelighting.com/resources/warranties  for warranty terms. For Synapse accessories, consult Synapse spec sheets for 
+details on warranty terms.
+Field-Installed NEMA® Plugs
+AP-515P
+- 15 amp 120V Straight Blade Plug
+AP-L515P
+- 15 amp 120V Twist Lock Plug 
+AP-L615P
+- 15 amp 240V Twist Lock Plug
+AP-L715P
+- 15 amp 277V Twist Lock Plug 
+AP-L2420P
+- 20 amp 347V Twist Lock Plug
+AP-L820P
+- 20 amp 480V Twist Lock Plug
+18.3"
+(465mm)
+18.3"
+(465mm)
+“A”
+DIM “A” Weight
+26.1" (664mm) 60 lbs. (27.2kg)
+* Lumen Package codes identify approximate light output only. Actual lumen output levels vary depending on CCT and reflector/lens selection. Refer to Delivered Lumens & Electrical Data and Reflector Illumination Performance tables 
+   for specific lumen values© 2024 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. 
+Patent www.creelighting.com/patents. Cree® and the Cree Lighting logo are registered trademarks of SMART 
+Global Holdings, Inc. NEMA® is a registered trademark of the National Electrical Manufacturers Association. The UL 
+logo is a registered trademark of UL LLC. Synapse® is a registered trademark of Synapse Wireless, Inc. Verizon® is a 
+registered trademark of Verizon Trademark Services LLC. 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Product Specifications
+CONSTRUCTION & MATERIALS
+• Aluminum bonded zipper fin heatsink
+• IP65 rated optics
+• Mounting choices of pendant or hook and cord
+• Pendant mount has provision to accept ¾ IP pendant (by others)
+• Hook mount is provided with factory installed spring lock hook for  
+mounting and factory installed 6' (1.8m) 16/3 AWG white power cord
+• Factory calibrated to hang straight; alignment required for pendant 
+mount
+• Includes 39" (991mm) tether to secure luminaire to building structure
+• Not intended for use in environments containing airborne corrosive 
+agents such as chemical solvents, cleaners, or cutting fluids
+OPTICAL SYSTEM
+• Fresnel lenslet optics for medium (1.4SC) lighting  
+applications
+ELECTRICAL SYSTEM
+• Input Voltage: 120-277V or 347-480V 50/60Hz
+• Power Factor: > 0.9 at full load
+• Total Harmonic Distortion: < 20% at full load
+•  Transient Protection: ANSI C136.2 6kV/3kA surge protection, tested in 
+accordance with IEEE/ANSI C62.41.2
+• Designed with 0-10V dimming capabilities to 10%
+• 10V Source Current:  0.30mA
+• Operating Temperature Range: -40˚C - +60˚C (-40˚F - +140˚F)
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus Listed
+• Suitable for damp locations
+• Fittings used for mounting shall be suitable for the maximum weight to 
+be supported
+• Customer supplied J-boxes (outlet boxes) used for mounting shall be 
+listed and marked for the maximum weight to be supported
+• Requires minimum 90˚C supply conductors 
+• Designed for downlight applications only
+• Meets FCC Part 15, Subpart B, Class A limits for conducted and radiated 
+emissions
+•  RoHS compliant. Consult factory for additional details
+• Assembled in the USA by Cree Lighting from US and imported parts
+• Some configurations meet requirements of BAA and/or BABA. Consult 
+factory when needed for a project: www.creelighting.com/BAA-BABA
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+HXB Series LED High-Bay Luminaire
+Reflector Illumination Performance 
+Reflector % of Uplight Lumen Multiplier
+HXB-GS30-WH Clear Translucent 0.3% 0.96
+HXB-GS30-OP White Opaque 2.1% 0.96
+1  Lumen maintenance values at 25 °C (77 °F) are calculated per IES TM-21 based on IES LM-80 report data for the LED 
+package and in-situ luminaire testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen 
+maintenance factors. 
+2  In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are up to  
+6x the tested duration in the IES LM-80 report for the LED.
+3  Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+ * Data provided at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347-480V +/-10%. Actual production yield may vary between -10 and +10% of initial delivered lumens
+** Initial delivered lumen values based on luminaire without reflector. Refer to reflector Illumination Performance table for lumen multipliers when using reflector accessory
+HXB Series Ambient Adjusted Lumen Maintenance 1
+Ambient Initial 
+LMF
+25K hr 
+Reported2 
+LMF
+50K hr 
+Reported2  
+LMF
+75K hr 
+Estimated3 
+LMF
+100K hr 
+Estimated3 
+LMF
+25˚C (77˚F) 1.00 0.95 0.94 0.94 0.93
+30˚C (86˚F) 0.99 0.94 0.93 0.93 0.92
+35˚C  (95˚F) 0.98 0.93 0.92 0.92 0.91
+40˚C (104˚F) 0.97 0.92 0.91 0.91 0.90
+45˚C (113˚F) 0.96 0.91 0.90 0.90 0.89
+50˚C (122˚F) 0.95 0.90 0.89 0.89 0.88
+55˚C (135˚F) 0.94 0.89 0.89 0.88 0.87
+60˚C (140˚F) 0.93 0.88 0.88 0.87 0.86
+Delivered Lumens & Electrical Data*
+Lumen Package CCT
+Delivered Lumens** System Watts Efficacy 
+(LPW @ 70 CRI)
+Total Current (A)
+70 CRI 80 CRI 120-480V 120V 208V 240V 277V 347V 480V
+70L
+3500K 66,600 62,300 
+485
+137
+4.13 2.42 2.09 1.81 1.40 1.024000K 70,000 64,200 144
+5000K 70,000 66,200 144
+HXB-GS30-OP HXB-GS30-WH 
+Reflector Weights 
+Single Pack 10 lbs. (4.5kg)
+Multi Pack 35 lbs. (15.9kg)
+Reference http://lighting.cree.com/products/indoor/high-bay-low-bay/hxb-series for detailed photometric data. IES files 
+include reflector multipliers 
+Note: Not recommended for use in gymnasium applications

@@ -1,0 +1,822 @@
+Field-Installed
+SmartCast® Technology Configuration Tool
+CCT-CWC-1
+- One required per project when SC5 control 
+is selected
+SmartCast® Technology Face Plates
+CFP-1-WH
+- Matching face plate, 1-gang, white
+CFP-2-WH
+- Matching face plate, 2-gang, white
+SmartCast® 5-Button Wireless Scene Controller
+CSC-SC-A-5B-UNVN-WH (w/o text)
+CSC-SC-A-5S-UNVN-WH (w/scene text)
+CSC-SC-A-5X-UNVN-WH (w/custom text)
+SmartCast® Technology Wireless Dimmer
+CSC-CWD-UNVN-WH (neutral wire required)
+CSC-CWD-UNV-WH (no neutral required)
+SmartCast® Technology Wireless Switch
+CSC-CWS-UNVN-WH (neutral wire required)
+CSC-CWS-UNV-WH (no neutral required)
+SmartCast® Technology Wireless Plug Load Controller
+CPLC-JB-CWC
+SmartCast 10V Zone Controller  
+CSC-ZC-10V-CWC
+- Intelligent sensing and control of 0-10V luminaires
+Rev. Date: V13 10/01/2024
+Styllus Linear® Series
+Styllus Linear® LED Recessed Architectural Grade Luminaire 
+Product Description
+The Styllus Linear® Series is a full range linear architectural portfolio. Its sleek minimalistic design 
+provides clean uniform lines of light for any application such as: offices, healthcare, education and 
+interior design. Designed with Cree TrueWhite® Technology, the Styllus Linear® Series offers premium 
+color quality with a CRI > 90 and R9 > 65 ideal for optimally displaying objects like produce, fabric, and 
+artwork. With smooth full-range dimming down to 1%, the Styllus Linear® Series allows each space 
+with the appropriate light level needed for any activity. Available in up to 72 feet of continuous rows of 
+seamless light in two-foot increments. Being versatile for lighting design, it is configurable in straight 
+linear rows or geometric patterns, and compatible with Cree Lighting's SmartCast® Technology, Lutron 
+Vive, and Lutron EcoSystem controls systems. Specifiable in white, the Styllus Linear® Series is perfect 
+for any application.
+Applications: Recessed applications for new construction and upgrade
+Ordering Information
+Example: ST3-RC-02-L-30K-L-10V-D-WH
+Utilizes Cree TrueWhite® Technology (90 CRI)
+Initial Delivered Lumens: 400-1,150 lumens per foot
+Efficacy: Up to 119 LPW
+CRI: 90+ CRI Standard, Optional 80+ CRI
+R9: > 65 (90 CRI)
+CCT: 3000K, 3500K, 4000K
+Input Voltage: 120-277 VAC or 347 VAC
+L70 Lifetime: > 100,000 hours at 35˚C
+Limited Warranty†: 10 years for luminaire; 5 years for SmartCast® and Lutron controls; up to 5 years 
+for SmartCast® accessories
+Limited Warranty Emergency Back Up (EB) Battery and Generator Transfer Device: 1 Year. 
+Test regularly in accordance with local codes. Contains Self-Diagnostic Emergency Battery Back-up
+Dimensions with End Caps: H 3.5" (89mm) x W 3.0" (76mm) x  L up to 71.97' (21.94m)
+Weight: 2.2 LB/FT (1.0kg)
+Dimming: 0-10V dimming to 1%, DALI dimming to 5%, SmartCast® Technology dimming to 5%, Lutron 
+EcoSystem dimming to 1%, Lutron Vive dimming to 5%
+Assembled in the USA from US and imported parts
+† See https://www.creelighting.com/resources/warranties/ for warranty terms. For SmartCast accessories, consult SmartCast spec sheets for details on warranty terms.
+Performance Summary
+ST3 RC L WH
+Family Mounting Length Plan* Downlight 
+Output CRI CCT Voltage Downlight 
+Option Controls Ceiling 
+Type Finish Options
+ST3 
+Styllus 
+Linear® 3"
+RC 
+Recessed
+02 
+- 2' increments 
+   up to 72'
+Blank
+Linear
+Shapes
+- Not 
+available with 
+A, B, C, E or F 
+ceiling types
+S_
+Square
+R_X_
+Rectangle
+U_X_X_
+U Shape
+L_X_
+L Shape
+C_
+Custom
+L
+Low
+(90 CRI 400 
+Lumens/FT 
+& 80 CRI 510 
+Lumens/FT)
+M
+Medium
+(90 CRI 650 
+Lumens/FT 
+& 80 CRI 830 
+Lumens/FT)
+H
+High 
+(90 CRI 900 
+Lumens/FT & 
+80 CRI 1150 
+Lumens/FT)
+Blank
+90 CRI
+8
+80 CRI
+30K
+3000K
+35K
+3500K
+40K
+4000K 
+Blank
+120-277 
+Volt
+34
+347 Volt
+L
+Lambertian
+W
+Wall Wash/
+Asymmetric 
+Optic
+- Not available 
+with SmartCast 
+or Lutron Vive
+- Not available 
+with EB or GT
+10V
+0-10V dimming to 1%
+DAL
+DALI dimming to 5%
+- Not available with 2'lengths 
+or 347V
+SC5
+SmartCast Wireless control
+and integral sensors. 
+- Dimming to 5%
+- Not available in 2' lengths
+LDE1
+Lutron EcoSystem (Lutron 
+HiLume 1% EcoSystem LED 
+Driver with Soft-on, Fade to 
+Black Dimming Technology) 
+- Not available in 2' or 347v
+VDO
+Lutron Vive (5% Dimming)
+- Not available in 2', section 
+lengths
+- Not available for corners
+- Not available in 347V
+A
+1" T Bar
+B
+9/16" T Bar
+C
+Screw Slot 
+T Bar
+D
+Hard Ceiling, 
+Flangeless
+E
+1" Tegular
+F
+9/16" Tegular
+G
+Overlap 
+Flange
+WH 
+White
+EB  10W Emergency 
+Battery Backup**
+ - 120-277V only
+ - Standard 1EB/Run; for 
+additional emergency 
+units per run, consult 
+sales
+ - Illuminates first 4' of 
+fixture
+ - Not available in 2' 
+fixtures
+GT  Generator  
+Transfer Device**
+ - 120/277V only
+ - Not available in 2' 
+fixtures
+3.0"
+(76mm)
+3.5"
+(89mm)
+DIM “A”
+DIM “B”
+3.6"
+(91mm)
+* Refer to page 4 for Plan Diagram for Corners.
+** GT and EB cannot be used together.
+Accessories 
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Styllus Linear® LED Recessed Architectural Grade Luminaire 
+Product Specifications
+SMARTCAST® TECHNOLOGY
+SmartCast® Technology is the most intuitive and easiest to install intelligent light 
+solution on the market. SmartCast® Technology delivers up to 70% energy savings 
+at up to half the cost of other solutions. Luminaires combine best-in-class light with 
+onboard sensors and intelligence to deliver a better light experience. Extreme energy 
+productivity, code compliance and a better light experience without any extra design, 
+installation or setup work.
+CREE TRUEWHITE® TECHNOLOGY
+A revolutionary way to generate high-quality white light, Cree TrueWhite® Technology is 
+a patented approach that delivers an exclusive combination of 90+ CRI, beautiful light 
+characteristics, and lifelong color consistency, all while maintaining high luminous 
+efficacy – a true no compromise solution.
+CONSTRUCTION & MATERIALS
+• 6063 marine grade extruded aluminum housing
+• Matte acrylic lens
+• Bead suspended acrylic lens
+• Textured powder coat paint with a matte white finish
+• End caps are extruded aluminum and come installed on individually mounted 
+luminaires (2'-12')
+• One set of end caps is included to accommodate runs from 14'-72'
+• Continuous rows include quick connect wiring harnesses for ease of installation. 
+Alignment pins between luminaires create seamless appearance and straighter rows
+• Includes (2) 7/8" plugged holes for wiring access on each end of luminaire
+• Luminaires that mount on-grid include brackets for safety wires (by others)
+• Luminaires that mount off-grid include (2) 5/8" plugged holes for threaded support 
+rods (by others)
+• May also be recessed into walls in both vertical and horizontal orientations
+• Weight: 2.2 lbs./ft.; for GTD, add 0.50 lbs. each; for EB, add 2.8 lbs. each
+OPTICAL SYSTEM
+• Multiple lumen intensities to provide the correct level of illumination within each 
+space
+• High efficiency diffuser designed to minimize glare and provide uniform light 
+distribution
+ELECTRICAL SYSTEM
+• Power Factor: > 0.9 at full load
+• Input Power: Stays constant over life
+• Input Voltage: 120-277V or 347V, 50/60Hz
+• Operating Temperature Range: -20˚C - +35˚C (-4˚F - +95˚F); 
+minimum operating temperature with EB14 option is 0˚C (32˚F)
+• Total Harmonic Distortion: < 20% at full load
+10V DIMMING AND CONTROL
+• Continuous dimming to 1% with 0-10V DC control protocol
+• 10V Source Current: 0.60mA maximum up to 12'
+• Use only lighting controls with neutral connection or controls intended for use with 
+LED fixtures
+• Reference https://cree.widen.net/s/b6gdfgzrd9/0-10v-and-step-dimming-controls-
+spec-sheet-cr-flex-zr-troffers-ls-ur-styllus-ws-cdr-kbl 
+for recommended dimming controls and wiring diagrams
+• Luminaires with DALI, SmartCast and Lutron Vive dim to 5%. Lutron EcoSystem dims 
+to 1%
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus listed
+• Suitable for damp locations
+• Designed for indoor use only
+• Requires minimum 90˚C supply conductors
+• Type IC
+• Suitable for continuous row mounting
+• Not intended for use in environments containing airborne corrosive 
+agents such as chemical solvents, cleaners, or cutting fluids
+• UL924 (EB option). Maximum mounting height: 15.0' (4.6m)
+• RoHS compliant. Consult factory for additional details
+• Meets FCC Part 15, Subpart B, Class A limits for conducted and 
+radiated emissions
+• Assembled in the USA from US and imported parts
+• Meets the requirements for Buy American Act (BAA) because it qualifies as a 
+commercially-available off-the-shelf (COTS) item. Please refer to www.creelighting. 
+com/BAA-BABA
+• DLC Qualified when ordered in 6-12' lengths with 80 CRI and lambertian downlight 
+distribution. Please refer to https://qpl.designlights.org/solid-state-lighting for most 
+current information
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       www.p65warnings.ca.gov
+SmartCast® Technology
+INTEGRAL MOTION SENSOR
+• Passive infrared (PIR)
+• Coverage area: Please refer to the PIR motion sensor coverage table
+• Not intended to be mounted higher than 20 ft.
+• Operation:
+• Grouped with a wall control: Luminaire will operate in vacancy mode (manual-on/auto-off)
+• Not grouped with a wall control: Luminaire will operate in occupancy mode (auto-on/auto-
+off)
+• Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool 
+AMBIENT LIGHT SENSOR
+• Sensor response matches response of human eye
+• Not intended to be mounted higher than 20 ft. (6.1m)
+• Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+• Daylight harvesting calibration performed automatically during OneButton™ Setup
+INTEGRAL WIRELESS COMMUNICATION
+• 2.4GHz wireless mesh technology with AES 128-bit encryption
+• Self assigns to quietest channel during OneButton™ Setup
+• Range:
+• 30 ft. (9.1m) in typical commercial applications
+• 300 ft. (91.4m) open air without obstructions
+• Network: 250 devices max.
+• Space: 100 devices max. per group
+• FCC and IC certifications
+LUMINAIRE
+• Luminaires operate at full intensity until OneButton™ Setup is initiated by the Cree Lighting 
+Configuration Tool
+• Independent wireless control of direct and indirect lights  through  SmartCast wall dimmers and 
+SmartCast Touchscreen
+• 10-year power fail memory of settings
+• NOTE: SmartCast luminaires must be installed on unswitched AC power. Constant power is re-
+quired to maintain all luminaires on the SmartCast network. If wall control or manual dimming 
+is required, a SmartCast wall control dimmer must be used for manual on, off, and dimming.
+DEPLOYMENT
+• Please refer to the SmartCast® Deployment Guide at     
+https://cree.widen.net/s/mvxtfd2pcz/smartcastr-wireless-deployment-guide
+PIR Motion Sensor Coverage 
+H
+D
+Mounting Height - H 
+(Feet)
+Motion Sensor Coverage Diameter - D (Feet)
+Sensitivity - High (Default) Sensitivity - Medium Sensitivity - Low
+10 20 10 8
+12 26 14 12
+14 28 15 13
+20 38 Not Recommended Not Recommended
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Recessed Architectural Grade Luminaire 
+4.00 4.00
+ON-GRID MOUNTING
+4.00 4.00 4.00
+1" T-bar
+Flush Ceiling Tile
+9/16" T-bar
+Flush Ceiling Tile
+Screw Slot
+T-bar
+1" T-bar
+Tegular Tile
+9/16" T-bar
+Tegular Tile
+Initial Delivered Lumens (30K/35K/40K)
+Lumen Package
+Initial Delivered Lumens / Foot
+90 CRI 80 CRI
+L 400 510
+M 650 830
+H 900 1150
+Electrical Data*
+Length Lumen 
+Package
+System Watts Total Current (A)
+120-347V 120V 208V 240V 277V 347V
+2'
+L 11 0.09 0.05 0.05 0.04 0.03
+M 16 0.13 0.08 0.07 0.06 0.05
+H 22 0.18 0.10 0.09 0.08 0.06
+4'
+L 19 0.16 0.09 0.08 0.07 0.05
+M 30 0.25 0.14 0.12 0.11 0.09
+H 41 0.35 0.20 0.17 0.15 0.12
+6'
+L 27 0.23 0.13 0.11 0.10 0.08
+M 44 0.36 0.21 0.18 0.16 0.13
+H 60 0.51 0.29 0.25 0.22 0.17
+8'
+L 35 0.30 0.17 0.15 0.13 0.10
+M 57 0.48 0.27 0.24 0.21 0.16
+H 80 0.68 0.38 0.33 0.29 0.23
+10'
+L 44 0.36 0.21 0.18 0.16 0.13
+M 70 0.59 0.34 0.29 0.25 0.20
+H 102 0.86 0.49 0.42 0.37 0.29
+12'
+L 52 0.44 0.25 0.22 0.19 0.15
+M 87 0.72 0.42 0.36 0.31 0.25
+H 121 1.02 0.58 0.50 0.44 0.34
+*Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.  
+For electrical data for continuous runs to 72', please refer to the Initial Delivered Lumens & Electrical Data chart on pages 8 and 9.
+Styllus Linear® Series Ambient Adjusted Lumen Maintenance1
+Ambient Initial
+LMF
+25K hr
+Reported2
+LMF
+50K hr
+Estimated3
+LMF
+75K hr
+Estimated3
+LMF
+100K hr
+Estimated3
+LMF
+5˚C (41˚F) 1.03 1.00 0.95 0.91 0.87
+15˚C (59˚F) 1.01 0.98 0.93 0.89 0.85
+25˚C (77˚F) 1.00 0.97 0.92 0.88 0.84
+30˚C (86˚F) 0.99 0.96 0.91 0.87 0.83
+35˚C (95˚F) 0.99 0.96 0.91 0.87 0.83
+1 Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 
+report data for the LED package and in-situ luminaire testing. Luminaire ambient temperature 
+factors (LATF) have been applied to all lumen maintenance factors. 
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time 
+durations that are up to 6x the tested duration in the IES LM-80 report for the LED.
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration 
+of the LED.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Recessed Architectural Grade Luminaire 
+Plan Diagram for Corners
+S_ R_X_ U_X_X_ L_X_
+Square
+Provide "A" dimension
+Example: S8'
+Part Number: ST3-RC-32-S8-L-30K-L-10V-A-WH
+Rectangle
+Provide "AxB" dimension
+Example: R12'x8'
+Part Number: ST3-RC-40-R12X8-L-30K-L-10V-
+A-WH
+U-Shape
+Provide "AxBxC" dimension
+Example: U12'x8'x12'
+Part Number: ST3-RC-32-U12X8X12-
+L-30K-L-10V-A-WH
+L-Shape
+Provide "AxB" dimension
+Example: L16'x8'
+Part Number: ST3-RC-24-L16X8-L-30K-L-
+10V-A-WH
+NOTE: Corner units are 4' in length, 2' for each leg. 
+Actual dimensions for corner units are 24.75" for each leg.
+OFF-GRID MOUNTING
+4.25 3.37
+Hard Ceiling
+Flanegless
+Hard Ceiling
+Overlap Flange
+Dashed area is sheetrock 
+mud supplied by others.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Recessed Architectural Grade Luminaire 
+Photometry
+ST3-SD-04-H-30K-L-10V-04-A-WH BASED ON RESTL REPORT TEST #: PL13873-001A
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 109 104 100 96
+2 99 91 85 79
+3 91 80 72 66
+4 83 71 63 56
+5 77 64 55 49
+6 71 58 49 43
+7 66 52 44 38
+8 61 48 40 34
+9 57 44 36 30
+10 54 41 33 28
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 13,310 12,787 10,077
+55˚ 12,402 11,885 9,314
+65˚ 11,384 10,848 8,445
+75˚ 9,881 9,428 7,292
+85˚ 8,477 7,638 5,540
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1021.47 N/A 29.40%
+0-40 1638.56 N/A 47.20%
+0-60 2786.18 N/A 80.30%
+0-90 3468.05 N/A 99.90%
+0-180 3470.63 N/A 100.00%
+ST3-**-04-H-30K-L-****
+Initial Delivered Lumens: 3,471
+Reference https://www.creelighting.com/styllus-series/ for detailed photometric data.
+Open Space
+Linear ft* Lumen Package
+90 CRI 80 CRI
+Lumens/ft Average FC FC/Linear ft Lumens/ft Average FC FC/Linear ft
+120
+Low 400 23 0.19 510 29 0.24
+Medium 650 37 0.31 830 47 0.39
+High 900 51 0.43 1150 65 0.54
+100
+Low 400 19 0.19 510 24 0.24
+Medium 650 31 0.31 830 39 0.39
+High 900 43 0.43 1150 54 0.54
+80
+Low 400 15 0.19 510 19 0.24
+Medium 650 25 0.31 830 31 0.39
+High 900 34 0.43 1150 44 0.54
+64
+Low 400 12 0.19 510 15 0.24
+Medium 650 20 0.31 830 25 0.39
+High 900 27 0.43 1150 35 0.54
+Application Reference 
+Based on ST3-RC-04-H-30K-L-**** Luminaire
+10' ceiling: 80/50/20 reflectances; 2.5' workplane, 10' mounting height. LLF: 1.0 Initial.
+Open Space: 50' x 40' x 10'
+Fixture spacing should typically not exceed 1x the mounting height in an open space or .5x the mounting height from 
+a wall when it's the sole source of light.
+* Maximum run length is 72
+90˚ 0˚
+50˚
+70˚
+90˚
+363
+0
+1452
+726
+1089
+0˚ 20˚
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Application Reference 
+Based on ST3-RC-04-H-30K-W-**** Luminaire
+Photometry
+ST3-RC-04-H-30K-W-10V-A-WH BASED ON RESTL REPORT TEST #: PL15326-001B
+Luminaire photometry has been conducted in accordance with IES LM-79. IES LM-79 specifies the entire luminaire as the source resulting in a luminaire efficiency of 100%.
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 119 119 119 119
+1 110 105 101 98
+2 100 93 86 81
+3 92 82 74 68
+4 85 73 65 58
+5 78 66 57 51
+6 72 59 51 45
+7 67 54 46 40
+8 63 50 41 36
+9 59 46 38 32
+10 55 42 34 29
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+ Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 14,382 16,763 16,414
+55˚ 13,539 15,242 13,033
+65˚ 12,509 12,191 9,451
+75˚ 11,007 8,619 7,256
+85˚ 8,497 5,869 5,165
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 1141.97 N/A 31.70%
+0-40 1818.06 N/A 50.50%
+0-60 3001.82 N/A 83.40%
+0-90 3600.04 N/A 100.00%
+0-180 3600.04 N/A 100.00%
+ST3-**-04-H-30K-W-****
+Initial Delivered Lumens: 3,600
+Reference https://www.creelighting.com/styllus-series/ for detailed photometric data.
+Styllus Linear® LED Recessed Architectural Grade Luminaire 
+0˚ 90˚
+50˚
+70˚
+90˚
+405
+0
+1618
+809
+1214
+0˚ 20˚
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Recessed Architectural Grade Luminaire 
+Styllus Linear® Recessed Configuration Chart
+Length
+(feet)
+Units
+Aperture
+(inches)
+End Cap to End Cap
+(inches)
+End 
+Caps
+End Cap & 
+Hardware Kits2' 4' 6' 8' 10' 12'
+2 1 22.875 23.25 .5"
+4 1 46.875 47.25 .5"
+6 1 70.875 71.25 .5"
+8 1 94.875 95.25 .5"
+10 1 118.875 119.25 .5"
+12 1 142.875 143.25 .5"
+14 1 1 165.875 166.25 0.971" 1
+16 2 189.75 190.125 0.971" 1
+18 1 1 1 212.6875 213.0625 1.520" 1
+20 1 2 236.6875 237.0625 1.520" 1
+22 1 2 260.6875 261.0625 1.520" 1
+24 3 284.625 285 1.520" 1
+26 1 1 2 307.625 308 2.069" 1
+28 1 3 331.625 332 2.069" 1
+30 1 3 355.625 356 2.069" 1
+32 4 379.625 380 2.069" 1
+34 1 1 3 402.5 402.875 2.618" 1
+36 1 4 426.5 426.875 2.618" 1
+38 1 4 450.5 450.875 2.618" 1
+40 5 474.5 474.875 2.618" 1
+42 1 1 4 497.4375 497.8125 3.161" 1
+44 1 5 521.4375 521.8125 3.161" 1
+46 1 5 545.4375 545.8125 3.161" 1
+48 6 569.4375 569.8125 3.161" 1
+50 1 1 5 592.375 592.75 3.719" 1
+52 1 6 616.375 616.75 3.719" 1
+54 1 6 640.375 640.75 3.719" 1
+56 7 664.375 664.75 3.719" 1
+58 1 1 6 687.25 687.625 4.266" 1
+60 1 7 711.25 711.625 4.266" 1
+62 1 7 735.25 735.625 4.266" 1
+64 8 759.25 759.625 4.266" 1
+66 1 1 7 782.125 782.5 4.815" 1
+68 1 8 806.125 806.5 4.815" 1
+70 1 8 830.125 830.5 4.815" 1
+72 9 854.125 854.5 4.815" 1
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Recessed Architectural Grade Luminaire 
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens & Electrical Data*
+Length Lumen 
+Package
+System 
+Watts
+Initial  
+Delivered 
+Lumens** 
+Lambertian/
+Wall Wash 
+Distributions
+Total Current (A)
+120-347V 120V 208V 240V 277V 347V
+90 CRI 80 CRI
+2'
+L 11 800 1,020 0.09 0.05 0.05 0.04 0.03
+M 16 1,300 1,660 0.13 0.08 0.07 0.06 0.05
+H 22 1,800 2,300 0.18 0.10 0.09 0.08 0.06
+4'
+L 19 1,600 2,050 0.16 0.09 0.08 0.07 0.05
+M 30 2,600 3,330 0.25 0.14 0.12 0.11 0.09
+H 41 3,600 4,610 0.35 0.20 0.17 0.15 0.12
+6'
+L 27 2,400 3,070 0.23 0.13 0.11 0.10 0.08
+M 44 3,900 4,990 0.36 0.21 0.18 0.16 0.13
+H 60 5,400 6,900 0.51 0.29 0.25 0.22 0.17
+8'
+L 35 3,200 4,100 0.30 0.17 0.15 0.13 0.10
+M 57 5,200 6,650 0.48 0.27 0.24 0.21 0.16
+H 80 7,200 9,225 0.68 0.38 0.33 0.29 0.23
+10'
+L 44 4,000 5,125 0.36 0.21 0.18 0.16 0.13
+M 70 6,500 8,325 0.59 0.34 0.29 0.25 0.20
+H 102 9,000 11,525 0.86 0.49 0.42 0.37 0.29
+12'
+L 52 4,800 6,150 0.44 0.25 0.22 0.19 0.15
+M 87 7,800 9,975 0.72 0.42 0.36 0.31 0.25
+H 121 10,800 13,825 1.02 0.58 0.50 0.44 0.34
+14'
+L 62 5,600 7,170 0.52 0.30 0.26 0.23 0.18
+M 101 9,100 11,640 0.84 0.48 0.42 0.36 0.29
+H 140 12,600 16,125 1.18 0.67 0.58 0.51 0.40
+16'
+L 70 6,400 8,200 0.59 0.34 0.29 0.25 0.20
+M 114 10,400 13,300 0.95 0.55 0.47 0.41 0.32
+H 160 14,400 18,450 1.35 0.77 0.66 0.57 0.46
+18'
+L 81 7,200 9,220 0.68 0.39 0.34 0.29 0.23
+M 131 11,700 14,970 1.09 0.63 0.54 0.47 0.38
+H 181 16,200 20,735 1.53 0.87 0.76 0.65 0.52
+20'
+L 89 8,000 10,250 0.75 0.43 0.37 0.32 0.25
+M 144 13,000 16,630 1.20 0.69 0.60 0.52 0.41
+H 201 18,000 23,060 1.70 0.96 0.84 0.72 0.58
+22'
+L 97 8,800 11,270 0.82 0.47 0.41 0.35 0.28
+M 158 14,300 18,290 1.31 0.76 0.65 0.57 0.45
+H 220 19,800 25,350 1.86 1.06 0.92 0.79 0.63
+24'
+L 105 9,600 12,300 0.89 0.51 0.44 0.38 0.30
+M 171 15,600 19,950 1.43 0.82 0.71 0.62 0.48
+H 240 21,600 27,675 2.03 1.15 1.00 0.86 0.69
+26'
+L 116 10,400 13,320 0.97 0.56 0.49 0.42 0.33
+M 188 16,900 21,620 1.56 0.90 0.78 0.68 0.54
+H 261 23,400 29,960 2.20 1.25 1.09 0.94 0.75
+28'
+L 124 11,200 14,350 1.05 0.60 0.52 0.45 0.35
+M 201 18,200 23,280 1.67 0.96 0.83 0.72 0.57
+H 281 25,200 32,285 2.37 1.35 1.17 1.01 0.81
+Delivered Lumens & Electrical Data*
+Length Lumen 
+Package
+System 
+Watts
+Initial  
+Delivered 
+Lumens** 
+Lambertian/
+Wall Wash 
+Distributions
+Total Current (A)
+120-347V 120V 208V 240V 277V 347V
+90 CRI 80 CRI
+30'
+L 132 12,000 15,370 1.12 0.64 0.56 0.48 0.38
+M 215 19,500 24,940 1.79 1.03 0.89 0.77 0.61
+H 300 27,000 34,575 2.53 1.44 1.25 1.08 0.86
+32'
+L 140 12,800 16,400 1.19 0.68 0.59 0.51 0.40
+M 228 20,800 26,600 1.90 1.09 0.95 0.82 0.64
+H 320 28,800 36,900 2.70 1.53 1.33 1.15 0.92
+34'
+L 151 13,600 17,420 1.27 0.73 0.63 0.55 0.43
+M 245 22,100 28,270 2.04 1.17 1.02 0.88 0.70
+H 341 30,600 39,185 2.88 1.64 1.42 1.23 0.98
+36'
+L 159 14,400 18,450 1.34 0.77 0.67 0.58 0.45
+M 258 23,400 29,930 2.15 1.24 1.07 0.93 0.73
+H 361 32,400 41,510 3.05 1.73 1.50 1.30 1.04
+38'
+L 167 15,200 19,470 1.41 0.81 0.70 0.61 0.48
+M 272 24,700 31,590 2.26 1.30 1.13 0.98 0.77
+H 380 34,200 43,800 3.21 1.82 1.58 1.37 1.09
+40'
+L 175 16,000 20,500 1.48 0.85 0.74 0.64 0.50
+M 285 26,000 33,250 2.38 1.37 1.18 1.03 0.80
+H 400 36,000 46,125 3.38 1.91 1.66 1.44 1.15
+42'
+L 186 16,800 21,520 1.57 0.90 0.78 0.68 0.53
+M 302 27,300 34,920 2.51 1.45 1.25 1.09 0.86
+H 421 37,800 48,410 3.55 2.02 1.75 1.52 1.21
+44'
+L 194 17,600 22,550 1.64 0.94 0.81 0.70 0.55
+M 315 28,600 36,580 2.62 1.51 1.31 1.13 0.89
+H 441 39,600 50,735 3.72 2.11 1.83 1.59 1.27
+46'
+L 202 18,400 23,570 1.71 0.98 0.85 0.74 0.58
+M 329 29,900 38,240 2.74 1.57 1.36 1.18 0.93
+H 460 41,400 53,025 3.88 2.20 1.91 1.65 1.32
+48'
+L 210 19,200 24,600 1.78 1.02 0.88 0.76 0.60
+M 342 31,200 39,900 2.85 1.64 1.42 1.23 0.96
+H 480 43,200 55,350 4.05 2.30 1.99 1.72 1.38
+50'
+L 221 20,000 25,620 1.86 1.07 0.93 0.80 0.63
+M 359 32,500 41,570 2.99 1.72 1.49 1.29 1.02
+H 501 45,000 57,635 4.23 2.40 2.08 1.80 1.44
+52'
+L 229 20,800 26,650 1.94 1.11 0.96 0.83 0.65
+M 372 33,800 43,230 3.10 1.78 1.54 1.34 1.05
+H 521 46,800 59,960 4.40 2.49 2.16 1.87 1.50
+54'
+L 237 21,600 27,670 2.01 1.15 1.00 0.86 0.68
+M 386 35,100 44,890 3.21 1.85 1.60 1.39 1.09
+H 540 48,600 62,250 4.56 2.59 2.24 1.94 1.55
+56'
+L 245 22,400 28,700 2.08 1.19 1.03 0.89 0.70
+M 399 36,400 46,550 3.33 1.91 1.66 1.44 1.12
+H 560 50,400 64,575 4.73 2.68 2.32 2.01 1.61
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234Styllus Linear® LED Recessed Architectural Grade Luminaire 
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V or 347V +/- 10%.
+** Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens & Electrical Data*
+Length Lumen 
+Package
+System Watts
+Initial  
+Delivered Lumens** 
+Lambertian/Wall Wash 
+Distributions
+Total Current (A)
+120-347V 120V 208V 240V 277V 347V
+90 CRI 80 CRI
+58'
+L 256 23,200 29,720 2.16 1.24 1.07 0.93 0.73
+M 416 37,700 48,220 3.46 1.99 1.73 1.50 1.18
+H 581 52,200 66,860 4.90 2.78 2.41 2.09 1.67
+60'
+L 264 24,000 30,750 2.23 1.28 1.11 0.96 0.75
+M 429 39,000 49,880 3.57 2.06 1.78 1.54 1.21
+H 601 54,000 69,185 5.07 2.88 2.49 2.16 1.73
+62'
+L 272 24,800 31,770 2.30 1.32 1.14 0.99 0.78
+M 443 40,300 51,540 3.69 2.12 1.84 1.59 1.25
+H 620 55,800 71,475 5.23 2.97 2.57 2.23 1.78
+64'
+L 280 25,600 32,800 2.37 1.36 1.18 1.02 0.80
+M 456 41,600 53,200 3.80 2.18 1.89 1.64 1.28
+H 640 57,600 73,800 5.40 3.06 2.65 2.30 1.84
+66'
+L 291 26,400 33,820 2.46 1.41 1.22 1.06 0.83
+M 473 42,900 54,870 3.94 2.26 1.96 1.70 1.34
+H 661 59,400 76,085 5.58 3.17 2.75 2.38 1.90
+68'
+L 299 27,200 34,850 2.53 1.45 1.25 1.09 0.85
+M 486 44,200 56,530 4.05 2.33 2.02 1.75 1.37
+H 681 61,200 78,410 5.75 3.26 2.83 2.45 1.96
+70'
+L 307 28,000 35,870 2.60 1.49 1.29 1.12 0.88
+M 500 45,500 58,190 4.16 2.39 2.07 1.80 1.41
+H 700 63,000 80,700 5.91 3.35 2.91 2.52 2.01
+72'
+L 315 28,800 36,900 2.67 1.53 1.32 1.15 0.90
+M 513 46,800 59,850 4.28 2.46 2.13 1.85 1.44
+H 720 64,800 83,025 6.08 3.44 2.99 2.59 2.07
+© 2024 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to change. 
+Patent www.creelighting.com/patents. SmartCast®, Styllus Linear®, and the Styllus linear logo are registered 
+trademarks, and OneButton™ is a trademark of Cree Lighting USA LLC. TrueWhite®, Cree TrueWhite® and the Cree 
+TrueWhite Technology logo are registered trademarks of CREELED, Inc. Cree Lighting® and the Cree Lighting logo 
+are registered trademarks of CLNA Holdings LLC. The UL logo is a registered trademark of UL LLC. Lutron, the 
+Lutron logo, EcoSystem, the Lutron EcoSystem Enabled logo and Vive are trademarks or registered trademarks 
+of Lutron Electronics Co., Inc. The DLC QPL, DLC QPL Premium and the DLC LUNA Logos are the registered and 
+unregistered trademarks of Efficiency Forward, Inc.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234

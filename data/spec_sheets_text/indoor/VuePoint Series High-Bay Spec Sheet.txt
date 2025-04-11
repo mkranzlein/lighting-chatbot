@@ -1,0 +1,417 @@
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Rev. Date: V8 01/20/2025
+VuePoint® Series
+VuePoint LED Low-Bay/High-Bay Luminaire
+Product Description
+VuePoint High Bay Series challenges the status quo, letting you forget about squint-inducing raw 
+lumens, while preserving visual comfort and delivering category-leading performance. The VuePoint 
+delivers remarkable energy savings and performance through its highly efficient and standard diffused 
+optical assembly. With its clean, streamlined form factor and virtually maintenance free design the 
+VuePoint provides substantially better light across industrial, warehouse, retail, athletic, auditorium, 
+transportation and hangar environments in both new construction and retrofits. 
+Initial Delivered Lumens: 12,000 - 30,000 lumens
+Operating Temperature Range - Standard: 12-24L: -40˚C to 45˚C; 30L: -40˚C to 40˚C; w/EB1: 
+12L-24L: 10˚C to 40˚C; 30L: 10˚C to 35˚C
+Efficacy: Up to 170 LPW
+CRI: 80+
+CCT: 4000K, 5000K
+Input Voltage: 120-277 VAC 
+L70 Lifetime: > 100,000 hours at maximum operating temperature
+Limited Warranty†: 1 year for luminaire and accessories
+Universal Mounting: Hook & Cord or Pendant Mount 
+Weight: Maximum 14 lbs. (6.4kg)
+Controls: 0-10V dimming to 10% or Programmable Multi-level
+Performance Summary
+Ordering Information
+Example: VUE-A-UV-24L-40K8-M-UL-10V
+VUE A UV
+Family Series Mounting Lumen Package* CCT/CRI Distribution Voltage Controls Cord Options
+VUE A UV
+Universal 
+Mount
+12L
+12,000 Lumens
+18L
+18,000 Lumens
+24L
+24,000 Lumens
+30L
+30,000 Lumens
+40K8
+4000K, 80 CRI
+50K8
+5000K, 80 CRI
+M
+Medium
+UL
+Universal
+120-277V
+10V 
+0-10V Dimming
+PML 
+Programmable 
+Multi-Level
+- Refer to PML spec sheet for 
+details
+- Sensor lens covers mounting 
+heights up to 40' (12.2m). 
+Detects walking to 30' (9.1m)
+and fork lifts to 40' (12.2 m)
+Blank (standard)
+6' Cord
+5C
+5-Conductor Cord
+EB1 Emergency
+(9W/90 min.)
+- Reduced operating 
+temperature
+† As of 1/20/2025, this is a clearance product and has a 1-year limited warranty. See https://www.creelighting.com/resources/warranties/ for 
+warranty terms
+Shown with Optional 
+Polycarbonate Reflector 
+Accessory
+Standard Diffuse 
+Refractor
+A
+B
+Luminaire Dim "A" Dim "B"
+VUE 12L-24L 11.5" (292mm) Ø 13.8" (349mm)
+VUE 30L 11.5" (292mm) Ø 15.8" (400mm)
+Refer to page 4 for dimensions with PML control and 
+polycarbonate reflector accessories.
+* Lumen Package codes identify approximate light output only. Actual lumen output levels vary depending on CCT and reflector selection. Refer to Delivered Lumens table for specific lumen values.Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+Product Specifications
+CONSTRUCTION & MATERIALS
+• Impact resis
+tant polycarbonate and aluminum housing
+• Die cas
+t aluminum heatsink
+• Low-pr
+ofile, lightweight design provides ease of installation
+• UV mount is pro
+vided with factory threaded cast hook for  
+mounting, factory installed 6' (1.8m) 18/3 SJT white power cord and 
+accepts a 1/2" IPS pendant (by others)
+• Optional 6' (1.8m) 18/5 SEOW/S
+TOW white power cord available (5C 
+option)
+• EB1 includes 6' (1.8m) 16/4 SEOW/S
+TOW white power cord
+• Fact
+ory calibrated to hang straight
+• Designed for do
+wnlight applications only
+• Weight:
+ Maximum 14 lbs. (6.4kg)
+OPTICAL SYSTEM
+• Standar
+d impact resistant polycarbonate diffused refractor
+• Pol
+ycarbonate reflector: 12-24L - Ø 18.9" (479mm) x H 5.6” (142mm);  
+30L - Ø 22.4” (570mm) x H 7.1” (180mm)
+• LED sy
+stem delivers proper uniformity & spacing
+• IP6X optical as
+sembly sealed to protect LEDs and keep dust out
+ELECTRICAL SYSTEM
+• Integr
+al, high-efficiency driver
+• Input Volt
+age: 120-277V, 50/60Hz
+• Po
+wer Factor: > 0.9 at full load
+• Tot
+al Harmonic Distortion: < 20% at full load
+• Operating T
+emperature Range: 
+• 
+• 
+• 
+• 
+• 
+• Tr
+ansient Protection: 6kV/3kA tested in accordance to IEEE/ANSI
+• When code dict
+ates fusing, a slow blow fuse or type C/D breaker should 
+be used to address inrush current
+0-10V DIMMING
+• Continuous 0-10V dimming to 10% with dim t
+o off at <0.5V control voltage 
+• 10V Sourc
+e Current: 0.10mA
+• Use only lighting c
+ontrols with neutral connection or controls intended 
+for use with LED fixtures
+• Ref
+erence dimming document for additional information 
+PROGRAMMABLE MULTI-LEVEL OPTION
+• High/lo
+w/off photo/motion sensor
+• Cov
+ers mounting heights up to 40' (12.2m). Detects walking to 30' (9.1m) 
+and fork lifts to 40' (12.2 m)
+• Ref
+er to PML spec sheet for details on sensor functionality, operation 
+and lumen and power multipliers
+REGULATORY & VOLUNTARY QUALIFICATIONS
+• cULus List
+ed (UL1598; UL8750) 
+• Suitabl
+e for damp locations
+• Designed for indoor use onl
+y
+• Requir
+es minimum 90˚C supply conductors
+• Not intended f
+or use in environments containing airborne corrosive 
+agents such as chemical solvents, cleaners, or cutting fluids
+• IP6X optical as
+sembly
+• UL924 (EB1 option). Maximum mounting height: 20.5' (6.2m) with 
+s
+tandard diffuse refractor and 25.7' (7.8m) w/polycarbonate reflector 
+accessory
+• DLC qualified with s
+tandard polycarbonate diffuse refractor, and DLC 
+premium qualified when ordered with polycarbonate reflector accessory. 
+Refer to https://qpl.designlights.org/solid-state-lighting for most current 
+information
+• Meets F
+CC Part 15, Subpart B, Class A limits for conducted and radiated 
+emissions
+• Lens assembl
+y meets IK10 requirements per IEC 60068-2
+• RoHS c
+ompliant. Consult factory for additional details
+•        CA RESIDENTS WARNING: Cancer and Reproductive Harm –  
+       
+www.p65warnings.ca.gov
+VuePoint® Series LED Low-Bay/High-Bay Luminaire
+1 Lumen maintenance values at 25˚C (77˚F) are calculated per IES TM-21 based on IES LM-80 report data for the LED 
+package and in-situ luminaire testing. Luminaire ambient temperature factors (LATF) have been applied to all lumen 
+maintenance factors.  
+2 In accordance with IES TM-21, Reported values represent interpolated values based on time durations that are up to 6x 
+the tested duration in the IES LM-80 report for the LED. 
+3 Estimated values are calculated and represent time durations that exceed the 6x test duration of the LED.
+Note: 30L is are rated up to 40˚C, 30L w/EB1 is rated up to 35˚C.
+Electrical Data*
+Lumen 
+Package
+System Watts 
+120-277V
+Total Current (A)
+120V 208V 240V 277V
+12L 79 0.67 0.38 0.33 0.28
+18L 114 0.96 0.55 0.48 0.41
+24L 151 1.28 0.73 0.63 0.54
+30L 188 1.61 0.91 0.78 0.68
+VuePoint Series Ambient Adjusted Lumen Maintenance1
+Ambient Initial 
+LMF
+25K hr
+Reported2
+LMF
+50K hr 
+Reported2 
+LMF
+75K hr 
+Estimated3 
+LMF
+100K hr 
+Estimated3 
+LMF
+25˚C (77˚F) 1.00 0.94 0.88 0.83 0.78
+30˚C (86˚F) 0.99 0.93 0.87 0.82 0.77
+35˚C (95˚F) 0.98 0.92 0.86 0.81 0.76
+40˚C (104˚F) 0.97 0.91 0.85 0.80 0.75
+45˚C (113˚F) 0.96 0.90 0.84 0.78 0.73
+* Electrical data at 25˚C (77˚F). Actual wattage may differ by +/- 10% when operating between 120-277V +/- 10%.
+Delivered Emergency Lumens
+Luminaire Lumen Package
+4000K/5000K
+Approximate Delivered Emergency Lumens
+VuePoint w/Standard 
+Diffuse Refractor
+12L  1,450 
+18L  1,460 
+24L  1,530 
+30L  1,510 
+VuePoint w/Optional 
+Polycarbonate Reflector 
+Accessory 
+VPCR1 (12L-24L) 
+VPCR2 (30L)
+12L  1,410 
+18L  1,420 
+24L  1,480 
+30L  1,470 
+Uplight Illumination Performance 
+Luminaire % Uplight
+Standard Luminaire w/Diffuse Refractor 6.3%
+VPCR1/VPCR2 (Clear Polycarbonate) Reflector 6%
+Lumen Package Standard Luminaire Luminaire w/EB1 Option
+12L-24L -40˚C to 45˚C (-40˚F to +113˚F) 10˚C to 40˚C (50˚F to +104˚F)
+30L -40˚C to 40˚C (-40˚F to +104˚F) 10˚C to 35˚C (50˚F to +95˚F)
+* Initial delivered lumens at 25˚C (77˚F). Actual production yield may vary between -10 and +10% of initial delivered lumens.
+Delivered Lumens
+Luminaire Lumen 
+Package
+4000K/5000K
+Initial Delivered Lumens* Efficacy 
+(LPW)
+VuePoint w/Standard Diffuse 
+Refractor
+12L  12,725  161
+18L  18,500  162 
+24L  25,600  170 
+30L  31,600  168 
+VuePoint w/Optional Polycarbonate 
+Reflector Accessory 
+VPCR1 (12L-24L) 
+VPCR2 (30L)
+12L  12,350  156
+18L  18,000  158 
+24L  24,800  164 
+30L  30,700  163 Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+VuePoint® Series LED Low-Bay/High-Bay Luminaire
+Polycarbonate Reflectors
+VPCR1
+- For use with 12-24L lumen packages (18.9" [479mm] bottom diameter)
+VPCR2
+- For use with 30L lumen packages (22.4" [570mm] bottom diameter)
+Wireguards - not compatible with reflectors
+VUE-WG1
+- For use with 12-24L lumen packages
+VUE-WG2 
+- For use with 30L lumen pack
+ages
+Galvanized Safety Cables
+SC-5 (Single Cable)
+- 5.0' (1.5m) Cable 
+SC-10 (Single Cable)
+- 10.0' (3.0m) Cable
+Hand-Held Remote
+XA-SENSREM
+- For successful implementation of the programmable multi-level option, a minimum of one hand-held remote is required
+Accessories 
+Photometry
+All published luminaire photometric testing performed to IES LM-79 standards. To obtain an IES file specific to your project consult: https://www.creelighting.com/
+products/indoor/high-bay-low-bay/vuepoint-series/
+RESTL Test Report #: PL16574-001A
+VUE-A-UV-35L-40K8-M-UL-10V
+Initial Delivered Lumens: 37,061
+2900
+5799
+8699
+11599
+120˚120˚
+90˚ 90˚
+60˚60˚
+30˚
+150˚ 150˚
+30˚
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 118 118 118 118
+1 106 100 96 91
+2 96 87 80 73
+3 87 76 67 61
+4 80 67 58 51
+5 73 60 51 44
+6 67 54 45 38
+7 63 49 40 34
+8 58 44 36 30
+9 54 41 32 27
+10 51 38 30 24
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m2)
+Vertical Angle
+Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 109,013 109,273 109,339
+55˚ 97,408 97,597 97,561
+65˚ 85,336 85,467 85,520
+75˚ 70,069 70,351 70,168
+85˚ 52,882 52,046 51,513
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 8,879 N/A 24.0%
+0-40 14,435 N/A 38.9%
+0-60 25,494 N/A 68.8%
+0-90 34,674 N/A 93.6%
+0-180 37,060 N/A 100%
+VuePoint w/Standard Diffuse Refractor© 2025 Cree Lighting USA LLC. All rights reserved. For informational purposes only. Content is subject to 
+change. Patent www.creelighting.com/patents. VuePoint® is a registered trademark of Cree Lighting USA LLC. 
+Cree Lighting® and the Cree Lighting logo are registered trademarks of CLNA Holdings LLC. The UL logo is a 
+registered trademark of UL LLC. The DLC QPL, DLC QPL Premium and the DLC LUNA Logos are the registered and 
+unregistered trademarks of Efficiency Forward, Inc.
+Website: creelighting.com
+US: (800) 236-6800  Canada: (800) 473-1234
+VuePoint® Series LED Low-Bay/High-Bay Luminaire
+VuePoint shown with Polycarbonate Reflector Accessory VuePoint shown with PML Control and Polycarbonate Reflector Accessory
+A
+A
+B C
+B
+Lumen Package Dim "A" Dim "B"
+12L-24L 5.6" (142mm) Ø 18.9" (479mm)
+30L 7.1" (180mm) Ø 22.4" (570mm)
+Lumen Package Dim "A" Dim "B" Dim "C"
+12L-24L 15.4" (391mm) Ø 18.9" (479mm) 22.3" (565mm)
+30L 16.4" (416mm) Ø 22.4" (570mm) 25.6" (651mm)
+Photometry
+All published luminaire photometric testing performed to IES LM-79 standards. To obtain an IES file specific to your project consult: https://www.creelighting.com/
+products/indoor/high-bay-low-bay/vuepoint-series/
+Configured from BACL Test Report #: 
+R2DG201218050-10
+VUE-A-UV-35L-40K8-M-UL-10V 
+w_VUECR2
+Initial Delivered Lumens: 35,000
+3958
+7915
+11873
+15830
+120˚120˚
+90˚ 90˚
+60˚60˚
+30˚
+150˚ 150˚
+30˚
+Coefficients Of Utilization –  
+Zonal Cavity Method
+RC %: 80
+RW %: 70 50 30 10
+RCR: 0 124 124 124 124
+1 114 109 105 101
+2 104 96 89 84
+3 96 86 78 71
+4 89 77 68 61
+5 82 69 60 54
+6 76 63 54 48
+7 71 57 49 43
+8 66 53 44 38
+9 62 49 40 35
+10 58 45 37 32
+Effective Floor Cavity Reflectance: 20%
+Average Luminance Table (cd/m 2)
+Vertical Angle
+Horizontal Angle
+0˚ 45˚ 90˚
+45˚ 6,994 7,007 7,223
+55˚ 3,869 3,957 4,075
+65˚ 2,087 2,255 2,367
+75˚ 1,303 1,438 1,532
+85˚ 854 874 929
+Zonal Lumen Summary
+Zone Lumens % Lamp Luminaire
+0-30 11,284 N/A 32.2%
+0-40 17,681 N/A 50.5%
+0-60 27,236 N/A 77.8%
+0-90 32,919 N/A 94.1%
+0-180 35,000 N/A 100%
+VuePoint w/Polycarbonate Reflector Accessory
